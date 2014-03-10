@@ -1,28 +1,28 @@
-== About ==
+## About
 
-If we can, some mailing list junkies including Tom Ritter, Trevor Perrin, and other folks at [messaging]() are going to try and run a usability study of different authentication mechanisms.
+If we can, some mailing list junkies including Tom Ritter, Trevor Perrin, and other folks at [messaging](http://moderncrypto.org/) are going to try and run a usability study of different authentication mechanisms.
 
-== Overall Goal ==
+## Overall Goal
 
 We have a bajillion things we'd like to run a usability study on, but to start somewhere and not overextend ourselves, let's focus on a single scenario: comparing 'fingerprints' of public keys, with three variables:
  - fingerprint type (hexadecimal digits, base64, etc)
  - comparison mechanism (business card, read aloud, another screen) 
  - error rates of the fingerprints (perfect match, one subtle flaw, one computationally determined flaw)
 
-== Fingerprint Types ==
+## Fingerprint Types
 
 We suggest the following types of fingerprint types.  There are certainly more, but the more we try to test the bigger we're making it.
 
-1) Hexadecimal digits ala PGP fingerprints: 8ACD 146E A94C EB12 E4EA  6915 66A1 0918 9B79 658F
-2) Pseudowords
-3) English Words
+ 1. Hexadecimal digits ala PGP fingerprints: 8ACD 146E A94C EB12 E4EA  6915 66A1 0918 9B79 658F
+ 2. Pseudowords
+ 3. English Words
 
-== Comparison Mechanisms ==
+## Comparison Mechanisms
 
 We suggest the following types of comparison mechanisms:
 
-1) Business Cards
-2) Spoken Aloud Over a Cell Phone
+ 1. Business Cards
+ 2. Spoken Aloud Over a Cell Phone
 
 We believe the error rate of speaking aloud over a cell phone will be at least as great, if not greater, than spoken aloud in the same room.  Accordingly, we think we can cut that out.  
 
@@ -30,7 +30,7 @@ Similarly, comparing two fingerprints on two screens is either done with two peo
 
 In the future, other comparison mechanisms can be added. For now, let's try to avoid adding too many dimensions to the matrix.
 
-== Approaches ==
+## Approaches
 
 Not knowing much about usability studies, I can see two approaches we could take.  
 
@@ -44,11 +44,11 @@ It seems that the Head Fake approach is more likely to produce real world result
 
 I have no idea if such a trade off is an accurate representation of the real world.
 
-== Modulating Speed ==
+## Modulating Speed
 
 To ensure that the fingerprint is spoken aloud at the same speed, every time, we will show the fingerprint, one token at a time (one hex digit or one word), in a video. The speaker cannot move faster than the length of the frame as they won't know the next token.  (They may memorize it, but regardless the frame will keep them to the same time.) 
 
-== Error Rates ==
+## Error Rates
 
 We suggest the following error rates:
 
@@ -60,10 +60,10 @@ To create the computationally chosen flaw, we will take a target fingerprint and
 
 I suspect that the computationally chosen flaw would have vastly different success rates in the 'Head Fake' approach than the Time-Gated approach.
 
-== Test Matrix ==
+## Test Matrix
 
-  3 Fingerprint Types
-  2 Comparison Mechanisms
-x 3 Error Rates
----
- 18 Test Cases / Subject
+      3 Fingerprint Types
+      2 Comparison Mechanisms
+    x 3 Error Rates
+    ---
+     18 Test Cases / Subject
