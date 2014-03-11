@@ -1,6 +1,6 @@
 ## About
 
-If we can, some mailing list junkies including Tom Ritter, Trevor Perrin, and other folks at [messaging](http://moderncrypto.org/) are going to try and run a usability study of different authentication mechanisms.
+If we can, some mailing list junkies including Tom Ritter, Trevor Perrin, Christine Corbett and other folks at [messaging](http://moderncrypto.org/) are going to try and run a usability study of different authentication mechanisms.
 
 ## Overall Goal
 
