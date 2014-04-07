@@ -17,7 +17,7 @@ We suggest the following types of fingerprint types.  There are certainly more, 
  2. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
  3. English Words (For example: bridge - late - sister - plane - brush - error - cup - soup - organization - great - quality - offer - dead)
  4. English poems (See [example implementation](https://github.com/akwizgran/basic-english) and [example comparison](https://moderncrypto.org/mail-archive/messaging/2014/000125.html)
- 5. Visual Fingerprints (Probably [unicorns](http://unicornify.appspot.com/making-of), but [other](https://sparrow.ece.cmu.edu/group/pub/old-pubs/validation.pdf) [possibilities exist](https://moderncrypto.org/mail-archive/messaging/2014/000089.html))
+ 5. Visual Fingerprints (Using OpenSSH's [visual host keys](http://www.kcbug.org/?p=18))
 
 ## Comparison Mechanisms
 
@@ -34,11 +34,11 @@ In the future, other comparison mechanisms can be added. For now, let's try to a
 
 ## Approaches
 
-When comparing between a business card and a screen, the subject will have a specified number of seconds to complete the comparison and give an answer. In this approach, the subject knows (or it is otherwise obvious to them) that we are testing how well they can compare the fingerprint. We will try to figure out an appropriate amount of time to give them by performing some preliminary testing.
+When comparing between a business card and a screen, the subject will have a specified number of seconds to complete the comparison and give an answer. In this approach, the subject knows (or it is otherwise obvious to them) that we are testing how well they can compare the fingerprint. 
 
-When comparing aloud between two participants, we will give them as much time as they wish, but it will be between two participants and we will otherwise not interfere.  One will have a fingerprint on a business card, the other will have a fingerprint on a screen. They will talk to each other over cell phones, and the one with a screen will give us an answer when they are satisfied they have made a dtermination.
+When comparing aloud between two participants it will be between two participants and we will otherwise not interfere except to impose a time limit. One will have a fingerprint on a business card, the other will have a fingerprint on a screen. They will talk to each other over cell phones, and the one with a screen will give us an answer when they are satisfied they have made a dtermination.  We will try to figure out an appropriate amount of time to give them by performing some preliminary testing.
 
-When comparing between two participants on the phone the tester will measure, in addition to a correct or incorrect determination, how many times the participants asks the other to repeat the last token, slow down, or otherwise change how they're reciting it.
+When comparing between two participants on the phone the tester will measure, in addition to a correct or incorrect determination, how many times the participants asks the other to repeat the last token, slow down, or otherwise change how they're reciting it.  They will also stop the clock when the participants make a determination prior to the time limit expiring.
 
 ## Error Rates
 
@@ -49,7 +49,7 @@ We suggest the following error rates:
 
 To create the computationally chosen flaw, we will take a target fingerprint and 'cheat' to form a fingerprint that has approximately 2^80 computational match.  For each type this will be done slightly differently.
 
- - Hexadecimal Digits - have the middle N characters different
+ - Hexadecimal Digits - have N characters different. I'm proposing 25% chance it's the middle N characters, 75% chance it's entirely random 
  - Pseudowords, English Words, Poems - Match the outer words, but have the inner words have a low but non-zero hamming distance (ideally taking into account pronunciation)
  - Unicorns - Match the color, position, and size of the unicorn within an epsilon estimated to be 2^80
 
