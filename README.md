@@ -47,11 +47,11 @@ We suggest the following error rates:
  - Perfect Match (the fingerprints are perfect match)
  - One computationally chosen flaw of 2^80 complexity
 
-To create the computationally chosen flaw, we will take a target fingerprint and 'cheat' to form a fingerprint that has approximately 2^80 computational match.  For each type this will be done slightly differently.
+To create the computationally chosen flaw, we will take a target fingerprint and 'cheat' to form a fingerprint that has approximately 2^80 computational match.  For each type this will be done slightly differently, but in the general case, I'm proposing 25% chance the imposter matches to a @^80 factor by an attribute deemed subjectively 'most likely to be noticed quickly by skimming', and a 75% chance it's entirely random.
 
- - Hexadecimal Digits - have N characters different. I'm proposing 25% chance it's the middle N characters, 75% chance it's entirely random 
- - Pseudowords, English Words, Poems - Match the outer words, but have the inner words have a low but non-zero hamming distance (ideally taking into account pronunciation)
- - Unicorns - Match the color, position, and size of the unicorn within an epsilon estimated to be 2^80
+ - Hexadecimal Digits - have N characters different, with the most skimmable attribute being the outer characters.
+ - Pseudowords, English Words, Poems - The most skimmable attribute is matching the outer words, but having the inner words have a low but non-zero hamming distance (ideally taking into account pronunciation)
+ - Visual Fingerprint - The most skimmable attribute is matching the position of characters, but ignoring the type
 
 ## Test Matrix
 
