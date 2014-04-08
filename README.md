@@ -24,13 +24,13 @@ We suggest the following types of fingerprint types.  There are certainly more, 
 We suggest the following types of comparison mechanisms:
 
  1. Business Cards
- 2. Spoken Aloud, between two participants, over a Cell Phone
+ 2. Spoken Aloud, between two participants, over a Cell Phone or Landline
 
-While it's more common to have the two people in the same room, we believe the error rate of speaking aloud over a cell phone will be at least as great, if not greater, than spoken aloud in the same room, so we can just do it over the cell phone and not have them in the same room.
+While it's more common to have the two people in the same room, we believe the error rate of speaking aloud over a phone will be at least as great, if not greater, than spoken aloud in the same room, so we can just do it over the phone and not have them in the same room.  However, should it be a cell phone or a landline? If it's a cell phone, the error rate will be greater and potentially a harsher test (this being desirable) - but will the cell phone reception variability introduce unacceptable variables?
 
 Similarly, comparing two fingerprints on two screens is either done with two people or not. If it's done with two people, it can be reduced to spoken aloud.  If it's between two of your own devices, we propose that most of this time it's _not_ between two laptops or full-screen monitors, but rather between a phone and a screen.  This is very similar to the business card scenario.  
 
-In the future, other comparison mechanisms can be added. For now, let's try to avoid adding too many dimensions to the matrix.
+In the future, other comparison mechanisms can be added, such as having participants write the fingerprint in their own handwriting. For now, let's try to avoid adding too many dimensions to the matrix.
 
 ## Approaches
 
@@ -38,7 +38,7 @@ When comparing between a business card and a screen, the subject will have a spe
 
 When comparing aloud between two participants it will be between two participants and we will otherwise not interfere except to impose a time limit. One will have a fingerprint on a business card, the other will have a fingerprint on a screen. They will talk to each other over cell phones, and the one with a screen will give us an answer when they are satisfied they have made a dtermination.  We will try to figure out an appropriate amount of time to give them by performing some preliminary testing.
 
-When comparing between two participants on the phone the tester will measure, in addition to a correct or incorrect determination, how many times the participants asks the other to repeat the last token, slow down, or otherwise change how they're reciting it.  They will also stop the clock when the participants make a determination prior to the time limit expiring.
+When comparing between two participants on the phone the tester will measure, in addition to a correct or incorrect determination, how long the participants make a determination prior to the time limit expiring.
 
 ## Error Rates
 
