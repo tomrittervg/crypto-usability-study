@@ -73,7 +73,7 @@ def genData():
     middle_difference = list(base    )
     for i in range(10,22):
         middle_difference[i] = hex(ord(os.urandom(1)) % 16)[2:].upper()
-    r.append("".join(middle_difference))
+    #r.append("".join(middle_difference))
     
     #Now the tricky part. We assume an attacker who can do 2^80
     # Have N unmatched-but-phonetically-similar letters, where N
@@ -93,7 +93,7 @@ def genData():
         else:
             char = hex(ord(os.urandom(1)) % 16)[2:].upper()
         phonetic_difference[i] = char
-    r.append("".join(phonetic_difference))
+    #r.append("".join(phonetic_difference))
     
     return r
 
