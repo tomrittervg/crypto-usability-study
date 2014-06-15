@@ -55,12 +55,20 @@ close (ART);
 sub my_rand {
 	my $range = $_[0] + 1;
 	$bits -= log ($range) / log (2);
-	return rand ($range);
+	return int (rand ($range));
+}
+
+sub branch {
+	if ($bits <= 0) {
+		return 0;
+	}
+	$bits--;
+	return int (rand (2));
 }
 
 sub noun_phrase {
 	print "$art[my_rand($#art)] ";
-	if (my_rand (1) < 1) {
+	if (branch()) {
 		print "$adj[my_rand($#adj)] ";
 	}
 	print "$n[my_rand($#n)] ";
@@ -68,17 +76,16 @@ sub noun_phrase {
 
 sub sentence {
 	noun_phrase();
-	if (my_rand (1) < 1) {
-		print "$v_i[my_rand($#v_i)] ";
-	}
-	else {
+	if (branch()) {
 		print "$v_t[my_rand($#v_t)] ";
 		noun_phrase();
+	} else {
+		print "$v_i[my_rand($#v_i)] ";
 	}
-	if (my_rand (1) < 1) {
+	if (branch()) {
 		print "$adv[my_rand($#adv)] ";
 	}
-	if (my_rand (1) < 1) {
+	if (branch()) {
 		print "$p[my_rand($#p)] ";
 		noun_phrase();
 	}
