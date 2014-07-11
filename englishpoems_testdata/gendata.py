@@ -60,13 +60,19 @@ def genData():
     base = re.split(' |\n', getPoem())
     fingerprints.append(reconstruct_to_poem(base))
 
-    #Now we want to simulate an adversary that can perform a 2^80 attack.  
+    #Now we want to simulate an adversary that can perform a 2^80 attack. 
+    #   This is not perfectly accurate, as the structure of the poem in fact 
+    #   encodes some bits (Between 17 and 23 usually).
+    #   So we're going to round that to 20, and assume the attacker 'spends' 20 
+    #   of his bits achieving the same grammatical structure.  Again, not perfectly 
+    #   accurate, but hpefully it won't be too far off.
     randomly_changed = base
     types = disassemble_type(base)
-    bits = 128 #Start at 128 bits
+    bits = 0 #Start at 0 bits
     places_we_flipped = []
 
-    while bits > 80:
+    while bits < (128-60): #Keep muttating until we've mutated at least 68 bits
+                           #  That's 48 bits (128-80) + 20 bits held constant for the structure
         #find a random position to replace
         place = random.randrange(len(randomly_changed))
         while place in places_we_flipped or randomly_changed[place].strip() == '':
@@ -76,7 +82,7 @@ def genData():
         
         randomly_changed[place] = types[place][random.randrange(len(types[place]))]
         #subtract however many bits we estimate this selection point to be
-        bits -= log(len(types[place])) / log(2) 
+        bits += log(len(types[place])) / log(2) 
         #print bits
 
     fingerprints.append(reconstruct_to_poem(randomly_changed))
