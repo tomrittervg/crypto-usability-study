@@ -45,12 +45,6 @@ def genData():
         rand_difference[i] = alphabet[ord(os.urandom(1)) % len(alphabet)]
     fingerprints.append(format_pseudoword("".join(rand_difference)))
 
-    #Now we want to simulate an attacker flipping the innermost N spaces
-    #TODO
-
-    #And flipping characters such that they sound phonetically similar
-    #TODO
-
     return fingerprints
 
 if __name__ == "__main__":
