@@ -14,9 +14,9 @@ We have a bajillion things we'd like to run a usability study on, but to start s
 We suggest the following types of fingerprint types.  There are certainly more, but the more we try to test the bigger we're making it.
 
  1. Hexadecimal digits ala PGP fingerprints: 8ACD 146E A94C EB12 E4EA  6915 66A1 0918 9B79 658F
- 2. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
- 3. English Words (For example: bridge - late - sister - plane - brush - error - cup - soup - organization - great - quality - offer - dead)
- 4. English poems (See [example implementation](https://github.com/akwizgran/basic-english) and [example comparison](https://moderncrypto.org/mail-archive/messaging/2014/000125.html)
+ 2. English Words (For example: bridge - late - sister - plane - brush - error - cup - soup - organization - great - quality - offer - dead)
+ 3. English poems (See [example implementation](https://github.com/akwizgran/basic-english) and [example comparison](https://moderncrypto.org/mail-archive/messaging/2014/000125.html) 
+ 4. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
  5. Visual Fingerprints (Using OpenSSH's [visual host keys](http://www.kcbug.org/?p=18))
 
 ## Comparison Mechanisms
@@ -67,7 +67,7 @@ To avoid having every subject see an exact distribution of match and non-match f
 ## Test generation
 
  1. `cd pseudoword_testdata; make; cd ..`
- 2. python genTestData.python
+ 2. `python genTestData.python`
  Generates
  ```
  #1. Hexadecimal digits ala PGP fingerprints
