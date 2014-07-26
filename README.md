@@ -67,7 +67,7 @@ To avoid having every subject see an exact distribution of match and non-match f
 ## Test generation
 
  1. `cd pseudoword_testdata; make; cd ..`
- 2. `python genTestData.python`
+ 2. `python demoTestData.py`
  Generates
  ```
  #1. Hexadecimal digits ala PGP fingerprints
