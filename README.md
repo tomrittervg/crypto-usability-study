@@ -64,6 +64,33 @@ To create the computationally chosen flaw, we will take a target fingerprint and
 
 To avoid having every subject see an exact distribution of match and non-match for each type, each subject will get a randomly selected set of tests. The goal is that over N subjects, we will get a statistically valid and even distribution of trials for each category.
      
+## Test generation
+
+ 1. `cd pseudoword_testdata; make; cd ..`
+ 2. python genTestData.python
+ Generates
+ ```
+ #1. Hexadecimal digits ala PGP fingerprints
+ 9F7B726D789BEB58D3E2FD79131C92AC
+ 397B02CD789BE55033E2BD7B121F52AC
+ #2. English Words
+ living - plate - receipt - limit - rat - organization - toe - rub - road - before - attraction - light - scissors
+ living - discovery - receipt - limit - church - organization - cart - exchange - road - surprise - attraction - light - scissors
+
+ #3. English poems
+ his dead system rests widely from her true map
+ this flat power decides on the tight walk with his shelf
+
+
+ her rough system sits widely from her round map
+ this clear pull wins across your smooth walk to our shelf
+
+ #4. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
+ toswoc - ivuf - nayan - pem2 - atakg
+ 5esiku - ivug - aa5an - pewh - ataog
+ ```
+ 
+
 ## Rejected Ideas
 
 ### The 'Head Fake Approach
