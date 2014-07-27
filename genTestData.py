@@ -31,7 +31,7 @@ def closeFingerprintsToCompare(genData):
     return perfectMatch,choice([perfectMatch,almostMatch])
 
 def normalize(s):
-    return s.replace('\n','<br>').strip()
+    return s.strip().replace('\n','<br>')
     
 
 fingerprints = {'hex':hexData,'english word':englishWordData,'english poem':englishPoemData,'pseudo word':pseudoWordData}
@@ -51,6 +51,6 @@ def genTestData(testerpairs):
 
 
 if __name__ == '__main__':
-    genTestData(sys.argv[1])
+    genTestData(int(sys.argv[1]))
     
     
