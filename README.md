@@ -65,7 +65,7 @@ To create the computationally chosen flaw, we will take a target fingerprint and
 To avoid having every subject see an exact distribution of match and non-match for each type, each subject will get a randomly selected set of tests. The goal is that over N subjects, we will get a statistically valid and even distribution of trials for each category.
      
 ## Test generation
-
+###Demo
  1. `cd pseudoword_testdata; make; cd ..`
  2. `python demoTestData.py`
  Generates
@@ -89,6 +89,15 @@ To avoid having every subject see an exact distribution of match and non-match f
  toswoc - ivuf - nayan - pem2 - atakg
  5esiku - ivug - aa5an - pewh - ataog
  ```
+ 
+###Generation
+ `genTestData.py` has code to generate tests for N pairs of participants. An example with N=15 
+  `python ./genTestData.py 15 > testData.csv &`
+  
+`testData.csv` then has, one per line
+ `#pair   fingerprint     comparison      error   Alice   Bob     judgement`
+ with judgement yet to be filled out. Pair is a pair id, fingerprint is one of the fingerprint types (currently just supporting 4), comparison is Phone or Business card, Error rate is `small mismatch` (fingerprints are either exact or have a small mismatch with 50/50 odds) or `large mismatch` (fingerprints are either exact or stastically randomly different with 50/50 ods). For each combination of these variabes, 2x trials are generated for a total of 32 per testing pair of participants.
+ 
  
 
 ## Rejected Ideas
