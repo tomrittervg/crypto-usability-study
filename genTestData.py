@@ -11,7 +11,9 @@ from random import choice
 2 Error Rates
 x 2 Outcomes (Match or Not-Match)
  ---
- 32 Test Cases"""
+ 32 Test Cases
+ 
+ Run: ./genTestData.py > testdata.csv"""
 
 
 
@@ -45,17 +47,14 @@ errors = {'large mismatch':farFingerprintsToCompare,'small mismatch':closeFinger
 outcomes = ['match','not match']
 
 def genTestData():
+    print '#pair\tfingerprint\tcomparison\terror\tAlice\tBob\tjudgement'
     for tid in  range(testerpairs):
-        print 'Tester pair %d tests' % tid
         for mech in comparisons:
-            print mech
             for errorDesc,errorFunc in errors.items():
-                print errorDesc
                 for fingerprintDesc,fingerprintFunc  in fingerprints.items():
-                    print fingerprintDesc
                     for possibleOutcome in outcomes:
                         alicePrint,bobPrint=errorFunc(fingerprintFunc)
-                        print 'Alice:',alicePrint,' Bob:',bobPrint
+                        print '\t'.join([str(tid),fingerprintDesc,mech,errorDesc,alicePrint,bobPrint])
 
 
 if __name__ == '__main__':
