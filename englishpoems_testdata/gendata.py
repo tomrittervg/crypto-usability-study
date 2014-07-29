@@ -71,8 +71,10 @@ def genData():
     bits = 0 #Start at 0 bits
     places_we_flipped = []
 
-    while bits < (128-60): #Keep muttating until we've mutated at least 68 bits
-                           #  That's 48 bits (128-80) + 20 bits held constant for the structure
+    while bits < (128-80): #Keep muttating until we've mutated at least 48 bits
+                           #  This will keep the structure in tact, but change 48 bits of words
+                           #  This is kind of confusing, but it's discussed at
+                           #  https://github.com/tomrittervg/crypto-usability-study/issues/3#issuecomment-50423948
         #find a random position to replace
         place = random.randrange(len(randomly_changed))
         while place in places_we_flipped or randomly_changed[place].strip() == '':
