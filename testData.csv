@@ -1,481 +1,481 @@
 #pair	fingerprint	comparison	error	Alice	Bob	judgement
-0	english word	Business card	large mismatch	harmony - sea - warm - voice - till - surprise - comb - thumb - smash - great - touch - burn - table	hearing - bulb - invention - daughter - see - cheap - insect - place - leg - cold - dark - damage - current
-0	english word	Business card	large mismatch	seem - seat - out - dog - pipe - amusement - paint - knife - match - art - heat - till - chemical	seem - seat - out - dog - pipe - amusement - paint - knife - match - art - heat - till - chemical
-0	pseudo word	Business card	large mismatch	xizapq - gizi - ranvu - alig - colot	qlxjvi - poow - joork - livj - yetxi
-0	pseudo word	Business card	large mismatch	csivet - 3rez - zazuq - itol - xehox	o5lvnl - cehj - mdxud - qyha - vyari
-0	hex	Business card	large mismatch	E7D4E0061B8DDC109997C6970A7F4532	E7D4E0061B8DDC109997C6970A7F4532
-0	hex	Business card	large mismatch	74621C295262E3CE6B24239EBC91E54B	803FF0DDC23A90A1780D84B995B74FC7
-0	english poem	Business card	large mismatch	her fertile whistle stops this wet picture truly <br>her last bottle travels before the form <br>that metal promises our bag	his able impulse listens sadly <br>her blue hook talks his new son sharply with your history <br>your first light brings
-0	english poem	Business card	large mismatch	your late boat teaches loudly <br>the white drain occurs with this medical bite <br>her normal waste allows that shelf	my hard nut thinks of lazy hanging sourly freely over true free L <br>shut turn disgust hurts watch right round his L
-0	english word	Business card	small mismatch	hate - ill - science - rub - blow - nose - cook - force - trick - knowledge - poison - enough - power	hate - ill - science - rub - blow - nose - cook - force - trick - knowledge - poison - enough - power
-0	english word	Business card	small mismatch	trade - fall - left - ear - swim - theory - nation - knee - interest - rate - leg - east - healthy	trade - fall - left - ear - swim - theory - nation - knee - interest - rate - leg - east - healthy
-0	pseudo word	Business card	small mismatch	lilufg - elq6 - usati - yuya - qinol	lirulp - oltv - usaki - cuya - mi65l
-0	pseudo word	Business card	small mismatch	nuqejg - kaqg - yijye - edop - azili	nuqe4g - k5lr - yijnq - eeot - gxjli
-0	hex	Business card	small mismatch	A793039E6E22F0D535D9872E62DC8A26	A79383A16E21F0D53AD1CACE62DCC726
-0	hex	Business card	small mismatch	BE5665BC0C12BE502D82701A9E769918	BE2278BC0B12BE5F2DC870DF9E449918
-0	english poem	Business card	small mismatch	my feather prepares <br>his narrow land smiles drily to your skin <br>our early degree remembers her move between your face	my feather prepares <br>his narrow land smiles drily to your skin <br>our early degree remembers her move between your face
-0	english poem	Business card	small mismatch	his thin measure asks under her second basin <br>my noise gets strongly along this past animal <br>my smash meets this roof	his thin measure asks under her second basin <br>my noise gets strongly along this past animal <br>my smash meets this roof
-0	english word	Phone	large mismatch	grass - clear - put - then - board - smooth - trade - mine - rat - bag - spring - thing - cause	grass - clear - put - then - board - smooth - trade - mine - rat - bag - spring - thing - cause
-0	english word	Phone	large mismatch	among - garden - hearing - automatic - price - quite - root - substance - morning - present - existence - rhythm - oil	among - garden - hearing - automatic - price - quite - root - substance - morning - present - existence - rhythm - oil
-0	pseudo word	Phone	large mismatch	5kayuj - matw - vuboc - cewb - gagay	inyyth - byem - 2iju4 - eozi - ujuum
-0	pseudo word	Phone	large mismatch	amuxiv - 7pal - aqiku - 6gat - xuyeg	amuxiv - 7pal - aqiku - 6gat - xuyeg
-0	hex	Phone	large mismatch	03EF6E4DC65C4705AA28574AD45BB357	03EF6E4DC65C4705AA28574AD45BB357
-0	hex	Phone	large mismatch	A1967FC818C773A44846BAC7B209FB2C	A1967FC818C773A44846BAC7B209FB2C
-0	english poem	Phone	large mismatch	the sweet station sings to his simple brake fixedly <br>your order learns his regular stomach dearly after the old liquid	our egg calls near his test <br>this run speaks behind my common trouble <br>my fowl falls at this room thickly
-0	english poem	Phone	large mismatch	his complex time feels her pin sweetly along her shake <br>that old lock counts this rain <br>your round cow cooks	his complex time feels her pin sweetly along her shake <br>that old lock counts this rain <br>your round cow cooks
-0	english word	Phone	small mismatch	up - rest - such - church - blood - bent - transport - give - rod - soft - wheel - dust - monkey	up - rest - such - church - blood - bent - transport - give - rod - soft - wheel - dust - monkey
-0	english word	Phone	small mismatch	belief - say - digestion - new - nation - brother - library - berry - substance - bridge - note - decision - linen	belief - say - digestion - new - nation - brother - library - berry - substance - bridge - note - decision - linen
-0	pseudo word	Phone	small mismatch	megclk - vaju - ipeqo - etas - uxabo	yjgclb - vajf - ipqh3 - ehas - u3tsg
-0	pseudo word	Phone	small mismatch	mehove - axii - huwum - mguh - jahih	m77f2e - axii - oowra - pggh - jahsh
-0	hex	Phone	small mismatch	E17964FD2FB5BB99792D00EF65F14F88	E17964FD2FB5BB99792D00EF65F14F88
-0	hex	Phone	small mismatch	9BED60E3F4123BB7A1F295DB40CDB7F1	9BE9F0E3F412F180AFF295DB90C1B7F6
-0	english poem	Phone	small mismatch	his ring lies to my ready force freely <br>our purpose moves my shake <br>that pull eats <br>his tired gold thinks	that bite lies to my boiling attempt freely <br>our reward moves the cushion <br>that brake lies <br>his tired cause thinks
-0	english poem	Phone	small mismatch	that right plane answers his curve equally <br>my roof grows simply over that stomach <br>the hollow cow decides sourly	that early animal answers my curve equally <br>my manager sings simply among that bucket <br>the hollow hand pushes sourly
-1	english word	Business card	large mismatch	finger - coat - potato - arch - mist - sad - slope - enough - knowledge - example - who - serious - morning	finger - coat - potato - arch - mist - sad - slope - enough - knowledge - example - who - serious - morning
-1	english word	Business card	large mismatch	exchange - work - expert - bed - sugar - story - breath - hair - thick - be - west - ill - last	earth - account - impulse - stomach - cat - blow - that - right - window - distance - dear - warm - common
-1	pseudo word	Business card	large mismatch	gejbub - romi - anumo - nudo - f2eca	gejbub - romi - anumo - nudo - f2eca
-1	pseudo word	Business card	large mismatch	cqawex - xpur - xaxol - keb3 - exetu	guwla6 - udis - na6mr - 4zo7 - sicem
-1	hex	Business card	large mismatch	26A656C77F9B6126487C748D61FEABFB	0193CF956E9F1D3DBB165CF9E1959AB9
-1	hex	Business card	large mismatch	79261D325D7FE226D3452A3C9D41DA04	AFE9B6723008AEDDEBC3C8056AE9745D
-1	english poem	Business card	large mismatch	your wide talk meets loosely <br>my tired drawer puts truly <br>your true note eats loudly by her edge <br>that flower sees	your wide talk meets loosely <br>my tired drawer puts truly <br>your true note eats loudly by her edge <br>that flower sees
-1	english poem	Business card	large mismatch	his offer finds feebly at our arch <br>her hanging spoon gives her fly feebly <br>the new school runs to his unknown gold	his offer finds feebly at our arch <br>her hanging spoon gives her fly feebly <br>the new school runs to his unknown gold
-1	english word	Business card	small mismatch	request - change - way - ship - bulb - liquid - but - run - range - between - button - brown - stage	request - brown - way - ship - bulb - liquid - but - soap - enough - between - payment - brown - young
-1	english word	Business card	small mismatch	automatic - sound - may - collar - help - any - rhythm - pull - tin - public - record - agreement - high	automatic - sound - may - collar - help - any - rhythm - pull - tin - public - record - agreement - high
-1	pseudo word	Business card	small mismatch	xsowit - opin - iyuud - yeqe - owep2	msbw2t - opix - panur - yeqe - jwefk
-1	pseudo word	Business card	small mismatch	nieyec - 2emh - wedig - ridu - lekag	nyo5uv - 2eqh - wh6i3 - ryqu - lekag
-1	hex	Business card	small mismatch	AA73BD370C077EA9DC473A5311173BD0	EA93BE370E977EA9DC4C345363172BD5
-1	hex	Business card	small mismatch	1F3B336C338EB8D63E13207FA25B4391	1F3B336C338EB8D63E13207FA25B4391
-1	english poem	Business card	small mismatch	our last canvas occurs to the foolish hammer secretly <br>the hole laughs at our leg loosely into your late form <br>that motion receives	our last finger occurs to the lazy hammer slowly <br>the weather laughs upon my milk loosely in this late form <br>that man receives
-1	english poem	Business card	small mismatch	the safe swim wants my wet story truly <br>my frame laughs at the violent friend dearly <br>her card repeats rarely	the safe swim stays his wet story truly <br>that flag laughs through my bright friend falsely <br>your bath comes flatly
-1	english word	Phone	large mismatch	skin - ticket - silk - able - free - leather - late - winter - moon - grey/gray - rice - living - letter	army - doubt - under - other - butter - fruit - like - new - theory - throat - only - polish - operation
-1	english word	Phone	large mismatch	island - start - name - news - other - hole - some - help - sad - feather - island - soft - growth	island - start - name - news - other - hole - some - help - sad - feather - island - soft - growth
-1	pseudo word	Phone	large mismatch	hajtat - liin - hoqex - yodp - axiji	hajtat - liin - hoqex - yodp - axiji
-1	pseudo word	Phone	large mismatch	finoj7 - ikag - xagix - ahuy - y5liq	iy2luq - ava4 - morij - mwdd - e4lwu
-1	hex	Phone	large mismatch	6D928D8348B7CD532B63AE60E8B6402B	9D87F218F88B95E9BF7F9FFEABD3EAB3
-1	hex	Phone	large mismatch	AE50FB09CAE58CCEBC212C3EBE61099B	2ADE8562BC0D52AE2A346E58F92BC9CA
-1	english poem	Phone	large mismatch	her free winter hates her pain <br>my regret runs brightly <br>our safe polish moves our early stamp beyond the talk	that sea suggests quickly <br>the glove occurs at that chest coldly <br>her dry chance cleans with your pig <br>the crime brings behind his glove
-1	english poem	Phone	large mismatch	the fear turns above our detail <br>your happy window wants <br>that male tree suggests my blue sex before our stone	her burn loves her leg street A <br>high sort studies eats solid hollow W <br>floor thing runs to our mass rod
-1	english word	Phone	small mismatch	why - wax - wall - necessary - east - paper - peace - possible - over - cloth - story - purpose - hand	why - ornament - wall - blood - mouth - paper - peace - possible - over - cloth - dependent - animal - hand
-1	english word	Phone	small mismatch	mountain - day - common - earth - green - system - back - but - edge - tree - keep - right - fish	mountain - day - common - earth - green - system - back - but - edge - tree - keep - right - fish
-1	pseudo word	Phone	small mismatch	equsiv - oyok - sifwu - vyid - mubav	equsiv - oyok - sifwu - vyid - mubav
-1	pseudo word	Phone	small mismatch	7cokit - etih - kavar - cetx - ovoz7	7cokit - etih - kavar - cetx - ovoz7
-1	hex	Phone	small mismatch	0A5A6C4A4EA251849295F3C0EA14B103	FAEA6C4A48A2DB84429273C9EA547173
-1	hex	Phone	small mismatch	119420AF102E86F2223771EA7D794EE3	E19420AF14AC8DF7220B91E27D7F0EE3
-1	english poem	Phone	small mismatch	my sweet minute becomes this general request over your round mother <br>this push sees my society cruelly near my story	my sweet minute becomes this general request over your round mother <br>this push sees my society cruelly near my story
-1	english poem	Phone	small mismatch	the peace finds sharply on this clock <br>our normal bottle teaches kindly <br>this thin process wants this needle <br>her nation becomes	the peace finds sharply on this clock <br>our normal bottle teaches kindly <br>this thin process wants this needle <br>her nation becomes
-2	english word	Business card	large mismatch	wing - example - nerve - use - house - military - dead - rough - twist - year - stage - true - key	egg - wall - burn - relation - range - science - coat - invention - dog - living - observation - system - electric
-2	english word	Business card	large mismatch	substance - serious - fight - watch - morning - rate - substance - bell - sun - ornament - general - effect - stiff	expert - offer - quite - root - seat - cushion - soup - powder - finger - wet - copper - discovery - time
-2	pseudo word	Business card	large mismatch	xexida - faxm - iwulu - hoju - ogdpi	nahfez - wksv - ewocm - qgil - xeaej
-2	pseudo word	Business card	large mismatch	wwoton - veda - ejame - 5ede - ewera	wwoton - veda - ejame - 5ede - ewera
-2	hex	Business card	large mismatch	E572288B36F12ECC343B55F071E4E90F	E572288B36F12ECC343B55F071E4E90F
-2	hex	Business card	large mismatch	705E2D8A465A24A860E69E2C8471C161	E75A3651250A4BE9995878C980F70BBC
-2	english poem	Business card	large mismatch	your knee reads readily after my grey number <br>his open net travels cheaply from that number <br>the hanging smile lets	his knife meets roughly <br>my station lets lately <br>my bell lets <br>your chance cleans <br>my cause treats <br>this office answers
-2	english poem	Business card	large mismatch	the light runs stiffly in your pin <br>this poison does normally <br>your present train changes normally under that angry fiction	his event studies below my apple <br>his lazy tin changes her leaf <br>this free stomach answers at her right way
-2	english word	Business card	small mismatch	front - much - when - hammer - credit - chin - voice - brush - judge - different - mind - paste - mark	front - much - when - hammer - credit - chin - voice - brush - judge - different - mind - paste - mark
-2	english word	Business card	small mismatch	chance - fall - knowledge - sugar - throat - please - look - cold - train - sticky - wine - song - seem	chance - fall - knowledge - sugar - throat - please - look - cold - train - sticky - wine - song - seem
-2	pseudo word	Business card	small mismatch	ehuxoh - okul - umfir - amup - kissa	ehuxoh - okul - umfir - amup - kissa
-2	pseudo word	Business card	small mismatch	uluoet - ojuk - opipe - pafn - iyaca	u7kweu - oiuk - o4ip2 - p6yn - byavu
-2	hex	Business card	small mismatch	D9F5B2203C6A334422203CE75DA6E8F0	D9F5B2203C6A334422203CE75DA6E8F0
-2	hex	Business card	small mismatch	74B124F0A9C0E5225F0D145AD7AD4052	74B6CDF4A9C0E5395D0DB8DAD1AB4052
-2	english poem	Business card	small mismatch	the chance laughs at her cheap current through my late net <br>the bad ink opens this elastic run narrowly above his sense	the flame laughs among her private current through my late net <br>my present ink brings this elastic bulb smoothly above the wool
-2	english poem	Business card	small mismatch	our pen presses her hole bitterly around that tight wound <br>our lead lives with this unknown peace <br>her regular rail opens	our pen presses her hole bitterly around that tight wound <br>our lead lives with this unknown peace <br>her regular rail opens
-2	english word	Phone	large mismatch	go - owner - part - blade - humor - general - whistle - owner - credit - doubt - sheep - well - detail	go - owner - part - blade - humor - general - whistle - owner - credit - doubt - sheep - well - detail
-2	english word	Phone	large mismatch	needle - clock - connection - thunder - dead - place - some - copy - orange - bitter - lip - hair - cotton	needle - clock - connection - thunder - dead - place - some - copy - orange - bitter - lip - hair - cotton
-2	pseudo word	Phone	large mismatch	ddpivi - risi - zapuj - file - cobur	wxawub - amug - wzq74 - eko5 - vibuh
-2	pseudo word	Phone	large mismatch	opehog - iik7 - lexam - 2apa - ehuqa	ctidem - eott - e6wj6 - 4ddj - jvru4
-2	hex	Phone	large mismatch	AB8FBECB4A9F24BB0A67420D200BBA3C	DCE015A7C4CDB98E1C66B5B3BD818974
-2	hex	Phone	large mismatch	8FCFF51B4E429CDD60C3E9EA5423C7A9	8FCFF51B4E429CDD60C3E9EA5423C7A9
-2	english poem	Phone	large mismatch	this spring offers our solid muscle happily past this week <br>her deep field drives my thumb after the look	this spring offers our solid muscle happily past this week <br>her deep field drives my thumb after the look
-2	english poem	Phone	large mismatch	this wet map puts our healthy star newly <br>this dirty sugar dies for her detail from this clear side <br>this prison helps	our cold fork hurts your button softly <br>her gun smiles <br>the grey brain dances in her small sun round his water
-2	english word	Phone	small mismatch	dog - toe - support - well - island - shade - send - body - mark - rough - discussion - brass - cake	dog - toe - support - well - island - shade - send - body - mark - rough - discussion - brass - cake
-2	english word	Phone	small mismatch	reason - fat - change - true - insect - serious - fly - mouth - by - shirt - strange - sail - property	drink - drink - change - true - insect - serious - talk - mouth - by - shirt - bell - sail - now
-2	pseudo word	Phone	small mismatch	qokuje - egan - 2ojok - xihw - dityo	qo5kj6 - qgan - hdjsk - xnew - jqcyo
-2	pseudo word	Phone	small mismatch	ufuqic - erem - ujaju - fquk - hpire	ufuqic - erem - ujaju - fquk - hpire
-2	hex	Phone	small mismatch	C8D9416671D15ABA258ABB5528AD407D	C8D9416671D15ABA258ABB5528AD407D
-2	hex	Phone	small mismatch	E18CDF5A5BB3FD065FE25E1321B59EAE	E70CDD5A5B934D065FEB86A3A1B54EAC
-2	english poem	Phone	small mismatch	her grey reward supports near that tight foot <br>her insect closes your great winter quietly from the belief <br>our black church dies	her grey reward supports near that tight foot <br>her insect closes your great winter quietly from the belief <br>our black church dies
-2	english poem	Phone	small mismatch	his fight pulls the finger openly <br>my tall oven needs that rough science <br>my fat oil loves her process	his fight pulls the finger openly <br>my tall oven needs that rough science <br>my fat oil loves her process
-3	english word	Business card	large mismatch	letter - animal - shelf - process - belief - produce - paper - property - collar - leather - as - wound - yes	engine - orange - ticket - wise - out - south - if - dirty - hole - sign - connection - reason - disgust
-3	english word	Business card	large mismatch	red - business - thumb - lift - short - time - substance - tomorrow - band - open - engine - son - dead	red - business - thumb - lift - short - time - substance - tomorrow - band - open - engine - son - dead
-3	pseudo word	Business card	large mismatch	olrage - huti - idin3 - unuf - rohen	olrage - huti - idin3 - unuf - rohen
-3	pseudo word	Business card	large mismatch	asoopu - cuch - iilij - isag - imumi	asoopu - cuch - iilij - isag - imumi
-3	hex	Business card	large mismatch	723B9E56653FE27E4EA5D4FE58CBDFE3	BE6B6015D35FB3E56AFFECA6459BFB58
-3	hex	Business card	large mismatch	B3BE852FEB1619924BFEF4042D969B61	B3BE852FEB1619924BFEF4042D969B61
-3	english poem	Business card	large mismatch	your sour unit shouts lazily under your canvas <br>her sister chooses that army commonly <br>the insect sends my young sister	our flat manager hears to this edge <br>the crush destroys by my stiff drop <br>his drink tries <br>that certain flower tells
-3	english poem	Business card	large mismatch	my eye improves that range <br>her mouth helps her blue cake coldly above my old fold <br>this green error gets	the screw lies <br>her false verse smiles against your happy start loudly beside your loud floor <br>your complex lead drinks
-3	english word	Business card	small mismatch	the - land - nail - picture - story - money - wet - warm - mixed - country - river - drop - ring	the - land - nail - picture - story - money - wet - warm - mixed - country - river - drop - ring
-3	english word	Business card	small mismatch	example - lift - watch - music - dry - canvas - needle - jelly - run - attraction - slip - committee - about	example - with - watch - cushion - dry - thick - needle - will - run - attraction - slip - leaf - about
-3	pseudo word	Business card	small mismatch	miyino - udoq - apuci - emaf - etydr	r5hino - uxeq - aeuc3 - q3kf - etyhr
-3	pseudo word	Business card	small mismatch	siscus - wice - cucop - cuni - itjow	yiocxh - wv4e - cucop - 25pi - iv4aw
-3	hex	Business card	small mismatch	C0E8E562E9445C2A3F7640C69D2DE37C	C0E8E562E9445C2A3F7640C69D2DE37C
-3	hex	Business card	small mismatch	029A397D34EEA432E01F1EEEC664BD38	029A397D34EEA432E01F1EEEC664BD38
-3	english poem	Business card	small mismatch	his short monkey improves our long thought between her deep way <br>the society loses past our unknown respect <br>his happy woman cries	that short monkey has that medical thought with my certain way <br>the society loses small the unknown power <br>the happy receipt cries
-3	english poem	Business card	small mismatch	his food meets my sticky thread cheaply <br>the head changes that harmony <br>that high run dies <br>her base prefers	his food meets my sticky thread cheaply <br>the head changes that harmony <br>that high run dies <br>her base prefers
-3	english word	Phone	large mismatch	cold - land - reward - surprise - feather - against - mouth - because - page - brake - box - organization - rate	cold - land - reward - surprise - feather - against - mouth - because - page - brake - box - organization - rate
-3	english word	Phone	large mismatch	middle - beautiful - group - wood - roll - shirt - common - voice - wide - so - paint - shirt - out	rub - page - sneeze - get - word - responsible - bee - boiling - machine - sock - every - great - nut
-3	pseudo word	Phone	large mismatch	saqxov - akak - isedw - qilp - axaru	saqxov - akak - isedw - qilp - axaru
-3	pseudo word	Phone	large mismatch	focugu - ariu - sawes - kdba - honoj	6f2ijn - 4dgt - ra4et - 6rly - imeo4
-3	hex	Phone	large mismatch	5CA8F1B215DC3548196E88EABACFB5AD	5CA8F1B215DC3548196E88EABACFB5AD
-3	hex	Phone	large mismatch	26DDF9BBADA83B2C393ABFB579B21C2F	866174ADA4F94B817B38032A19C362ED
-3	english poem	Phone	large mismatch	my bent print jumps at your last nail <br>your expert returns <br>my hard attack feels cruelly <br>your cause learns my blood	her chain does that horse falsely at the harbour <br>this chalk smiles drily into this stem <br>our strong shame chooses
-3	english poem	Phone	large mismatch	his free price changes secretly between that poor metal <br>her male value feels newly <br>her slip cries below our test	her friend shouts deeply under this yellow machine <br>her muscle closes our month warmly through your salt <br>this sticky ice stays
-3	english word	Phone	small mismatch	desire - sand - of - drawer - may - argument - opinion - way - trick - married - adjustment - driving - white	lift - white - and - drawer - may - argument - growth - air - trick - married - adjustment - driving - white
-3	english word	Phone	small mismatch	kind - boiling - rate - part - woman - together - mouth - knife - second - size - destruction - wheel - debt	kind - boiling - prose - part - woman - over - mouth - spade - second - responsible - destruction - view - debt
-3	pseudo word	Phone	small mismatch	raayuh - upoq - jireb - noc4 - pogwo	ea42uq - utox - ji4ew - nkcf - rogpo
-3	pseudo word	Phone	small mismatch	5zofot - hit4 - kanet - dtiv - qusus	5zseot - hvt4 - kn5kt - dnvv - css7s
-3	hex	Phone	small mismatch	95B7D1D965FC00B91B67B750B4594A28	95B7D1D965FC00B91B67B750B4594A28
-3	hex	Phone	small mismatch	A122AA7E153A125FB18B35DBF69B5488	A122DD7E153A825FB18B3FD7963F0A80
-3	english poem	Phone	small mismatch	this fowl does the leaf widely <br>my cloud meets his young back <br>the living event leaves widely round his star	this fowl does the leaf widely <br>my cloud meets his young back <br>the living event leaves widely round his star
-3	english poem	Phone	small mismatch	this like room prepares your dirty flame coldly from that bitter chance <br>that normal needle asks round your small day	this like room prepares your dirty flame coldly from that bitter chance <br>that normal needle asks round your small day
-4	english word	Business card	large mismatch	right - why - education - angle - still - transport - twist - grip - through - quite - question - line - test	right - why - education - angle - still - transport - twist - grip - through - quite - question - line - test
-4	english word	Business card	large mismatch	possible - political - comparison - day - base - fiction - value - fall - morning - flower - farm - need - rough	direction - thing - fish - healthy - mother - bag - under - decision - hospital - store - river - swim - still
-4	pseudo word	Business card	large mismatch	opizai - qomw - sicej - wumt - mekud	2unad7 - ai6t - k5ums - ylxm - dayol
-4	pseudo word	Business card	large mismatch	mejucw - epva - fotil - suvt - ivaco	mejucw - epva - fotil - suvt - ivaco
-4	hex	Business card	large mismatch	556769AB03F42AC136EB5819BB5CFDFE	D5F1E5CED31C2B57AE7196F08D034AB5
-4	hex	Business card	large mismatch	64B9A5289DE33670B1BC79CED8C6586D	64B9A5289DE33670B1BC79CED8C6586D
-4	english poem	Business card	large mismatch	his drawer hides our angry army widely <br>his dark control grows <br>her flat print listens to our bird poorly below this ear	his drawer hides our angry army widely <br>his dark control grows <br>her flat print listens to our bird poorly below this ear
-4	english poem	Business card	large mismatch	his brain believes <br>that account stays with his open card <br>our thought tries greatly <br>her book counts smoothly <br>his clean degree wins	her tight mass feels loosely inside our free wound <br>that healthy earth counts <br>our dear bed keeps her quiet note
-4	english word	Business card	small mismatch	thing - hate - education - expert - slow - month - old - against - general - dust - shock - word - sign	fiction - hate - thing - answer - slow - kettle - old - against - general - suggestion - shock - word - sign
-4	english word	Business card	small mismatch	existence - direction - sign - wax - wide - no - past - keep - sister - care - book - the - let	existence - direction - sign - wax - wide - no - past - keep - sister - care - book - the - let
-4	pseudo word	Business card	small mismatch	simela - pvod - uaxur - jdek - lixad	simela - pvod - uaxur - jdek - lixad
-4	pseudo word	Business card	small mismatch	qazye2 - ubeh - tumud - osuh - savoh	qauvrr - ed3h - tumud - 4iuh - swvoh
-4	hex	Business card	small mismatch	506122532BDB233F30BD3BE248E5D028	506122532BDB233F30BD3BE248E5D028
-4	hex	Business card	small mismatch	CB8A66BC87735945E80E08488EA905DA	CB8A66BC87735945E80E08488EA905DA
-4	english poem	Business card	small mismatch	his small cloth leaves beneath this impulse <br>that natural chest is <br>my private rule believes this room <br>this roof asks	her small cloth leaves beneath this wine <br>our wet request is <br>my hanging regret closes this ticket <br>this roof writes
-4	english poem	Business card	small mismatch	that false stage becomes our stitch cheaply <br>my same heat smiles under his late degree <br>the rough disease loses my thumb	our false stage helps our song normally <br>my great heat smiles to the second son <br>his cold disease loses my thumb
-4	english word	Phone	large mismatch	look - throat - spade - noise - bee - berry - muscle - event - value - question - equal - blood - oven	look - throat - spade - noise - bee - berry - muscle - event - value - question - equal - blood - oven
-4	english word	Phone	large mismatch	society - but - fruit - bitter - death - pig - seat - smooth - land - to - public - smile - slow	society - but - fruit - bitter - death - pig - seat - smooth - land - to - public - smile - slow
-4	pseudo word	Phone	large mismatch	erqifi - coqj - romim - ipup - efnit	cduadn - vdrb - zdsi5 - vehn - bxi7o
-4	pseudo word	Phone	large mismatch	yreluv - osuz - polaf - 4eeq - valep	yreluv - osuz - polaf - 4eeq - valep
-4	hex	Phone	large mismatch	6253C08037220343716AAAE479378A12	F222CD40DBCC2C5D75FC14B65B8C595B
-4	hex	Phone	large mismatch	A75969DE9C76DE331A1F50E38B624DB6	A75969DE9C76DE331A1F50E38B624DB6
-4	english poem	Phone	large mismatch	your quiet sheep helps your attempt happily round her sweet colour <br>his snow works thinly near his mixed hate	your quiet sheep helps your attempt happily round her sweet colour <br>his snow works thinly near his mixed hate
-4	english poem	Phone	large mismatch	her high camera drinks the song against the late leather <br>our serious page makes that milk greatly <br>her jump learns	our smoke talks her wet prose through his long page <br>this sour rest takes my thick ear against his shut produce
-4	english word	Phone	small mismatch	hope - between - trick - with - last - representative - responsible - safe - receipt - scissors - thunder - wine - vessel	hope - between - trick - with - last - tendency - responsible - ill - receipt - scissors - view - bee - amount
-4	english word	Phone	small mismatch	weight - certain - horn - order - year - story - beautiful - soft - approval - bit - bottle - happy - error	weight - certain - horn - order - year - story - beautiful - soft - approval - bit - bottle - happy - error
-4	pseudo word	Phone	small mismatch	tuxany - xjip - xikuc - 6iko - yehaj	tsxkuy - xjyv - 3ikiy - 6iwp - yehac
-4	pseudo word	Phone	small mismatch	xamodo - wiv4 - cawug - neht - ongup	xamsej - w5b4 - 3awic - neht - anwup
-4	hex	Phone	small mismatch	D5486A4C5FE9F53ED0709979C2F7551F	D54CCA4C5FA93B3E6070C379C297E26F
-4	hex	Phone	small mismatch	696D02FA7AA7914F75CFAF088D816231	19ED04FD725E914D77CFAF088D816331
-4	english poem	Phone	small mismatch	the rub wins under your answer <br>her fixed cat chooses this finger truly between our true form <br>the same minute prefers	the rub wins under your answer <br>her fixed cat chooses this finger truly between our true form <br>the same minute prefers
-4	english poem	Phone	small mismatch	that foolish clock shouts <br>this trouble knows lately beyond her note <br>this field becomes across that door <br>that feather sees	that foolish clock laughs <br>this trouble drives lately from her note <br>her wool arrives past your island <br>our chest thinks
-5	english word	Business card	large mismatch	judge - tomorrow - great - property - harbor - so - than - waiting - flame - before - wash - quite - direction	judge - tomorrow - great - property - harbor - so - than - waiting - flame - before - wash - quite - direction
-5	english word	Business card	large mismatch	straight - early - learning - manager - fight - river - board - wheel - law - turn - cotton - account - when	straight - early - learning - manager - fight - river - board - wheel - law - turn - cotton - account - when
-5	pseudo word	Business card	large mismatch	kasehk - safi - hyicx - yeta - lipaf	kasehk - safi - hyicx - yeta - lipaf
-5	pseudo word	Business card	large mismatch	osowaf - 7nof - kicac - oqaw - eco5e	osowaf - 7nof - kicac - oqaw - eco5e
-5	hex	Business card	large mismatch	E96157DA9E439AB1D99DDDF42C0E37CE	E96157DA9E439AB1D99DDDF42C0E37CE
-5	hex	Business card	large mismatch	1618DAA44DD046293DCBE288577B1646	1618DAA44DD046293DCBE288577B1646
-5	english poem	Business card	large mismatch	this hard rest sits by your respect <br>this shock repeats your sour comfort against that public harmony <br>your lazy wind makes	this hard rest sits by your respect <br>this shock repeats your sour comfort against that public harmony <br>your lazy wind makes
-5	english poem	Business card	large mismatch	my range ends her soft page <br>her angry pot has the smash <br>my kettle looks at the ready wash angrily	my range ends her soft page <br>her angry pot has the smash <br>my kettle looks at the ready wash angrily
-5	english word	Business card	small mismatch	company - sheep - stomach - flag - reading - elastic - line - walk - no - head - interest - with - soft	company - sheep - stomach - flag - reading - elastic - line - walk - no - head - interest - with - soft
-5	english word	Business card	small mismatch	road - person - last - milk - fiction - linen - sand - board - act - prose - secretary - monkey - amusement	road - person - last - milk - fiction - linen - sand - board - act - prose - secretary - monkey - amusement
-5	pseudo word	Business card	small mismatch	uodozh - axih - poxup - podu - uhaoz	u4yo3h - axih - pozpp - behg - ucuop
-5	pseudo word	Business card	small mismatch	egexu6 - 2ora - miroy - adej - oboah	egexu6 - 2ora - miroy - adej - oboah
-5	hex	Business card	small mismatch	791A193DA7EDF555CFBD299F1DAD1C26	797E19ED624DF552CFB7899F155DFC26
-5	hex	Business card	small mismatch	D689AA393EC86BAA70E7C0E3EDECB403	D589AA792E781BAA7037007CF0ECB903
-5	english poem	Business card	small mismatch	that jewel destroys commonly <br>your present window sells our sick eye sharply beside her society <br>your level cooks <br>your vessel drives	that jewel destroys commonly <br>your present window sells our sick eye sharply beside her society <br>your level cooks <br>your vessel drives
-5	english poem	Business card	small mismatch	that clear stitch suggests your street clearly <br>your foolish cushion becomes our goat near the middle <br>our ticket has our ice	that clear view suggests your thumb clearly <br>the deep desire asks our goat near my middle <br>her rail travels our wash
-5	english word	Phone	large mismatch	orange - thin - grain - foolish - food - list - before - library - branch - together - only - well - plate	orange - thin - grain - foolish - food - list - before - library - branch - together - only - well - plate
-5	english word	Phone	large mismatch	house - play - let - chest - letter - back - straight - hour - ornament - self - and - drop - cup	house - play - let - chest - letter - back - straight - hour - ornament - self - and - drop - cup
-5	pseudo word	Phone	large mismatch	ledadu - 5xat - gaboh - qbos - wasuq	nux2cq - zule - ic3mz - drzo - wr5e7
-5	pseudo word	Phone	large mismatch	loquyo - haca - uyipo - vrfe - ebwek	uxonis - thgi - nvp7r - kyhg - azgev
-5	hex	Phone	large mismatch	C4D9F591A4F9EDF440B3C288781A75A5	C4D9F591A4F9EDF440B3C288781A75A5
-5	hex	Phone	large mismatch	062D3BDE0F7505713B9AC66D591CC228	062D3BDE0F7505713B9AC66D591CC228
-5	english poem	Phone	large mismatch	the nail does that control beside the late hand <br>her potato is your cold soap rarely <br>your memory fills her engine	that loose history plays this level <br>his black crime does his change lately <br>that flat basin throws on your long touch
-5	english poem	Phone	large mismatch	his look makes this dirty winter angrily against that food <br>this strange tray speaks <br>his sour bird has poorly	her friend agrees with her growth softly <br>that thought smiles past my second skin <br>your finger plays strongly <br>that round war jumps
-5	english word	Phone	small mismatch	cat - map - polish - stem - ever - little - view - living - glass - comparison - soft - love - property	cat - map - polish - stem - ever - little - view - living - glass - comparison - soft - love - property
-5	english word	Phone	small mismatch	bitter - reward - middle - digestion - lead - use - country - front - crush - current - mouth - apparatus - record	bitter - reward - verse - digestion - heat - impulse - country - medical - point - current - mouth - apparatus - record
-5	pseudo word	Phone	small mismatch	libohu - yale - towam - icgf - uxeg6	mibohu - w5oh - toeam - iigr - uz7e6
-5	pseudo word	Phone	small mismatch	txedan - yiz6 - nohev - jwez - kemep	txe2an - yoz6 - nvhub - zf5z - 7em5z
-5	hex	Phone	small mismatch	2587CF5B0230ED32408507617074A16C	2587CF5B0A3F2A32AA85C769771DA26C
-5	hex	Phone	small mismatch	8636CD7F79516D06C19EF9F1E598B209	8CD3CB7F79516306C29E29B1E5EA0309
-5	english poem	Phone	small mismatch	this quality uses drily <br>her tongue turns after this shock <br>the night wants her safe fly dearly <br>your happy finger stops	this quality uses drily <br>her tongue turns after this shock <br>the night wants her safe fly dearly <br>your happy finger stops
-5	english poem	Phone	small mismatch	the steam drives your equal spade solidly <br>that clock closes our sour tray through our sour lock <br>the certain friend wins	the shake drives that sick flame solidly <br>that body closes our flat tray through her boiling machine <br>this deep friend wins
-6	english word	Business card	large mismatch	unit - play - man - work - development - stage - humor - punishment - sharp - money - be - shade - boy	unit - play - man - work - development - stage - humor - punishment - sharp - money - be - shade - boy
-6	english word	Business card	large mismatch	chest - blood - adjustment - organization - moon - seat - amusement - oil - common - band - under - certain - brush	comfort - sea - walk - society - silver - ticket - degree - together - clean - hole - fowl - will - the
-6	pseudo word	Business card	large mismatch	dpowax - opis - liqah - ozil - eedas	utcxxe - aeit - no6ak - qydi - kgrw3
-6	pseudo word	Business card	large mismatch	biredo - aoke - dijri - anii - gizar	n3aulp - tuym - nurop - xyta - uk4u4
-6	hex	Business card	large mismatch	3F0C1EC9A80343C83ED59EFE0297D4BA	3F0C1EC9A80343C83ED59EFE0297D4BA
-6	hex	Business card	large mismatch	247AD972B34FD0B8787435FB5A454DD1	247AD972B34FD0B8787435FB5A454DD1
-6	english poem	Business card	large mismatch	our table begins that boiling degree prettily <br>that knot turns this sponge before that free mark <br>the bright error lets	our table begins that boiling degree prettily <br>that knot turns this sponge before that free mark <br>the bright error lets
-6	english poem	Business card	large mismatch	his regular protest comes <br>this wood forgives the floor <br>her drop chooses that hard farm truly behind that right river	his dust teaches lately in that wide nail <br>the impulse needs solidly inside her wing <br>her thumb arrives our flat picture
-6	english word	Business card	small mismatch	room - ball - material - when - request - argument - cup - belief - when - stop - quick - sugar - the	room - ball - material - when - request - argument - cup - belief - when - stop - quick - sugar - the
-6	english word	Business card	small mismatch	bent - every - cat - purpose - writing - little - trouble - garden - cat - female - mother - voice - apple	bent - month - cat - purpose - chain - little - still - garden - company - high - mother - voice - apple
-6	pseudo word	Business card	small mismatch	lrikiy - aniv - meneh - knab - zifa6	lrikiy - aniv - meneh - knab - zifa6
-6	pseudo word	Business card	small mismatch	doyafb - ivix - befon - xaxz - ipvus	doyaam - ifi6 - meoon - xplc - ignus
-6	hex	Business card	small mismatch	C51BB7CAB30AD2D45AA92BF1E406B666	C51BB7CAB30AD2D45AA92BF1E406B666
-6	hex	Business card	small mismatch	5CFDFA80C4FAA6750634CCD2C050CC30	1CA2FC80CCFAA6B5263DACD2CE50CCF0
-6	english poem	Business card	small mismatch	his liquid walks to this tree readily across the skin <br>this cheap grass has this respect happily between the war <br>her fear laughs	his liquid walks to this tree readily across the skin <br>this cheap grass has this respect happily between the war <br>her fear laughs
-6	english poem	Business card	small mismatch	that fowl moves her clean poison loudly <br>your order holds your like list secretly <br>his rhythm works drily <br>her basin repeats	your fowl moves that clean nut loudly <br>your bulb finishes her second list secretly <br>my street cooks lately <br>her wind repeats
-6	english word	Phone	large mismatch	about - male - make - secretary - destruction - after - sponge - wind - between - in - dog - time - this	about - male - make - secretary - destruction - after - sponge - wind - between - in - dog - time - this
-6	english word	Phone	large mismatch	noise - observation - hour - back - possible - well - opinion - connection - here - present - second - smash - secret	noise - observation - hour - back - possible - well - opinion - connection - here - present - second - smash - secret
-6	pseudo word	Phone	large mismatch	cdugut - ulaj - jupaj - nriw - itqas	y35ete - qak3 - gamsl - vouh - azewa
-6	pseudo word	Phone	large mismatch	afacut - oler - pseto - mudi - cliyo	luq3nu - pnay - jykvz - e6vk - syscu
-6	hex	Phone	large mismatch	8C82AA28A8C247E07330C2AE39E3677A	CB0285C23CD3F9F5D70DB9EBC5962289
-6	hex	Phone	large mismatch	37E0060CD21A19D47DBAE51570554BE5	AC7EA6C176579C81BC5FC01C63A79643
-6	english poem	Phone	large mismatch	her attempt continues this pot behind our sharp grip <br>her smash meets loudly over the unknown bath <br>the dirty tax hurts	her attempt continues this pot behind our sharp grip <br>her smash meets loudly over the unknown bath <br>the dirty tax hurts
-6	english poem	Phone	large mismatch	my black kick agrees with this leaf freely <br>his cold run pulls my harmony falsely past your blade <br>her serious effect washes	her oil keeps my comb deeply before my pot <br>that money comes that complex measure by his slip <br>our solid sail closes
-6	english word	Phone	small mismatch	crush - cat - comb - knee - heat - poor - yesterday - bread - star - walk - watch - necessary - skirt	crush - cat - comb - knee - heat - poor - yesterday - bread - star - walk - watch - necessary - skirt
-6	english word	Phone	small mismatch	expansion - pleasure - school - stretch - trick - married - sort - ball - even - look - love - whistle - division	expansion - pleasure - number - stretch - offer - married - band - ball - even - who - blow - whistle - division
-6	pseudo word	Phone	small mismatch	hulexi - hxen - guqox - odas - ow2ma	hulexi - hxen - guqox - odas - ow2ma
-6	pseudo word	Phone	small mismatch	khicaj - avam - hugia - iser - yuwoa	zrtgaj - ave3 - ougkt - isv2 - yuwoa
-6	hex	Phone	small mismatch	E3D3E31D9269B305391C819F7B5E6DFF	E3D3E31D9269B305391C819F7B5E6DFF
-6	hex	Phone	small mismatch	BD351BC2F4768070281BF93B1F2EBD39	BD351BC2F4768070281BF93B1F2EBD39
-6	english poem	Phone	small mismatch	his rail cuts that thick error quickly <br>her false degree finds that end flatly against this full protest <br>that tin describes	his grass cuts the thick error warmly <br>my false unit visits her train cruelly against your high protest <br>that tin describes
-6	english poem	Phone	small mismatch	my middle has <br>the shoe forgets <br>his quick judge prepares our clear plate deeply past that old number <br>his friend lets	my middle thinks <br>the screw forgets <br>this angry judge hurts our clear respect lazily past his old number <br>this cheese lets
-7	english word	Business card	large mismatch	attraction - reading - price - when - with - glass - skirt - property - bucket - hand - tax - sponge - round	attraction - reading - price - when - with - glass - skirt - property - bucket - hand - tax - sponge - round
-7	english word	Business card	large mismatch	wall - control - government - birth - stick - adjustment - summer - boat - force - color - simple - cork - scale	property - owner - fowl - street - complete - as - fat - story - slope - brother - join - bed - learning
-7	pseudo word	Business card	large mismatch	sitovi - izub - mayai - ajer - qonjv	hafpbi - mcar - uydvx - in3u - 2fozq
-7	pseudo word	Business card	large mismatch	adivwe - devb - juxaw - maga - bivze	tew6do - qihd - 4bvtu - 6gie - ezkkg
-7	hex	Business card	large mismatch	A1F6A032DC8E9680BBC4662F28CBF61E	A1F6A032DC8E9680BBC4662F28CBF61E
-7	hex	Business card	large mismatch	0D09C7158F3527DC2FB7EDFB48D00059	0D09C7158F3527DC2FB7EDFB48D00059
-7	english poem	Business card	large mismatch	my colour hides your clear rice to that front <br>this present pocket shouts at this cloth badly <br>that round leaf treats	my colour hides your clear rice to that front <br>this present pocket shouts at this cloth badly <br>that round leaf treats
-7	english poem	Business card	large mismatch	your dead list reads your control badly <br>her complex minute tries quickly <br>our look chooses this blade below our flag	your dead list reads your control badly <br>her complex minute tries quickly <br>our look chooses this blade below our flag
-7	english word	Business card	small mismatch	rest - leather - that - bulb - hole - force - hat - sleep - fly - wet - kettle - send - amusement	rest - competition - that - paste - hole - force - hole - but - fly - wet - kettle - hollow - amusement
-7	english word	Business card	small mismatch	friend - disgust - slip - angry - grip - complex - number - warm - weight - thumb - polish - sticky - boy	friend - disgust - invention - white - kettle - complex - number - warm - rough - thumb - polish - sticky - I
-7	pseudo word	Business card	small mismatch	vopob2 - kwep - lidep - foqe - iykuf	qvpkb5 - 5xep - aidop - goqe - ioku6
-7	pseudo word	Business card	small mismatch	aheseu - kax3 - iquto - dguq - ucoga	ahasuw - ka43 - oq6to - dbu5 - ldr6a
-7	hex	Business card	small mismatch	D20C51636299F17A77C4FF982ED5AE63	D20C51636299F17A77C4FF982ED5AE63
-7	hex	Business card	small mismatch	0950E15784B6AEFDAF29470ABBDF2B6E	0950E15784B6AEFDAF29470ABBDF2B6E
-7	english poem	Business card	small mismatch	his pull calls <br>my offer knows this shade wisely <br>his violent muscle loses solidly <br>my narrow cow forgives her poison	his pull calls <br>my offer knows this shade wisely <br>his violent muscle loses solidly <br>my narrow cow forgives her poison
-7	english poem	Business card	small mismatch	this verse counts your smooth sense ably to his first feather <br>this dead nation feels <br>our present note calls	this verse counts your smooth sense ably to his first feather <br>this dead nation feels <br>our present note calls
-7	english word	Phone	large mismatch	expert - mountain - father - discovery - profit - value - egg - gold - silver - cook - wall - female - silk	expert - mountain - father - discovery - profit - value - egg - gold - silver - cook - wall - female - silk
-7	english word	Phone	large mismatch	oven - with - push - size - stomach - key - prison - square - late - smoke - list - suggestion - thing	oven - with - push - size - stomach - key - prison - square - late - smoke - list - suggestion - thing
-7	pseudo word	Phone	large mismatch	uqeosi - sixu - riyfe - ezeq - efpez	uqeosi - sixu - riyfe - ezeq - efpez
-7	pseudo word	Phone	large mismatch	jahoqb - lmuw - daraz - opef - abavy	zoppmq - vzdj - vfqif - woui - 26tar
-7	hex	Phone	large mismatch	D95838E07635A1DB7C44187D9DC4BF69	EB4F299C00D935A282FC634A8D1C3619
-7	hex	Phone	large mismatch	D7A15A5B5983B825BED52C8E9DD3C028	D7A15A5B5983B825BED52C8E9DD3C028
-7	english poem	Phone	large mismatch	this sad rule walks <br>my short match makes my hard heat behind your dirty range <br>that wine grows his blood	his rat costs rarely <br>your dead sock receives my gun bitterly between the frame <br>that letter touches this shoe
-7	english poem	Phone	large mismatch	that grass rests angrily before his trick <br>your second wire prefers his middle to this future fact <br>your poor skin lives	her sun has <br>my late tin studies his regular drop freely from your bent cork <br>his young angle decides before your trouble
-7	english word	Phone	small mismatch	system - please - wide - teaching - bath - great - tax - test - way - brother - tax - secretary - crush	system - please - wide - teaching - bath - great - tax - test - way - brother - tax - secretary - crush
-7	english word	Phone	small mismatch	light - stocking - selection - late - head - sweet - down - finger - question - hour - sharp - manager - harbor	light - stocking - selection - produce - so - boiling - down - finger - question - respect - sharp - manager - glass
-7	pseudo word	Phone	small mismatch	3kouwe - qizu - emerl - toxi - olume	hio6we - qizu - emsrt - muah - orkle
-7	pseudo word	Phone	small mismatch	esvepi - ecek - sidob - ojad - vowko	es2e2b - ecez - 3adob - ojkd - aelbo
-7	hex	Phone	small mismatch	9862AB87C97B1233CDC6935C44B889D5	9862AB87C97B1233CDC6935C44B889D5
-7	hex	Phone	small mismatch	381C17285385141AD671E865AA3B0384	381C17285385141AD671E865AA3B0384
-7	english poem	Phone	small mismatch	your late pocket travels to the sick boot <br>that sky prepares your worm ably <br>your wide gold counts his female belief	your late pocket travels to the sick boot <br>that sky prepares your worm ably <br>your wide gold counts his female belief
-7	english poem	Phone	small mismatch	that first apple fills <br>that cook allows flatly <br>the general harmony looks at your rare wax beneath that hate <br>my spoon hurts	that right wine calls <br>the cook allows cheaply <br>the general stick looks at your violent ship on that hate <br>my purpose hurts
-8	english word	Business card	large mismatch	leaf - wave - account - edge - nose - band - paint - bag - ear - simple - instrument - agreement - copper	baby - thing - while - owner - meal - guide - pen - flag - learning - female - shut - fish - go
-8	english word	Business card	large mismatch	because - error - air - second - bitter - white - floor - organization - grass - some - on - increase - government	almost - short - roll - chemical - healthy - yesterday - transport - throat - hanging - property - cruel - across - knee
-8	pseudo word	Business card	large mismatch	6riyeh - beav - yehep - edex - nolev	6riyeh - beav - yehep - edex - nolev
-8	pseudo word	Business card	large mismatch	alener - hxes - oseox - doqg - foyiz	iabhhh - lh4d - hqjed - laht - g3f3k
-8	hex	Business card	large mismatch	E7B07A5D0FF797F3900C549462820CE5	E7B07A5D0FF797F3900C549462820CE5
-8	hex	Business card	large mismatch	6DCE412065A19C85B13C3E54B297B955	53CDEED2768D492B28C4F49A1EE74ECC
-8	english poem	Business card	large mismatch	my crack loves my blow with this unknown view <br>that foolish kick closes on the stage <br>that dry flower decides	that fowl walks to this pin before his false flight <br>that house thinks your tree <br>this ant destroys the stretch
-8	english poem	Business card	large mismatch	her like thread cries for the ticket <br>our chest cuts your male poison <br>the hour cuts my past snake	her like thread cries for the ticket <br>our chest cuts your male poison <br>the hour cuts my past snake
-8	english word	Business card	small mismatch	face - library - far - insect - increase - play - north - year - on - pleasure - balance - window - take	face - library - far - insect - increase - play - north - year - on - pleasure - balance - window - take
-8	english word	Business card	small mismatch	against - hate - pocket - plate - keep - line - probable - between - connection - down - join - jelly - mouth	against - reason - at - sail - keep - line - worm - level - connection - down - join - jelly - mouth
-8	pseudo word	Business card	small mismatch	userul - kexi - vciiw - ofun - bopug	bsyru6 - de3i - vci6w - faun - fopzz
-8	pseudo word	Business card	small mismatch	kepukh - 3jov - gocik - feda - okuze	kepukh - 3jov - gocik - feda - okuze
-8	hex	Business card	small mismatch	B68B0B1CA0C8780D3F058B4383EF4C46	97CB001CA016780C1A058B3383E44A46
-8	hex	Business card	small mismatch	2A6F0EEB93E5E83BE36FDA35C011CAA8	2A6F0EEB93E5E83BE36FDA35C011CAA8
-8	english poem	Business card	small mismatch	this dead brush costs freely <br>my cotton fights his top slowly over this judge <br>our false nail pays my foot	that fat comfort lives freely <br>my cotton shouts his fight fixedly over this song <br>his shut nail lives my foot
-8	english poem	Business card	small mismatch	this baby opens <br>our smooth feeling begins the record rarely <br>the small company takes <br>his head fills his wrong point	this baby opens <br>our smooth feeling moves my record deeply <br>our common ball stays <br>that collar drinks his foolish point
-8	english word	Phone	large mismatch	voice - harbor - military - copper - shirt - together - flight - dependent - quality - baby - very - agreement - peace	crush - weight - roll - arch - mist - end - living - oven - summer - discovery - school - stage - bee
-8	english word	Phone	large mismatch	purpose - step - keep - learning - keep - lead - there - among - song - lead - shade - chalk - wise	purpose - step - keep - learning - keep - lead - there - among - song - lead - shade - chalk - wise
-8	pseudo word	Phone	large mismatch	gijenu - pozi - meatd - yoh7 - valib	tgeheb - vgic - v3kak - drjp - d7ega
-8	pseudo word	Phone	large mismatch	ewasof - ubuw - oqzom - shiz - akiw4	ewasof - ubuw - oqzom - shiz - akiw4
-8	hex	Phone	large mismatch	65A21DF0E843A1D734583D750E527F3C	65A21DF0E843A1D734583D750E527F3C
-8	hex	Phone	large mismatch	3E04254E673799C2E14714B8FD8B1BF0	F87A8133E9CAB632806419DCCFE78395
-8	english poem	Phone	large mismatch	her steel smiles at his blow by that clear train <br>your comfort sees <br>his wrong chain does widely beside her hook	her steel smiles at his blow by that clear train <br>your comfort sees <br>his wrong chain does widely beside her hook
-8	english poem	Phone	large mismatch	this feather loves <br>his ready feather finishes after my left smile <br>my last bed keeps her sick peace lazily	our sock studies <br>the gun turns your white iron equally from this sticky print <br>her wet thing hates my pen
-8	english word	Phone	small mismatch	reaction - drawer - loss - impulse - whistle - sign - stamp - name - though - together - snake - stick - jump	reaction - drawer - loss - impulse - whistle - sign - stamp - name - though - together - snake - stick - jump
-8	english word	Phone	small mismatch	circle - end - shame - wet - curve - chief - attempt - porter - power - hook - impulse - power - destruction	this - end - will - wet - curve - chief - mouth - fold - power - hook - impulse - power - not
-8	pseudo word	Phone	small mismatch	ibidvi - tumr - inamf - yiji - cibax	zbidvi - ttm6 - n7c2f - yiqf - c54lx
-8	pseudo word	Phone	small mismatch	dhexaz - imin - zelib - ohuq - fufap	dheqak - imyr - d7jab - bh5q - fjfap
-8	hex	Phone	small mismatch	55E274B08196271180554B75A7FE0ED9	55E274B08196271180554B75A7FE0ED9
-8	hex	Phone	small mismatch	30831351E3A12B37ABBFA9F644171CD9	30831351E3A12B37ABBFA9F644171CD9
-8	english poem	Phone	small mismatch	her living snow kills newly <br>your poor leaf visits feebly round our bright paste <br>her hard end eats towards my plough	that yellow person thinks newly <br>her poor floor visits feebly round your quiet picture <br>her clear end eats in this plough
-8	english poem	Phone	small mismatch	that ready copper lives against her open finger <br>the clean bread helps the high tooth smoothly <br>our hand speaks to my blood	that ready copper lives against her open finger <br>the clean bread helps the high tooth smoothly <br>our hand speaks to my blood
-9	english word	Business card	large mismatch	insurance - some - crime - cord - mist - cotton - ear - control - canvas - existence - beautiful - dog - fowl	serious - dead - reason - cord - knot - broken - conscious - education - manager - spade - vessel - account - kick
-9	english word	Business card	large mismatch	spoon - crack - pull - military - spade - political - rule - stamp - shirt - bitter - dependent - blade - baby	spoon - crack - pull - military - spade - political - rule - stamp - shirt - bitter - dependent - blade - baby
-9	pseudo word	Business card	large mismatch	vehvuv - alut - lubin - darr - vatec	vehvuv - alut - lubin - darr - vatec
-9	pseudo word	Business card	large mismatch	upukut - upad - jyokw - ytof - emisu	upukut - upad - jyokw - ytof - emisu
-9	hex	Business card	large mismatch	B2140A0080A5150DEB9B31ACB8EB7CAE	B2140A0080A5150DEB9B31ACB8EB7CAE
-9	hex	Business card	large mismatch	1193EEA98499D50E15C5F4BB61236932	1193EEA98499D50E15C5F4BB61236932
-9	english poem	Business card	large mismatch	your attempt moves our round disease smoothly before your disgust <br>my gun puts over the sad box <br>this slip puts	this grass shouts his drawer <br>his writing ends at this smooth wire <br>our smooth fly sings stiffly before his curve
-9	english poem	Business card	large mismatch	her complex print forgives <br>your grey point feels <br>your safe pot brings publicly <br>his kind smoke thinks narrowly	her amount comes to his guide truly to this simple bag <br>the wise net prepares her tall cake brightly on my oil
-9	english word	Business card	small mismatch	medical - angry - black - rat - waiting - play - reward - up - increase - military - blow - responsible - again	medical - angry - black - rat - waiting - play - reward - up - increase - military - blow - responsible - again
-9	english word	Business card	small mismatch	coat - every - hand - measure - produce - hair - salt - form - able - under - country - manager - advertisement	coat - every - hand - measure - produce - hair - salt - form - able - under - country - manager - advertisement
-9	pseudo word	Business card	small mismatch	ijotic - xunk - cobep - iyxp - gewof	ijotic - xunk - cobep - iyxp - gewof
-9	pseudo word	Business card	small mismatch	sraxun - ezot - luhuw - mopi - gudyy	sraxun - ezot - luhuw - mopi - gudyy
-9	hex	Business card	small mismatch	F926A93F10744E6B41A1DB4D8292BA06	F926A93F10744E6B41A1DB4D8292BA06
-9	hex	Business card	small mismatch	712ADC61096757219FAC648AB4A4B6AC	712ADC61096757219FAC648AB4A4B6AC
-9	english poem	Business card	small mismatch	my way finds publicly <br>your deep watch offers along the stiff library <br>that opinion asks our horse across this bell	my way finds publicly <br>your deep watch offers along the stiff library <br>that opinion asks our horse across this bell
-9	english poem	Business card	small mismatch	this dry detail wants this round bridge <br>her tight place becomes sweetly <br>our floor stays feebly <br>his cheap wall needs	this dry self wants this rare gold <br>your wise flame laughs sweetly <br>our wood stays bitterly <br>his cheap wall needs
-9	english word	Phone	large mismatch	weight - keep - head - little - chest - voice - bright - comparison - desire - laugh - wax - bell - lift	nation - rain - question - trousers - brick - jump - foot - part - cork - grain - system - floor - between
-9	english word	Phone	large mismatch	when - soft - well - birth - cup - solid - yellow - run - as - tree - safe - brick - care	when - soft - well - birth - cup - solid - yellow - run - as - tree - safe - brick - care
-9	pseudo word	Phone	large mismatch	hpikuf - qeny - yoliz - ehuz - jegas	zloueq - 6amn - oim6x - fov7 - voddz
-9	pseudo word	Phone	large mismatch	amunew - gqac - bino6 - kebv - sihoz	amunew - gqac - bino6 - kebv - sihoz
-9	hex	Phone	large mismatch	FECC1A1804FAED5B9381C35F70BF798B	FB54468210AFCAB308B47F1CAF6AB9D7
-9	hex	Phone	large mismatch	2C601167F8078EF9FFAB7B2E8D1BE4CB	0DC0495520605BDAF0E2196B3F7947B8
-9	english poem	Phone	large mismatch	this garden receives publicly beneath the war <br>that river sends after my short detail <br>his married edge chooses your present glass	this garden receives publicly beneath the war <br>that river sends after my short detail <br>his married edge chooses your present glass
-9	english poem	Phone	large mismatch	her long milk promises the yellow cough <br>his solid need dies for your quiet board under our neck <br>his metal teaches	our tongue wins <br>my bright weather buys simply <br>his high pump treats <br>my slip cries dearly above our like price
-9	english word	Phone	small mismatch	thunder - stocking - electric - observation - record - stem - bright - judge - attention - wide - office - word - that	shame - stocking - destruction - observation - credit - stem - bright - judge - attention - wide - noise - word - cloth
-9	english word	Phone	small mismatch	dark - question - chest - able - ready - slope - gold - purpose - bad - comparison - language - wide - market	dark - question - chest - able - ready - slope - gold - purpose - bad - comparison - language - wide - market
-9	pseudo word	Phone	small mismatch	xawige - 4ahe - yagaz - ob6r - xakot	lawige - 5a6p - ywtdz - 2btg - njkot
-9	pseudo word	Phone	small mismatch	yosbak - omir - jozod - ripv - ogdod	yosbak - omir - jozod - ripv - ogdod
-9	hex	Phone	small mismatch	F620214A2D43BAF8DB9BE4A6A1B3243F	F620214A2D43BAF8DB9BE4A6A1B3243F
-9	hex	Phone	small mismatch	FA6A0026100CFC04109A7C18DE2B0870	FA6A0026100CFC04109A7C18DE2B0870
-9	english poem	Phone	small mismatch	her mind learns <br>your toe reads this request inside the spoon <br>our clear needle asks our yellow iron <br>his animal forgives	her mind has <br>my mouth compares this request inside the spoon <br>our sharp turn pays our quick iron <br>his drawer forgives
-9	english poem	Phone	small mismatch	our quick sleep runs among this short cook <br>that print tries behind his normal wound <br>the secret shelf stops	his sick sleep runs among your sudden cook <br>that impulse becomes into my soft wound <br>our secret desire sings
-10	english word	Business card	large mismatch	south - broken - so - net - danger - voice - able - map - there - authority - fight - system - collar	place - brake - mixed - long - young - private - dry - second - face - ill - kind - the - pull
-10	english word	Business card	large mismatch	drink - electric - humor - swim - kiss - hole - increase - crush - part - tongue - complete - art - disgust	grey/gray - round - please - belief - gold - punishment - decision - summer - throat - stage - advertisement - carriage - design
-10	pseudo word	Business card	large mismatch	jimapi - atoh - saqoy - mmuz - ucli5	jimapi - atoh - saqoy - mmuz - ucli5
-10	pseudo word	Business card	large mismatch	nlacoj - vipa - feliz - ejod - apomg	nlacoj - vipa - feliz - ejod - apomg
-10	hex	Business card	large mismatch	44ADF876659AF86CCC7109BFE53D9F67	27DE475CE18776DB915BFDD6563D26B9
-10	hex	Business card	large mismatch	3DABED3898A6471CECEED5A36AD98D99	3DABED3898A6471CECEED5A36AD98D99
-10	english poem	Business card	large mismatch	our wrong prison studies <br>that stick has below this brown science <br>my stretch wins the special fork <br>this thin net meets	our wrong prison studies <br>that stick has below this brown science <br>my stretch wins the special fork <br>this thin net meets
-10	english poem	Business card	large mismatch	our natural picture cries for that free glass <br>our smoke moves deeply <br>our left gun runs cruelly above that roof	our natural picture cries for that free glass <br>our smoke moves deeply <br>our left gun runs cruelly above that roof
-10	english word	Business card	small mismatch	shade - stem - egg - gold - science - moon - industry - walk - chemical - cook - boat - pull - prose	almost - stem - deep - tendency - science - moon - cheap - walk - chemical - cook - boat - chemical - prose
-10	english word	Business card	small mismatch	sort - plant - steel - bee - brake - meal - leaf - meal - heart - fowl - keep - industry - drawer	sort - purpose - bee - bee - direction - meal - library - meal - heart - powder - keep - industry - drawer
-10	pseudo word	Business card	small mismatch	6jihaz - busp - mikef - ogum - pzofo	6jihaz - busp - mikef - ogum - pzofo
-10	pseudo word	Business card	small mismatch	alwudu - obut - bmimu - iket - umaxx	alashx - apug - bo2mi - iket - 4maxx
-10	hex	Business card	small mismatch	62EE69D5ED706BBB41CCAE43366A60A3	62EE69D5ED706BBB41CCAE43366A60A3
-10	hex	Business card	small mismatch	A5FB69CD6643AB2179DC939227F88719	A5FB69CD6643AB2179DC939227F88719
-10	english poem	Business card	small mismatch	your poor sail dances with that early change before this small nerve <br>that ear makes our poor leather to that polish	your bent quality feels by that boiling fight before this yellow nerve <br>this spring makes our poor leather to our polish
-10	english poem	Business card	small mismatch	your bitter sock visits on your steam <br>the male cook has his money smoothly <br>your meat tries your special way	your bitter sock visits on your steam <br>the male cook has his money smoothly <br>your meat tries your special way
-10	english word	Phone	large mismatch	prose - motion - girl - straight - punishment - stick - while - see - open - sky - thick - argument - full	prose - motion - girl - straight - punishment - stick - while - see - open - sky - thick - argument - full
-10	english word	Phone	large mismatch	bulb - or - punishment - fiction - then - over - bite - sign - wall - art - wash - late - trade	bulb - or - punishment - fiction - then - over - bite - sign - wall - art - wash - late - trade
-10	pseudo word	Phone	large mismatch	nejige - coce - jmihe - voxi - xlyus	nejige - coce - jmihe - voxi - xlyus
-10	pseudo word	Phone	large mismatch	rvajux - ekow - lenat - alef - unvke	rvajux - ekow - lenat - alef - unvke
-10	hex	Phone	large mismatch	3EF941E9AF863596D326316F07E1B176	3EF941E9AF863596D326316F07E1B176
-10	hex	Phone	large mismatch	F66B724FAB7A369C9A38164FAB2D339A	F66B724FAB7A369C9A38164FAB2D339A
-10	english poem	Phone	large mismatch	her ready linen destroys her nail over our bright train <br>this man loses under his medical nation <br>that snake sells	her ready linen destroys her nail over our bright train <br>this man loses under his medical nation <br>that snake sells
-10	english poem	Phone	large mismatch	my grey smell tells his sound <br>her chest cleans your feeble offer <br>the value walks quickly <br>your deep powder allows	my rough ship smiles that angry desire rarely from our young man <br>your same rest cleans <br>his steel laughs past her friend
-10	english word	Phone	small mismatch	broken - cow - among - history - building - old - weight - through - kettle - plate - flower - reward - metal	broken - cow - among - history - building - old - weight - through - kettle - plate - flower - reward - metal
-10	english word	Phone	small mismatch	some - come - process - machine - hat - play - sugar - public - effect - neck - comfort - interest - not	some - come - process - machine - hat - play - sugar - public - effect - neck - comfort - interest - not
-10	pseudo word	Phone	small mismatch	zyaman - huru - u4xog - atog - howuz	zyaman - huru - u4xog - atog - howuz
-10	pseudo word	Phone	small mismatch	samuwu - vi4e - yojaq - imav - edefx	samuwu - vi4e - yojaq - imav - edefx
-10	hex	Phone	small mismatch	AFA109A676D13C2885862138B87F318F	AFA109A676D13C2885862138B87F318F
-10	hex	Phone	small mismatch	DC9F21B4D8E4B392A0DF6EFC3DB22155	DC9F21B4D8E4B392A0DF6EFC3DB22155
-10	english poem	Phone	small mismatch	your last grass asks sweetly <br>your natural basin turns my baby <br>this stiff arch forgets over his simple muscle	your last grass asks sweetly <br>your natural basin turns my baby <br>this stiff arch forgets over his simple muscle
-10	english poem	Phone	small mismatch	my yellow mouth compares softly beside your example <br>your flat mark laughs thickly <br>her growth walks angrily beneath your pretty bee	her yellow fiction destroys softly past this person <br>the narrow mark fills freely <br>our growth walks angrily beneath your fat bee
-11	english word	Business card	large mismatch	electric - middle - on - automatic - dry - last - substance - view - interest - page - boot - cold - he	electric - middle - on - automatic - dry - last - substance - view - interest - page - boot - cold - he
-11	english word	Business card	large mismatch	waste - yes - plough/plow - dog - space - war - art - trouble - run - well - from - the - experience	waste - yes - plough/plow - dog - space - war - art - trouble - run - well - from - the - experience
-11	pseudo word	Business card	large mismatch	baiyof - codo - eriam - asew - efopb	tymtr7 - 2a23 - ganaq - awo7 - tfr7k
-11	pseudo word	Business card	large mismatch	tojoxo - utgs - ebotj - puki - overe	tojoxo - utgs - ebotj - puki - overe
-11	hex	Business card	large mismatch	FC00FA4D4A38FE7E8A0A2EF5F00E4655	FC00FA4D4A38FE7E8A0A2EF5F00E4655
-11	hex	Business card	large mismatch	096AB7E53ED6B0EEAB7DEBF6FC2259A1	096AB7E53ED6B0EEAB7DEBF6FC2259A1
-11	english poem	Business card	large mismatch	your sad idea turns the front <br>her smile rests falsely <br>her poor history moves my butter below that step	your sad idea turns the front <br>her smile rests falsely <br>her poor history moves my butter below that step
-11	english poem	Business card	large mismatch	this effect throws the waiting smell past my rare step <br>the journey tells this lazy linen <br>your damage finishes	my tall colour moves your hollow error clearly <br>that silver tells <br>your round rhythm sells her present force quietly
-11	english word	Business card	small mismatch	why - twist - angle - competition - farm - smoke - by - purpose - bell - voice - among - butter - horn	man - twist - angle - where - mixed - smoke - by - trousers - bell - voice - among - butter - name
-11	english word	Business card	small mismatch	move - space - wine - till - purpose - angle - grip - look - memory - true - pig - business - spoon	branch - space - wine - till - wet - cake - school - whip - memory - true - pig - business - spoon
-11	pseudo word	Business card	small mismatch	gapetn - nohd - xetiz - xuhi - xebuv	gapetn - nohd - xetiz - xuhi - xebuv
-11	pseudo word	Business card	small mismatch	ksepof - hozo - 2fenu - gimi - ulaew	ksepof - hozo - 2fenu - gimi - ulaew
-11	hex	Business card	small mismatch	1FA1ED6FAF64506AF587BE9F16890D71	FFA1E46FDF64506AF689B9DFB6090671
-11	hex	Business card	small mismatch	FA568E2111AF35DA5EEF4A68A16D9E50	FABDC62E11AFF5DA56F44A68A66D9756
-11	english poem	Business card	small mismatch	this fowl cooks under my control <br>his secret watch hears kindly beside the stitch <br>our short support rests cheaply	that cat cooks in my control <br>that long food hears coldly inside his stitch <br>our short trouble presses cheaply
-11	english poem	Business card	small mismatch	her attempt pushes greatly <br>my public paste leaves our cloth badly under this tongue <br>this short pig offers warmly	her attempt pushes greatly <br>my public paste leaves our cloth badly under this tongue <br>this short pig offers warmly
-11	english word	Phone	large mismatch	stem - tooth - mother - voice - let - floor - man - letter - answer - shock - give - guide - word	stem - tooth - mother - voice - let - floor - man - letter - answer - shock - give - guide - word
-11	english word	Phone	large mismatch	group - danger - when - small - support - whip - coat - way - insect - history - cork - why - oven	group - danger - when - small - support - whip - coat - way - insect - history - cork - why - oven
-11	pseudo word	Phone	large mismatch	utowib - waqa - qizaf - acol - etn3a	utowib - waqa - qizaf - acol - etn3a
-11	pseudo word	Phone	large mismatch	aliovi - umey - winec - jejr - olivs	cacnzb - rsmu - wvipn - vabz - vinlt
-11	hex	Phone	large mismatch	EA63BD00A723CB9A09E3BBEC38705FE9	D7E08E5323DF9BFBC3F46B400D3C8E24
-11	hex	Phone	large mismatch	C7C3FE2DD2F16DE1C6FA2CD34EEC2179	C7C3FE2DD2F16DE1C6FA2CD34EEC2179
-11	english poem	Phone	large mismatch	our mixed middle goes kindly <br>our drain finds secretly <br>our screw treats <br>her regret calls our brake inside this net	our mixed middle goes kindly <br>our drain finds secretly <br>our screw treats <br>her regret calls our brake inside this net
-11	english poem	Phone	large mismatch	our pretty science begins above your paint <br>that soft map presses this dead expert <br>my dead ring stays with my machine	the slow hammer leaves that print round your cruel humour <br>the front cuts along my mine against your curve <br>his old place teaches
-11	english word	Phone	small mismatch	dark - wise - feeling - cause - society - bent - send - cart - pain - brown - river - red - wool	dark - wise - feeling - cause - forward - bent - among - cart - comparison - brother - river - because - wool
-11	english word	Phone	small mismatch	hat - yellow - trouble - reward - side - as - middle - week - head - kiss - rate - silk - physical	hat - true - trouble - reward - side - as - number - week - head - history - damage - silk - slow
-11	pseudo word	Phone	small mismatch	boxocu - usad - ohsiq - ebet - ocwho	jsdoca - usad - mzs4q - evtt - jquho
-11	pseudo word	Phone	small mismatch	zafozy - amid - uh3nu - abon - donex	maxjzy - 3e22 - up3n7 - abpn - donen
-11	hex	Phone	small mismatch	908C8F4F066749122D516A61688591DE	9D7C8F400667490F2D516861668561DE
-11	hex	Phone	small mismatch	6C1C68AAE651E2D4A7691B6B5D2B6F01	6C1C68AAE651E2D4A7691B6B5D2B6F01
-11	english poem	Phone	small mismatch	our living sugar jumps equally against your sand <br>that feeling agrees <br>her lip costs <br>this early horn buys your dog	our living sugar jumps equally against your sand <br>that feeling agrees <br>her lip costs <br>this early horn buys your dog
-11	english poem	Phone	small mismatch	the clear taste shows <br>this deep history thinks solidly near his natural pen <br>my loud fight hates <br>that old stone thinks	the clear taste shows <br>this deep history thinks solidly near his natural pen <br>my loud fight hates <br>that old stone thinks
-12	english word	Business card	large mismatch	sex - summer - early - join - together - polish - sharp - sugar - church - stone - kiss - baby - division	sex - summer - early - join - together - polish - sharp - sugar - church - stone - kiss - baby - division
-12	english word	Business card	large mismatch	page - quick - needle - bird - where - living - feather - fact - disgust - behavior - orange - thunder - money	before - feeble - stop - see - fire - color - example - key - organization - poison - violent - feather - salt
-12	pseudo word	Business card	large mismatch	gsirav - tapa - auwos - vebd - ukusu	qh4r3n - cgis - uvqz3 - geyo - tuafu
-12	pseudo word	Business card	large mismatch	rwacom - uudo - tajuj - ttaw - vixeq	rwacom - uudo - tajuj - ttaw - vixeq
-12	hex	Business card	large mismatch	55775F265C9844DDCB40861F51A3DA78	7920378D41B188E1C3A0F6D3E4F7B53E
-12	hex	Business card	large mismatch	D75680776513B6CAFEEFE6D2E90788C6	637F5003DEC3AABA6761FD8BF1DC85CC
-12	english poem	Business card	large mismatch	his able drain sends from my open rain <br>my bitter pen answers the feeble winter roughly <br>your cook listens	his able drain sends from my open rain <br>my bitter pen answers the feeble winter roughly <br>your cook listens
-12	english poem	Business card	large mismatch	her head continues past our attempt <br>my grey kiss answers his cotton smoothly <br>your play answers this second moon	her head continues past our attempt <br>my grey kiss answers his cotton smoothly <br>your play answers this second moon
-12	english word	Business card	small mismatch	right - history - glove - point - distance - bed - story - ball - laugh - brush - poison - tray - amount	right - history - glove - week - distance - tight - story - ball - angle - scissors - poison - tray - name
-12	english word	Business card	small mismatch	machine - tooth - window - sister - jewel - blue - smoke - tin - prose - harmony - thing - parcel - flame	machine - tooth - window - sister - jewel - blue - smoke - tin - prose - harmony - thing - parcel - flame
-12	pseudo word	Business card	small mismatch	duyace - purg - oxonu - peye - 4gopo	dutiie - pern - oxovi - osye - 4uvpo
-12	pseudo word	Business card	small mismatch	gkufaj - ahol - hizao - usas - figso	6kh4ay - pho4 - hizco - uzbz - fimso
-12	hex	Business card	small mismatch	06AFC7A53D8F652A5E3264109168C0EA	0AA7F6A5072F652A5E3F68D09165C0E2
-12	hex	Business card	small mismatch	43746D52332140737DAA840BD425513B	A8793D5233D580447DAA810BD4F5413B
-12	english poem	Business card	small mismatch	my low wire teaches rarely beside the hammer <br>our girl has our shut edge safely outside the right effect	my able day teaches warmly beside the bee <br>our girl chooses our cold edge greatly to this right animal
-12	english poem	Business card	small mismatch	this office fights her stage suddenly <br>this desire cries poorly on the last stem <br>her sticky sugar writes to this tall parcel	this morning remembers her stage suddenly <br>this face cries poorly on the red rest <br>his bent sugar travels inside this tall trade
-12	english word	Phone	large mismatch	size - weather - example - please - spring - toe - wash - man - put - toe - glass - journey - work	size - weather - example - please - spring - toe - wash - man - put - toe - glass - journey - work
-12	english word	Phone	large mismatch	chance - be - fold - white - mist - fight - invention - lead - help - view - thread - rod - respect	hearing - full - clear - scale - soup - son - land - who - spring - attack - record - plate - ink
-12	pseudo word	Phone	large mismatch	stireo - wime - vesas - nofu - ibuzu	stireo - wime - vesas - nofu - ibuzu
-12	pseudo word	Phone	large mismatch	vufwan - gizu - oumad - hhes - ufida	6edoga - ci74 - olase - 2i7r - ygejw
-12	hex	Phone	large mismatch	A2A36C01B9A1876B7FD0CC21993FD3C0	A2A36C01B9A1876B7FD0CC21993FD3C0
-12	hex	Phone	large mismatch	81A5FEDE38F55B8B621C353E92579BB2	81A5FEDE38F55B8B621C353E92579BB2
-12	english poem	Phone	large mismatch	this unknown bucket calls her feeble grip sourly <br>this rat goes to the animal <br>your cook stops this mass in our work	this unknown bucket calls her feeble grip sourly <br>this rat goes to the animal <br>your cook stops this mass in our work
-12	english poem	Phone	large mismatch	your knee pulls through your debt <br>her serious jewel improves that wise picture softly after his ice <br>our skin studies	your knee pulls through your debt <br>her serious jewel improves that wise picture softly after his ice <br>our skin studies
-12	english word	Phone	small mismatch	knee - act - industry - stage - chalk - head - different - get - arch - plough/plow - increase - wet - short	knee - act - industry - stage - chalk - head - different - get - arch - plough/plow - increase - wet - short
-12	english word	Phone	small mismatch	who - journey - pig - record - wing - much - man - watch - run - pull - day - cruel - committee	who - journey - so - record - wing - much - food - thin - run - yesterday - day - cruel - chemical
-12	pseudo word	Phone	small mismatch	nijoqu - lufi - uferi - pid6 - monva	nijoqu - lufi - uferi - pid6 - monva
-12	pseudo word	Phone	small mismatch	foxotn - ateh - lrgit - udip - xivap	foxotn - ateh - lrgit - udip - xivap
-12	hex	Phone	small mismatch	1B84C16088770419953AA631FEA7EFC4	5B44C56088770416E59A2531CE87EFD4
-12	hex	Phone	small mismatch	19361E9CC4B79810DE580FA539FAA4DD	3936149CC4B74720D19E0FD0399AA43D
-12	english poem	Phone	small mismatch	that lazy chain occurs bitterly after your sudden paste <br>his sock runs smoothly after my weather <br>your weight drinks the snow	that lazy chain occurs bitterly after your sudden paste <br>his sock runs smoothly after my weather <br>your weight drinks the snow
-12	english poem	Phone	small mismatch	this strange paper lets behind the bad farm <br>that last run comes to my coal hardly <br>his fly hears past my blade	this strange paper becomes by the bad farm <br>the last part supports from that coal equally <br>her tail jumps slow the blade
-13	english word	Business card	large mismatch	future - material - condition - change - burn - belief - hole - offer - same - present - conscious - sign - mixed	future - material - condition - change - burn - belief - hole - offer - same - present - conscious - sign - mixed
-13	english word	Business card	large mismatch	seem - knife - mark - dress - root - fly - female - hope - ready - late - future - drop - skin	seem - knife - mark - dress - root - fly - female - hope - ready - late - future - drop - skin
-13	pseudo word	Business card	large mismatch	abebul - 2daq - onore - yeaz - cepir	escmgh - iqpv - igrax - pefb - goxll
-13	pseudo word	Business card	large mismatch	etobci - esef - thodp - edem - bofim	ppaxdn - uocl - vvuuh - fon3 - dijoe
-13	hex	Business card	large mismatch	EB14FE80AE4505607B9E870F0498E941	EB14FE80AE4505607B9E870F0498E941
-13	hex	Business card	large mismatch	284003ADC216E51869A97CAD7ED6989D	1EC1DB9CD336265B6D28440446167CED
-13	english poem	Business card	large mismatch	his grass feels <br>her cake loves our weight clearly from my deep look <br>the quiet person looks cheaply <br>her tray shouts	his grass feels <br>her cake loves our weight clearly from my deep look <br>the quiet person looks cheaply <br>her tray shouts
-13	english poem	Business card	large mismatch	her shame makes my good foot by this nerve <br>the boot holds <br>our certain pin talks to your rub secretly	her shame makes my good foot by this nerve <br>the boot holds <br>our certain pin talks to your rub secretly
-13	english word	Business card	small mismatch	full - current - mass - month - cheap - chin - attraction - sharp - feeble - sex - canvas - ant - bed	full - lip - bone - month - pull - chin - attraction - east - feeble - together - canvas - ant - bed
-13	english word	Business card	small mismatch	attraction - true - east - army - spade - authority - need - animal - poison - position - skirt - copper - way	attraction - true - dependent - army - spade - wide - bread - animal - point - position - skirt - copper - canvas
-13	pseudo word	Business card	small mismatch	enlgac - unuw - anazu - osed - mivic	wllpac - knud - gprzu - 7sed - bwbic
-13	pseudo word	Business card	small mismatch	nokije - odad - uremo - 2qse - gawup	norise - nwaq - urtmo - 2ffe - g2wjh
-13	hex	Business card	small mismatch	B60A7A95E42C01D1D5389E1755595874	B60A7A95E42C01D1D5389E1755595874
-13	hex	Business card	small mismatch	5481B6235CBC38693DEE26B9D4415934	5481B6235CBC38693DEE26B9D4415934
-13	english poem	Business card	small mismatch	my lazy collar washes that bright idea <br>his cause loves suddenly <br>her true sea answers my story stiffly	that lazy iron washes our bright chalk <br>that vessel tells suddenly <br>our cheap sea sleeps my story narrowly
-13	english poem	Business card	small mismatch	the town forgives ably under her tall animal <br>my poison loves secretly through the judge <br>our poison walks below our harbour	the town forgives ably under her tall animal <br>my poison loves secretly through the judge <br>our poison walks below our harbour
-13	english word	Phone	large mismatch	frame - see - wide - smash - morning - tight - electric - through - work - natural - living - suggestion - small	frame - see - wide - smash - morning - tight - electric - through - work - natural - living - suggestion - small
-13	english word	Phone	large mismatch	chain - spoon - religion - drink - fruit - ray - government - clock - detail - glass - field - hook - broken	chain - spoon - religion - drink - fruit - ray - government - clock - detail - glass - field - hook - broken
-13	pseudo word	Phone	large mismatch	xivody - bode - qrfik - ocav - kibim	xivody - bode - qrfik - ocav - kibim
-13	pseudo word	Phone	large mismatch	wawink - atil - ljedx - oqoq - pegep	xjmlad - wkug - zatad - rslf - y5ati
-13	hex	Phone	large mismatch	D981313E4CB3206CD2890F02DB12C1CF	D981313E4CB3206CD2890F02DB12C1CF
-13	hex	Phone	large mismatch	B57B3282992943DAF3EAAA7E68D5B118	B57B3282992943DAF3EAAA7E68D5B118
-13	english poem	Phone	large mismatch	your happy colour begins kindly behind that process <br>the sweet hour offers your solid star sweetly through that young impulse	our yellow drawer buys between her law dearly to this stick <br>this green room helps this dry loss beside this river
-13	english poem	Phone	large mismatch	your brown news prepares angrily <br>her fork sells feebly <br>the street agrees with that special company poorly round our force	your brown news prepares angrily <br>her fork sells feebly <br>the street agrees with that special company poorly round our force
-13	english word	Phone	small mismatch	design - scale - minute - government - straight - same - meeting - or - protest - pump - door - observation - first	design - scale - minute - government - straight - same - meeting - or - protest - pump - door - observation - first
-13	english word	Phone	small mismatch	mind - scissors - suggestion - statement - prison - frequent - sense - that - watch - rest - brick - get - sun	mind - scissors - suggestion - statement - prison - frequent - sense - that - watch - rest - brick - get - sun
-13	pseudo word	Phone	small mismatch	36bito - ecov - oxofo - umod - vejur	36bito - ecov - oxofo - umod - vejur
-13	pseudo word	Phone	small mismatch	ivikev - upie - yobst - ikik - erigo	auikev - upiz - vo3bt - oei4 - er4gc
-13	hex	Phone	small mismatch	877DEDD936FDB4D2BF7895885299B944	07EDEDDF26BDB4DABF719511B299BF44
-13	hex	Phone	small mismatch	ADA41D1E75F28435BAB646EA9E48D281	ADA41B9E74A284D3BAB6468E944AD285
-13	english poem	Phone	small mismatch	the theory lets that clear leaf under our false wax <br>my cruel noise shouts at that second pen <br>the blade talks	my circle lets his grey cheese under your green cat <br>my cruel noise buys upon this second pen <br>the cloth talks
-13	english poem	Phone	small mismatch	my unit asks across our low grass <br>her cheap father sees her brown chance beside this parcel <br>the cup knows	my unit asks across our low grass <br>her cheap father sees her brown chance beside this parcel <br>the cup knows
-14	english word	Business card	large mismatch	pull - answer - in - dry - have - certain - wire - sun - knowledge - window - bell - tomorrow - sound	pull - answer - in - dry - have - certain - wire - sun - knowledge - window - bell - tomorrow - sound
-14	english word	Business card	large mismatch	insect - love - when - clean - meal - neck - dirty - gold - little - mouth - for - burn - line	insect - love - when - clean - meal - neck - dirty - gold - little - mouth - for - burn - line
-14	pseudo word	Business card	large mismatch	akuknu - upaj - juvuw - zexp - baowa	akuknu - upaj - juvuw - zexp - baowa
-14	pseudo word	Business card	large mismatch	uzwoqo - ezab - lqhiw - omah - oruwi	uzwoqo - ezab - lqhiw - omah - oruwi
-14	hex	Business card	large mismatch	8217037E598CA87A044AFC495462E2B8	52B664A1709C670BCD88F2C36CA114EB
-14	hex	Business card	large mismatch	62DCC8339AF976614D017A8CEC386721	898B52D88208A038BC6462B595111858
-14	english poem	Business card	large mismatch	his future lock pulls the tin hardly before our boy <br>his sea asks with our simple pump <br>my place turns	our cloud talks through our right prose <br>your quick quality asks from your wound <br>this sweet cover explains our female chin
-14	english poem	Business card	large mismatch	this able roll is the boiling event softly near that ice <br>your glove is your sick meat poorly <br>that married sock explains	this able roll is the boiling event softly near that ice <br>your glove is your sick meat poorly <br>that married sock explains
-14	english word	Business card	small mismatch	if - thread - join - company - meeting - disgust - drink - addition - stamp - order - here - position - seed	if - thread - where - clock - punishment - after - drink - addition - stamp - system - here - position - seed
-14	english word	Business card	small mismatch	fork - thread - amount - wool - through - trick - thumb - knee - pocket - over - pencil - almost - attention	fork - thread - that - government - through - idea - thumb - station - pocket - over - pencil - under - attention
-14	pseudo word	Business card	small mismatch	yinusu - adav - i6uqu - vokz - kaxal	nunus5 - xpac - ip7qa - vokz - kaydl
-14	pseudo word	Business card	small mismatch	kijocu - coih - 3virc - jose - ameku	kijocu - coih - 3virc - jose - ameku
-14	hex	Business card	small mismatch	B940280345A3D62EF4FB933AB289DAD6	B94B2805A5A3169EF84B9DFBB289DAD4
-14	hex	Business card	small mismatch	A1A168D19FD66FC180FC0BF59DCCCBE0	64A128D19F5A6FC650FCFBF59DCCC5E0
-14	english poem	Business card	small mismatch	his unknown tooth presses <br>your regular war prepares my clean shelf at her waiting earth <br>our elastic fiction opens my humour	his black tooth compares <br>this old view prepares my clean shelf across his good earth <br>our hanging join opens my fold
-14	english poem	Business card	small mismatch	our dead shoe describes bitterly into that short sand <br>my good clock gets her trade sourly round his married money	our dead shoe describes bitterly into that short sand <br>my good clock gets her trade sourly round his married money
-14	english word	Phone	large mismatch	shut - prose - milk - card - polish - parallel - living - chalk - song - history - baby - moon - road	tall - skin - bottle - bird - argument - thin - blow - gun - nerve - little - blood - range - such
-14	english word	Phone	large mismatch	belief - scale - shirt - clear - cover - curve - straight - shock - wrong - wool - step - nation - low	water - twist - science - second - boat - debt - cook - simple - because - cotton - print - head - almost
-14	pseudo word	Phone	large mismatch	morebe - uwfm - japap - kizo - finam	morebe - uwfm - japap - kizo - finam
-14	pseudo word	Phone	large mismatch	cafobu - gaic - 5ejic - inir - audev	rze4uq - xsyd - pq6ie - gvdh - 4nezi
-14	hex	Phone	large mismatch	4DF4CCB0D0BC67C085FA5C2304D64B26	3241003C1213014E7FB0497D2301788E
-14	hex	Phone	large mismatch	42445C6E34DD0FF1B27103E54C167A68	42445C6E34DD0FF1B27103E54C167A68
-14	english poem	Phone	large mismatch	your night cooks this old crush <br>his control meets rarely against our old look <br>his noise becomes our hard heart	that equal stem pays brokenly outside your garden <br>this simple story wants this hard range solidly beyond your theory
-14	english poem	Phone	large mismatch	his wheel answers his hair quickly <br>that red card hears her trick readily across this early writing <br>your process works	my point cooks the foolish lip cruelly <br>that oven receives our thick foot beyond that station <br>that book meets
-14	english word	Phone	small mismatch	trade - hard - take - wine - wind - fixed - library - open - door - apple - or - thin - foolish	free - story - take - rule - wind - fixed - library - open - door - every - or - thin - pain
-14	english word	Phone	small mismatch	powder - goat - ship - soup - example - bucket - equal - example - business - suggestion - thunder - second - error	detail - wing - ship - soup - example - bucket - month - example - need - suggestion - why - second - error
-14	pseudo word	Phone	small mismatch	ajebir - 64be - tusif - viml - qufus	ajebir - 64be - tusif - viml - qufus
-14	pseudo word	Phone	small mismatch	huxpek - nonz - susuq - edol - gukqi	ht4mey - nocz - bv6uq - edel - gukqx
-14	hex	Phone	small mismatch	C8616034FBBB7200250C6D8EAC1E1ED8	C8616034FBBB7200250C6D8EAC1E1ED8
-14	hex	Phone	small mismatch	82E54E2527B1CFCF0A2DF815A9B99309	82E54E2527B1CFCF0A2DF815A9B99309
-14	english poem	Phone	small mismatch	this sheep works along her tall disgust <br>that wing eats that mind truly <br>his brown detail fills <br>my curve counts	this sheep works along her tall disgust <br>that wing eats that mind truly <br>his brown detail fills <br>my curve counts
-14	english poem	Phone	small mismatch	his chalk answers his branch <br>the quick cause jumps over that bent cloth equally above that foolish market <br>the boiling talk sends	his chalk answers his branch <br>the quick cause jumps over that bent cloth equally above that foolish market <br>the boiling talk sends
+0	english word	Business card	large mismatch	complete - be - day - attack - rice - quality - base - stage - new - general - whip - cheap - place	complete - be - day - attack - rice - quality - base - stage - new - general - whip - cheap - place
+0	english word	Business card	large mismatch	trouble - stage - quite - birth - kettle - strange - false - simple - open - key - middle - frequent - country	trouble - stage - quite - birth - kettle - strange - false - simple - open - key - middle - frequent - country
+0	pseudo word	Business card	large mismatch	aregok - 3bhe - cahum - zohi - ifekt	upqx67 - ofox - otedi - gqqh - hofpv
+0	pseudo word	Business card	large mismatch	zotor5 - qxur - luvon - zore - apogt	cgrqap - sq5a - yau2u - ewie - z45us
+0	hex	Business card	large mismatch	CFFE B7AA CF59 57E1  5E3D B920 B533 B2C6	FC0B C11E 18A6 80A2  6C61 D7ED C29A AD5D
+0	hex	Business card	large mismatch	9B1A 8B80 1420 30D8  99B0 8763 EAAC 831A	9B1A 8B80 1420 30D8  99B0 8763 EAAC 831A
+0	english poem	Business card	large mismatch	our small pipe cleans her test <br>this mind tells your stem cheaply <br>the screw sees behind that nut <br>that land agrees	our small pipe cleans her test <br>this mind tells your stem cheaply <br>the screw sees behind that nut <br>that land agrees
+0	english poem	Business card	large mismatch	my small blade wins his payment happily towards your birth <br>his needle comes freely <br>this event hears your dark gold	my motion travels to the moon inside that food <br>the common ring supports freely <br>this hanging camera becomes <br>this broken word forgives
+0	english word	Business card	small mismatch	blue - walk - building - foot - or - request - arm - flat - bird - rate - picture - value - breath	cover - walk - building - foot - move - request - arm - flat - bird - distribution - picture - porter - attack
+0	english word	Business card	small mismatch	system - regret - as - brain - he - boy - well - able - twist - jump - teaching - thumb - angry	system - regret - as - brain - he - boy - well - able - twist - jump - teaching - thumb - angry
+0	pseudo word	Business card	small mismatch	joyqew - uton - odije - 5ixi - imcon	joyqew - uton - odije - 5ixi - imcon
+0	pseudo word	Business card	small mismatch	byitup - quyu - tacwu - edih - oyuuv	byitup - quyu - tacwu - edih - oyuuv
+0	hex	Business card	small mismatch	7D21 87CD C0F8 F682  A7DA 997B 0C13 0F55	7D21 87CD C0F8 F682  A7DA 997B 0C13 0F55
+0	hex	Business card	small mismatch	CFA9 C0CC 3FCF D693  88C9 52DD 16BC 87AC	CFA9 C0CC 3FCF D693  88C9 52DD 16BC 87AC
+0	english poem	Business card	small mismatch	his public canvas sleeps <br>her sick control shows cheaply before your kick <br>our wise bridge cooks her paint bitterly	your ready canvas sells <br>my fat control comes cheaply against his kick <br>my wise bridge cooks her paint cruelly
+0	english poem	Business card	small mismatch	that wrong bath makes this green seed beneath his kind burn <br>that normal boat listens among that fowl <br>this canvas laughs	that wrong bath describes this green move beneath his kind screw <br>that smooth machine listens among that fowl <br>this answer laughs
+0	english word	Phone	large mismatch	deep - join - hanging - linen - cause - hat - desire - not - awake - stop - not - white - solid	reason - payment - pin - electric - doubt - mark - political - jelly - dirty - company - some - do - trouble
+0	english word	Phone	large mismatch	loud - angry - do - cook - warm - start - attempt - man - station - wool - sweet - present - song	loud - angry - do - cook - warm - start - attempt - man - station - wool - sweet - present - song
+0	pseudo word	Phone	large mismatch	vyelaf - 3voy - faris - yoco - damuj	lfolqh - 4uch - aut73 - kvvq - aqeca
+0	pseudo word	Phone	large mismatch	utovjo - vomu - unoyu - fcnu - usati	utovjo - vomu - unoyu - fcnu - usati
+0	hex	Phone	large mismatch	5D1E 89A8 E234 BB08  F4AD EE57 A70B E13D	FE18 2374 C057 469B  B22C F979 1754 B9C0
+0	hex	Phone	large mismatch	D6A4 E23E F016 A0A8  B44F 49D5 1ABD 9421	D6A4 E23E F016 A0A8  B44F 49D5 1ABD 9421
+0	english poem	Phone	large mismatch	this cord asks beside our open produce <br>his book shouts at her test bitterly <br>your amount loves flatly <br>that shut science receives	the thin silk costs to his butter cheaply across your green friend <br>the tree helps <br>the school prefers rarely <br>your bell remembers
+0	english poem	Phone	large mismatch	your hat laughs <br>her lock sees sourly from her healthy turn <br>his mixed woman fills your poor fly under this form	that receipt receives that head <br>this past brick sits brightly among my safe needle <br>the pretty mind hears the pig
+0	english word	Phone	small mismatch	polish - country - hammer - art - high - blood - invention - animal - at - fall - wash - change - farm	desire - belief - high - art - amusement - blood - design - animal - at - fall - wash - change - farm
+0	english word	Phone	small mismatch	iron - brother - basin - present - country - control - shirt - cheese - sky - step - a - grip - fruit	iron - brother - basin - present - country - control - shirt - cheese - sky - step - a - grip - fruit
+0	pseudo word	Phone	small mismatch	67odit - azoy - jiyif - xnam - ikafa	67odit - azoy - jiyif - xnam - ikafa
+0	pseudo word	Phone	small mismatch	iwcpay - evon - ogemu - udeh - uhuax	iwcpay - evon - ogemu - udeh - uhuax
+0	hex	Phone	small mismatch	261C B8E4 53AB ED1B  433D 12A8 2531 D287	261C B8E4 53AB ED1B  433D 12A8 2531 D287
+0	hex	Phone	small mismatch	D900 9AFD 8452 8923  CF9A 93BC 2FF6 50D7	D900 9AFD 8452 8923  CF9A 93BC 2FF6 50D7
+0	english poem	Phone	small mismatch	her cloud does this angry attempt brightly beneath his shut brick <br>this low worm falls wisely <br>that dirty box closes	her cloud does this angry attempt brightly beneath his shut brick <br>this low worm falls wisely <br>that dirty box closes
+0	english poem	Phone	small mismatch	this natural attack falls badly <br>our dark history learns prettily around her book <br>his living wave has her island	your sticky attack travels badly <br>our dark history allows prettily around her book <br>his soft river has my farm
+1	english word	Business card	large mismatch	skirt - glass - put - drain - pump - shut - first - power - chalk - scale - flame - damage - sticky	married - fold - guide - wave - between - horse - smoke - seed - feeble - roll - weather - ice - comfort
+1	english word	Business card	large mismatch	stretch - reading - sharp - this - trouble - limit - wide - ray - waiting - ring - thunder - knife - cotton	bite - letter - tree - scissors - dress - ready - room - even - wise - business - front - beautiful - oil
+1	pseudo word	Business card	large mismatch	doqani - ubnq - zacem - ayeh - dokoc	soholo - msot - lttyz - v7ap - b6nwx
+1	pseudo word	Business card	large mismatch	msufuh - bige - sntuq - inex - akiyi	acvmop - qroz - kmdth - zoym - gkaqu
+1	hex	Business card	large mismatch	344E D21D 84A3 5719  5667 3B6C 253D 7149	344E D21D 84A3 5719  5667 3B6C 253D 7149
+1	hex	Business card	large mismatch	E546 AB05 AAAE 20EF  E391 436B 1719 DEAF	E546 AB05 AAAE 20EF  E391 436B 1719 DEAF
+1	english poem	Business card	large mismatch	his drawer falls on my milk <br>our table begins her damage hardly <br>her private rub sells by her brush <br>your sun sells	his drawer falls on my milk <br>our table begins her damage hardly <br>her private rub sells by her brush <br>your sun sells
+1	english poem	Business card	large mismatch	that paper describes thinly <br>her dark damage hears his arch <br>our sudden shake repeats <br>his sharp end rests	her voice visits your strong reason <br>our round news fills her dead road to the open letter <br>the bottle promises
+1	english word	Business card	small mismatch	general - be - twist - necessary - dark - support - amount - steel - system - yellow - body - song - say	general - be - twist - necessary - dark - support - amount - steel - system - yellow - body - song - say
+1	english word	Business card	small mismatch	this - knowledge - blood - invention - opposite - name - public - elastic - soft - even - then - strong - thin	this - knowledge - blood - invention - opposite - name - public - elastic - soft - even - then - strong - thin
+1	pseudo word	Business card	small mismatch	gojoxj - cumn - honas - jiki - akbuf	gojoxj - cumn - honas - jiki - akbuf
+1	pseudo word	Business card	small mismatch	logolm - hlob - licen - miga - decax	toyoe5 - hmox - lic22 - mina - cec6q
+1	hex	Business card	small mismatch	6E6D 1DDB 80A5 7BA3  6075 6996 4EA3 3810	6E6D 1DDB 80A5 7BA3  6075 6996 4EA3 3810
+1	hex	Business card	small mismatch	AE95 4771 7818 E075  BFAC C148 039C CB4F	AE95 4771 7818 E075  BFAC C148 039C CB4F
+1	english poem	Business card	small mismatch	her broken tree holds above my society <br>this tray forgets his short toe around this rain <br>this shut level occurs	the broken tree holds above that society <br>this month eats your short owner around this wine <br>this shut level drives
+1	english poem	Business card	small mismatch	my monkey puts after my plant <br>our walk writes suddenly after my cat <br>that scale rests by my loose flame	my animal learns after the cover <br>the walk jumps suddenly after my cat <br>your scale hurts in my loose flame
+1	english word	Phone	large mismatch	tin - again - political - ant - bath - fly - button - violent - laugh - wool - goat - note - shirt	range - jewel - tray - force - bread - ball - special - sun - may - distance - line - brother - copper
+1	english word	Phone	large mismatch	nose - liquid - hope - son - humor - sea - farm - bed - wood - say - you - stick - surprise	nose - liquid - hope - son - humor - sea - farm - bed - wood - say - you - stick - surprise
+1	pseudo word	Phone	large mismatch	azocij - kamu - xoxar - kewa - f4rud	azocij - kamu - xoxar - kewa - f4rud
+1	pseudo word	Phone	large mismatch	eykico - komw - zgeme - puhe - uzapi	eykico - komw - zgeme - puhe - uzapi
+1	hex	Phone	large mismatch	D7C3 FAEC 04F5 76FD  3B89 4D58 171E 514B	65C3 847B 9970 23DE  76DE 3E19 B25C 9B2C
+1	hex	Phone	large mismatch	6A08 A479 6B16 3EBE  984C 8F4F 2AAC C5CA	6A08 A479 6B16 3EBE  984C 8F4F 2AAC C5CA
+1	english poem	Phone	large mismatch	your grey sense laughs at this drawer <br>his cloth listens past her loose tin <br>your lazy pocket works beneath that point	my sweet bucket looks at that place cheaply among my loose play <br>this sticky day laughs his car past this narrow oil
+1	english poem	Phone	large mismatch	his nation thinks warmly <br>this second picture jumps softly <br>this line moves <br>his black skin visits sharply <br>her stiff desire starts	his nation thinks warmly <br>this second picture jumps softly <br>this line moves <br>his black skin visits sharply <br>her stiff desire starts
+1	english word	Phone	small mismatch	rain - east - coal - match - rain - tin - mountain - screw - nation - growth - start - interest - sharp	fear - he - coal - match - rain - tin - mountain - balance - nation - growth - rail - interest - cloud
+1	english word	Phone	small mismatch	ray - physical - name - apple - ink - receipt - or - page - cow - conscious - shade - boat - statement	beautiful - physical - name - apple - ink - receipt - or - page - steam - interest - meat - boat - get
+1	pseudo word	Phone	small mismatch	ilaliq - juxo - icaqh - 4kom - uzijl	ilaliq - juxo - icaqh - 4kom - uzijl
+1	pseudo word	Phone	small mismatch	yupipe - mogi - sucig - pagl - ninxj	yupipe - mogi - sucig - pagl - ninxj
+1	hex	Phone	small mismatch	A39F 5B46 6440 117E  3E95 FC3B 5598 64C5	A3C3 5F46 8240 117E  E195 FB3B 4590 64CC
+1	hex	Phone	small mismatch	2B3C 7A18 F58F FFD7  FB46 5EF1 39E0 7CD8	2B3C 7A18 F58F FFD7  FB46 5EF1 39E0 7CD8
+1	english poem	Phone	small mismatch	her natural move receives your dirty war <br>my common chance dies for the long stretch beneath our fat rice <br>his touch continues	her natural move receives your dirty war <br>my common chance dies for the long stretch beneath our fat rice <br>his touch continues
+1	english poem	Phone	small mismatch	the toe suggests slowly around the answer <br>his soft night needs that regular net stiffly <br>our left sister sits	the toe suggests slowly around the answer <br>his soft night needs that regular net stiffly <br>our left sister sits
+2	english word	Business card	large mismatch	town - step - bite - through - train - any - cake - pen - house - goat - till - put - school	town - step - bite - through - train - any - cake - pen - house - goat - till - put - school
+2	english word	Business card	large mismatch	insect - waste - shut - offer - run - powder - place - bottle - pocket - grain - cotton - throat - while	insect - waste - shut - offer - run - powder - place - bottle - pocket - grain - cotton - throat - while
+2	pseudo word	Business card	large mismatch	mec2ej - yiba - cirax - bunu - obunb	ojls52 - uwzm - aaqps - dcir - dabnk
+2	pseudo word	Business card	large mismatch	xufsaj - arof - ocoff - otil - jaema	xufsaj - arof - ocoff - otil - jaema
+2	hex	Business card	large mismatch	F191 2116 9433 2BDC  6053 DCAB 1CF9 893F	DB17 70C8 9A04 F05C  4C15 F689 A2D1 F21B
+2	hex	Business card	large mismatch	E04E BB2C 7F23 41F7  7484 1EBD 2BCC 986B	E04E BB2C 7F23 41F7  7484 1EBD 2BCC 986B
+2	english poem	Business card	large mismatch	her complex pig sees feebly <br>his theory looks <br>our strong touch kills the fixed cover along our secret wool	this range occurs my soft sea from our solid ball <br>the serious wing improves my map sharply towards this soup
+2	english poem	Business card	large mismatch	our angry cough forgets sharply under her cake <br>that tooth stays with our sand cruelly <br>the sweet sky hears <br>that nut grows	our angry cough forgets sharply under her cake <br>that tooth stays with our sand cruelly <br>the sweet sky hears <br>that nut grows
+2	english word	Business card	small mismatch	expert - camera - will - so - friend - owner - thumb - ill - test - mother - smoke - bird - verse	expert - camera - will - so - bite - owner - writing - oven - test - air - smoke - bird - library
+2	english word	Business card	small mismatch	pain - quick - thick - cake - first - chance - deep - protest - direction - direction - glass - thing - tongue	snow - quick - thick - cake - first - pump - deep - protest - direction - amusement - comfort - net - tongue
+2	pseudo word	Business card	small mismatch	azoteq - adx3 - toqex - quke - ovamb	azoteq - adx3 - toqex - quke - ovamb
+2	pseudo word	Business card	small mismatch	oqayeg - gtaj - fajuk - 6suj - ugaos	oqayeg - gtaj - fajuk - 6suj - ugaos
+2	hex	Business card	small mismatch	38CD AD15 1B13 E580  1F99 270A 4426 E7C8	389D A315 1B13 E886  DF99 2D00 F476 E0C8
+2	hex	Business card	small mismatch	F1D0 5FFD FA7C 714F  783A 079B BFF9 0651	F18B 5FF9 19AC 714F  383C 079B DFF2 AD51
+2	english poem	Business card	small mismatch	your wet respect offers sadly <br>our door moves upon this cheap hat <br>your rat counts my meal <br>my slow meat walks	your sticky rest offers quietly <br>our shirt moves upon that cheap fact <br>your rat counts my meal <br>my small meat walks
+2	english poem	Business card	small mismatch	that bell learns <br>my cruel pump receives my serious book <br>this same pipe keeps your money <br>your married chance offers	that bell learns <br>my cruel pump receives my serious book <br>this same pipe keeps your money <br>your married chance offers
+2	english word	Phone	large mismatch	you - help - name - responsible - offer - leaf - credit - friend - distribution - kick - oil - simple - first	number - there - attention - note - meat - attempt - peace - grass - tight - normal - out - monkey - girl
+2	english word	Phone	large mismatch	animal - property - horn - normal - bad - cheese - full - fowl - wind - get - electric - waste - parcel	animal - property - horn - normal - bad - cheese - full - fowl - wind - get - electric - waste - parcel
+2	pseudo word	Phone	large mismatch	xteyuk - 7qot - wecaz - namp - onuye	xteyuk - 7qot - wecaz - namp - onuye
+2	pseudo word	Phone	large mismatch	hsehas - miow - pivid - mige - irixb	unfbvv - 4eia - joclx - kger - auh35
+2	hex	Phone	large mismatch	CDC2 8E54 6712 C864  602D 2CDE 094A A127	CDC2 8E54 6712 C864  602D 2CDE 094A A127
+2	hex	Phone	large mismatch	6B66 5256 E855 093B  5A5A DC1A 8ACB 2AE2	6CDA 3731 8627 AFF8  06CC 380E BA3F 41EC
+2	english poem	Phone	large mismatch	my hate runs past our slow reason <br>my fertile self runs to her chest <br>the grey guide hears <br>that boat speaks	the past eye agrees past our shock inside my loose pencil <br>this pocket rests by her clock <br>this boy touches newly
+2	english poem	Phone	large mismatch	his road buys <br>the thin band sleeps sourly above that push <br>your tired flame visits by your bath <br>the detail knows	that natural horse sings <br>her cheap minute burns after her board <br>this sour muscle meets loudly certain your thread
+2	english word	Phone	small mismatch	brass - serious - blade - nut - clock - collar - move - friend - flight - coal - last - salt - regret	brass - serious - blade - lip - clock - arch - harbor - potato - flight - balance - last - salt - regret
+2	english word	Phone	small mismatch	chief - industry - every - small - pot - edge - elastic - brick - sleep - walk - rain - forward - because	chief - come - every - small - pot - edge - elastic - almost - sleep - walk - put - building - wood
+2	pseudo word	Phone	small mismatch	kocoxx - yojo - bakeq - ceku - repim	tobonx - 4o4o - apkeq - c2ez - rel7m
+2	pseudo word	Phone	small mismatch	3iyeyo - ecel - gawo6 - beka - elam3	kidpex - ecev - yawo6 - beka - exavc
+2	hex	Phone	small mismatch	80D4 370D F473 0B2F  E74A A38E 6CAB 4973	80D4 370D F473 0B2F  E74A A38E 6CAB 4973
+2	hex	Phone	small mismatch	2AD1 8A0B 6C20 66C5  D625 3544 94CA C9D3	EA41 0A0B FD20 6BC5  D62F 35A9 94CA 59DF
+2	english poem	Phone	small mismatch	my fertile woman listens fully <br>my female company prepares this shoe quickly <br>our birth plays <br>the middle does your blood	my fertile woman listens fully <br>my female company prepares this shoe quickly <br>our birth plays <br>the middle does your blood
+2	english poem	Phone	small mismatch	your same skin pays <br>our wet cloth comes <br>the cushion receives that star after your hollow sort <br>your meal needs	this same skin pays <br>our wet door comes <br>the cushion stays that mark after your hollow stage <br>our swim gets
+3	english word	Business card	large mismatch	basin - take - authority - week - no - ant - do - woman - mark - line - tail - every - brass	basin - take - authority - week - no - ant - do - woman - mark - line - tail - every - brass
+3	english word	Business card	large mismatch	danger - wave - motion - base - get - pain - branch - destruction - physical - tooth - food - attention - complete	parallel - comfort - leather - parallel - cook - a - kiss - red - judge - weight - blade - money - up
+3	pseudo word	Business card	large mismatch	pilato - jied - 2mvah - vunu - ugova	iptwlo - sekg - vkplk - icdx - oqpff
+3	pseudo word	Business card	large mismatch	yatoty - ipuv - qodac - ffiy - icowb	2auas7 - xide - zdsov - xigu - lfg22
+3	hex	Business card	large mismatch	CA87 0F0D 9322 9A3C  F69E B4FD 3541 6859	CA87 0F0D 9322 9A3C  F69E B4FD 3541 6859
+3	hex	Business card	large mismatch	D1F1 FFAA 2053 EB20  79C6 CE2C 0EC5 C7D0	D1F1 FFAA 2053 EB20  79C6 CE2C 0EC5 C7D0
+3	english poem	Business card	large mismatch	that strange cup meets our pump by that fixed pig <br>that stamp promises coldly <br>my match presses loosely <br>that cup dies	that quick night needs that true brush outside her fertile account <br>this second road cooks through her paste <br>my colour promises
+3	english poem	Business card	large mismatch	your powder sends this shut brain <br>my key sleeps darkly <br>his angry thunder lies to his late station <br>the tired reason washes	your powder sends this shut brain <br>my key sleeps darkly <br>his angry thunder lies to his late station <br>the tired reason washes
+3	english word	Business card	small mismatch	account - trousers - true - wrong - act - not - berry - out - business - thread - narrow - in - kick	account - trousers - true - wrong - act - not - berry - out - business - thread - narrow - in - kick
+3	english word	Business card	small mismatch	wire - experience - cotton - horse - knot - guide - humor - servant - society - to - map - safe - plate	wire - experience - loss - horse - education - eye - humor - on - society - to - map - safe - smile
+3	pseudo word	Business card	small mismatch	apliqu - ixab - obwiz - 2kix - eqixu	apliqu - ixab - obwiz - 2kix - eqixu
+3	pseudo word	Business card	small mismatch	oxugeh - apoq - oeuda - juel - aquyu	oxugeh - apoq - oeuda - juel - aquyu
+3	hex	Business card	small mismatch	1542 74B5 76BF E451  C64E 537A 2E01 E24A	1542 74B5 76BF E451  C64E 537A 2E01 E24A
+3	hex	Business card	small mismatch	4367 F173 2409 A7A3  FA5C 2742 F807 087E	C367 F186 2E00 A7B3  FA7C 3742 AE05 087D
+3	english poem	Business card	small mismatch	that writing looks brightly before her tall worm <br>the heat walks to your special theory simply among her brown woman	my woman looks brightly round her tall worm <br>the heat walks upon your thick cord simply among that brown chance
+3	english poem	Business card	small mismatch	the owner returns the ready school <br>the sick whip kills your good disease tightly <br>the cold boy burns his room	the owner returns the ready school <br>the sick whip kills your good disease tightly <br>the cold boy burns his room
+3	english word	Phone	large mismatch	mind - board - important - strong - argument - star - blade - paper - operation - of - cat - egg - material	mind - board - important - strong - argument - star - blade - paper - operation - of - cat - egg - material
+3	english word	Phone	large mismatch	room - near - man - loud - tall - building - living - powder - sign - lead - cord - touch - such	room - near - man - loud - tall - building - living - powder - sign - lead - cord - touch - such
+3	pseudo word	Phone	large mismatch	geqeke - eruw - lnecv - enaq - uyeeq	geqeke - eruw - lnecv - enaq - uyeeq
+3	pseudo word	Phone	large mismatch	uzediw - osu3 - ojonn - gifo - iyrav	og6jzf - ueaw - 4mdeb - pftf - siwey
+3	hex	Phone	large mismatch	AF3E D43C C793 BF9C  F5EE 8FD7 1ED6 2CAB	9840 1ED5 2F4A B28E  02BF DAA0 F65D CC94
+3	hex	Phone	large mismatch	E35F 8184 9D00 A21B  6A03 D268 BDC5 3D17	8430 5835 EDA3 21DA  23B3 9B02 FCB3 F48A
+3	english poem	Phone	large mismatch	my sponge plays her white lock sourly <br>this wash improves his bad worm lately in that male voice <br>her cord occurs	her sour train works for her sharp cheaply kindly <br>ready foolish butter that that bulb <br>wet bell continues looks his fly danger
+3	english poem	Phone	large mismatch	this sick arch takes the future air brightly <br>his coat runs flatly <br>my owner chooses his sick hat along our market	that range goes commonly after her green soap <br>our present swim burns sourly by that train <br>his special back fights
+3	english word	Phone	small mismatch	thumb - circle - cloth - laugh - detail - cause - join - shut - nut - suggestion - because - neck - step	thumb - circle - cloth - laugh - detail - cause - join - shut - nut - suggestion - because - neck - step
+3	english word	Phone	small mismatch	white - public - man - competition - clock - left - ring - sneeze - unit - organization - trousers - offer - porter	white - public - man - competition - clock - left - ring - sneeze - unit - organization - trousers - offer - porter
+3	pseudo word	Phone	small mismatch	izerfe - ipil - suqip - dijz - mixur	izdrid - i2il - sospp - pi26 - mi5ur
+3	pseudo word	Phone	small mismatch	luctet - vjut - cukex - hfex - alara	luctet - vjut - cukex - hfex - alara
+3	hex	Phone	small mismatch	EA83 934B EAD2 0202  5C3B E030 4390 715F	EA83 934B EAD2 0202  5C3B E030 4390 715F
+3	hex	Phone	small mismatch	4F97 31BB 2816 E655  6915 FB71 981E 5AA6	4F97 31BB 2816 E655  6915 FB71 981E 5AA6
+3	english poem	Phone	small mismatch	our flag counts ably on your warm effect <br>her smash smiles at that sand roughly <br>our secret walk believes his ball	our flag counts ably on your warm effect <br>her smash smiles at that sand roughly <br>our secret walk believes his ball
+3	english poem	Phone	small mismatch	the measure continues narrowly <br>the stretch works for my violent grass fully <br>your flat crush describes this common muscle flatly	that measure continues hardly <br>the stretch works for clear car lately W <br>your flat loves our sticky common muscle flatly
+4	english word	Business card	large mismatch	bath - library - wire - control - yes - competition - chief - writing - attention - account - form - of - paint	sponge - mine - board - medical - scissors - off - dependent - touch - disgust - fact - equal - wet - soap
+4	english word	Business card	large mismatch	net - act - scale - snow - year - army - false - kettle - order - boy - love - snake - bottle	wind - parallel - experience - separate - apple - potato - linen - north - move - come - skin - no - approval
+4	pseudo word	Business card	large mismatch	yoreaw - ihoy - cizo2 - ulop - jiqoj	ruhzs4 - l3oi - vjsem - kfwq - ngeyj
+4	pseudo word	Business card	large mismatch	sadole - ufec - vkej3 - beti - nihox	4rtroh - id3u - emaso - asmz - 6qkof
+4	hex	Business card	large mismatch	039C 5A5D D07C 3A71  A42D D03C 911C 1A3D	039C 5A5D D07C 3A71  A42D D03C 911C 1A3D
+4	hex	Business card	large mismatch	3C74 0966 FE38 3180  CA47 9433 C331 FBE4	69E9 5E6F E330 2338  61D2 5EEE C54E 337D
+4	english poem	Business card	large mismatch	her last drink speaks <br>your high berry falls on her drop above your thing <br>that living curve travels to our wheel	her last drink speaks <br>your high berry falls on her drop above your thing <br>that living curve travels to our wheel
+4	english poem	Business card	large mismatch	this dirty watch goes to your right porter <br>his boot shows badly towards that soup <br>that prose prefers my account	this dirty watch goes to your right porter <br>his boot shows badly towards that soup <br>that prose prefers my account
+4	english word	Business card	small mismatch	tired - coat - jelly - fertile - detail - than - mine - foolish - lift - danger - daughter - comb - cough	tired - coat - nut - fertile - kettle - than - mine - foolish - umbrella - desire - wound - comb - cough
+4	english word	Business card	small mismatch	finger - brother - news - cut - middle - sort - healthy - sleep - serious - space - roof - knee - sad	finger - brother - news - cut - middle - sort - healthy - sleep - serious - space - roof - knee - sad
+4	pseudo word	Business card	small mismatch	alujep - kafz - aycoz - laaf - wuwik	anrpep - ljgs - hkce5 - laaf - wywik
+4	pseudo word	Business card	small mismatch	ahusen - huun - lunet - egur - ucizc	kctse6 - hhug - lunel - ei6r - uckzc
+4	hex	Business card	small mismatch	A9AC E3F5 18B6 3FF1  1161 63F3 DDAC F628	095A EEF5 78B0 35F0  1061 63F3 DDA2 BF28
+4	hex	Business card	small mismatch	CB0D 1A9C B540 8194  9D2C D66A 2C4A 80D7	CB0D 1A9C 3740 81CB  9D2C D6DE 2C40 D2BB
+4	english poem	Business card	small mismatch	the friend speaks to that sick weather at my wide brick <br>this clear brick teaches stiffly after your star <br>her loose brush comes	the friend speaks to that sick weather at my wide brick <br>this clear brick teaches stiffly after your star <br>her loose brush comes
+4	english poem	Business card	small mismatch	our seed walks angrily <br>my shut hammer describes <br>my run feels his comb brightly round this tall boy <br>this library presses	our seed walks angrily <br>my shut hammer describes <br>my run feels his comb brightly round this tall boy <br>this library presses
+4	english word	Phone	large mismatch	trade - small - linen - opposite - need - basin - self - sheep - scale - receipt - so - twist - library	shame - wood - market - kick - horse - summer - responsible - last - slip - shock - comb - harmony - future
+4	english word	Phone	large mismatch	brush - range - carriage - humor - history - separate - jump - then - expansion - driving - brother - stretch - ant	wet - wash - sun - week - smooth - simple - act - thumb - mouth - nose - copy - reason - road
+4	pseudo word	Phone	large mismatch	ginica - uclu - ebepo - nxoc - oqnom	opj7fm - y2oc - jpino - xaiz - ultic
+4	pseudo word	Phone	large mismatch	vaqwut - kod2 - qfare - upup - eculu	vaqwut - kod2 - qfare - upup - eculu
+4	hex	Phone	large mismatch	0BE6 0161 C71F 379B  A9A0 4D51 7AF9 2A61	0BE6 0161 C71F 379B  A9A0 4D51 7AF9 2A61
+4	hex	Phone	large mismatch	ADA9 01B4 00A0 5AEC  041C 80F7 E6AB F66B	ADA9 01B4 00A0 5AEC  041C 80F7 E6AB F66B
+4	english poem	Phone	large mismatch	your false push goes among her fruit <br>that wet school drinks darkly after that pretty record <br>our shade lies	his clear friend hides <br>my bed prefers cheaply <br>the button hurts behind that nut <br>my thing treats my sneeze
+4	english poem	Phone	large mismatch	that high cry visits our feeble damage round his look <br>his solid glove lets quickly <br>his bag sleeps kindly	that support counts his cough <br>his play smiles in that free head lately <br>that common tongue leaves the free net
+4	english word	Phone	small mismatch	shelf - record - responsible - measure - past - cow - medical - advertisement - pipe - hand - fire - force - wide	shelf - record - responsible - measure - past - cow - medical - advertisement - pipe - hand - fire - force - wide
+4	english word	Phone	small mismatch	silk - land - time - advertisement - ready - finger - why - year - military - sweet - hammer - dog - stone	company - land - time - advertisement - circle - finger - why - year - military - bag - hammer - smash - wine
+4	pseudo word	Phone	small mismatch	ouloci - imko - nidok - qovv - ahuni	cbl3ci - mmkc - n7doi - qovv - nh5ni
+4	pseudo word	Phone	small mismatch	hiyifi - uifa - yiyoo - utaw - ikorp	hiyifi - uifa - yiyoo - utaw - ikorp
+4	hex	Phone	small mismatch	E921 E488 7D97 DEAB  129F 3857 C2DE ECBF	E90F 2B88 6D97 7EAA  127F D857 C2DC EEB3
+4	hex	Phone	small mismatch	354E AAE8 C80E CD55  F884 1E31 C7A0 E766	354E AAE8 C80E CD55  F884 1E31 C7A0 E766
+4	english poem	Phone	small mismatch	your regular vessel pushes his market <br>her mass throws our same shock tiredly towards his plate <br>this town returns	your regular watch keeps his market <br>that touch drinks our same shock sweetly near the plate <br>your town returns
+4	english poem	Phone	small mismatch	the tin sends our regret tightly <br>his shoe drives his boiling pencil <br>his pain comes to our lip <br>this early tray has	the tin explains our regret tightly <br>his shoe kills his boiling pencil <br>your change runs before our lip <br>this present tray has
+5	english word	Business card	large mismatch	future - root - see - arch - soap - drink - gold - street - committee - brass - smell - support - pump	future - root - see - arch - soap - drink - gold - street - committee - brass - smell - support - pump
+5	english word	Business card	large mismatch	forward - false - the - observation - rod - fight - move - chalk - record - meeting - may - poor - trick	forward - false - the - observation - rod - fight - move - chalk - record - meeting - may - poor - trick
+5	pseudo word	Business card	large mismatch	izogkw - tzet - potah - luqa - izaho	izogkw - tzet - potah - luqa - izaho
+5	pseudo word	Business card	large mismatch	iljdwu - qeci - taveq - inin - okepu	ntuoaw - dnbr - eofrv - vekr - kig2a
+5	hex	Business card	large mismatch	6B63 B989 62EB 871D  BCD1 7F11 A2E5 AA9F	6B63 B989 62EB 871D  BCD1 7F11 A2E5 AA9F
+5	hex	Business card	large mismatch	6C37 FCA1 D510 3FC1  8BCD 4375 C905 B498	7394 66FB 8BC5 7808  E45D 5942 E765 F16C
+5	english poem	Business card	large mismatch	your boot learns our friend commonly against my strange voice <br>this mark occurs to your married ant fixedly after that boiling chain	this fight holds her bitter brother cheaply <br>his mine arrives to my open sail sadly across my female back <br>this top loves
+5	english poem	Business card	large mismatch	her strange shoe learns between this chest <br>this chance ends her bird <br>this bell drives angrily <br>this sticky sneeze knows	her trouble finds beneath this root <br>the happy parcel burns over that brown tree <br>that view travels ready this dry plane
+5	english word	Business card	small mismatch	push - son - before - arm - public - living - cheese - swim - still - river - power - ever - bath	push - son - before - arm - public - living - cheese - swim - still - river - power - ever - bath
+5	english word	Business card	small mismatch	do - nut - hat - government - love - solid - business - far - across - business - on - fire - measure	do - nut - thin - air - parallel - left - yellow - far - across - business - on - fire - measure
+5	pseudo word	Business card	small mismatch	yaceyo - imoj - filay - lafa - hubht	yaceyo - imoj - filay - lafa - hubht
+5	pseudo word	Business card	small mismatch	pljatu - awel - fopov - lumi - ebfuv	pljt6u - aqea - fo27y - luti - pbzfz
+5	hex	Business card	small mismatch	1E66 C264 C063 6D4D  0B80 3AD1 661E 987A	1E66 C264 C063 6D4D  0B80 3AD1 661E 987A
+5	hex	Business card	small mismatch	D0E2 5B51 EA70 FDC2  F6FA 6ADE B208 2C46	40E9 FB5F ED70 EDA1  F6FC 5ADE B228 2C4D
+5	english poem	Business card	small mismatch	your touch walks to the broken smoke poorly into your great meat <br>his move looks at the thick trouble tightly beside your wool	your touch walks to the broken smoke poorly into your great meat <br>his move looks at the thick trouble tightly beside your wool
+5	english poem	Business card	small mismatch	our insect promises your old street upon our wise sex <br>our shade promises solidly through my store <br>her thick theory comes	our insect promises your old street upon our wise sex <br>our shade promises solidly through my store <br>her thick theory comes
+5	english word	Phone	large mismatch	feeling - design - country - boy - soap - nerve - sign - chalk - debt - space - horse - bone - test	enough - trouble - decision - small - test - near - door - taste - sock - amusement - private - curve - morning
+5	english word	Phone	large mismatch	group - laugh - roof - process - hollow - opinion - camera - look - brother - cruel - motion - far - army	group - laugh - roof - process - hollow - opinion - camera - look - brother - cruel - motion - far - army
+5	pseudo word	Phone	large mismatch	utojeo - tusu - pesog - ir3h - abexa	utojeo - tusu - pesog - ir3h - abexa
+5	pseudo word	Phone	large mismatch	xpanaz - upok - qetip - kicu - deacg	ijzyey - hag4 - lafel - gdtj - wmk3c
+5	hex	Phone	large mismatch	D2C4 438B 2067 B092  B7D1 BB7B 117E 0116	D2C4 438B 2067 B092  B7D1 BB7B 117E 0116
+5	hex	Phone	large mismatch	A411 4C91 01EB 78BF  23AD F3E8 F19B 1AFC	A411 4C91 01EB 78BF  23AD F3E8 F19B 1AFC
+5	english poem	Phone	large mismatch	my burn teaches your equal morning prettily inside my grass <br>that twist fills your knife readily around this clean humour	my burn teaches your equal morning prettily inside my grass <br>that twist fills your knife readily around this clean humour
+5	english poem	Phone	large mismatch	that young birth dances with her thunder feebly across our warm girl <br>our cake learns that root angrily behind that stiff curve	his false attack offers newly into this red friend <br>my right key tells his bridge <br>this loud bee tries his effect
+5	english word	Phone	small mismatch	horn - narrow - take - sudden - fire - if - woman - bit - machine - complex - crime - horn - pencil	library - full - take - sudden - fire - early - after - bit - machine - complex - crime - horn - comb
+5	english word	Phone	small mismatch	low - regular - special - suggestion - and - ship - argument - expert - run - payment - or - spring - sad	foot - very - special - suggestion - and - sound - canvas - slip - run - payment - or - spring - sad
+5	pseudo word	Phone	small mismatch	gasgup - jves - vevor - idoy - alov3	gasgup - jves - vevor - idoy - alov3
+5	pseudo word	Phone	small mismatch	egiyad - kexi - lariw - sabp - vijjo	egisxd - sexa - lc3hw - 5ao4 - vijvo
+5	hex	Phone	small mismatch	23B6 DC11 C95D 8B79  06CB 9673 F591 39F3	2E76 DC11 6D4D 8B79  46AC 9673 F851 49F3
+5	hex	Phone	small mismatch	D390 C750 3B82 1851  9864 CC1C 6BD8 090E	D390 C750 3B82 1851  9864 CC1C 6BD8 090E
+5	english poem	Phone	small mismatch	your hollow wine asks this weight from your birth <br>this nerve returns prettily at that thread <br>my ray runs to the reward	your hollow wine asks this weight from your birth <br>this nerve returns prettily at that thread <br>my ray runs to the reward
+5	english poem	Phone	small mismatch	that thin lip prepares between your quick house <br>his bent hair sits happily <br>her clean stomach sends that black hook	that thin lip prepares between your quick house <br>his bent hair sits happily <br>her clean stomach sends that black hook
+6	english word	Business card	large mismatch	fork - cloud - writing - with - south - bad - dog - card - quick - hair - daughter - fold - healthy	fork - cloud - writing - with - south - bad - dog - card - quick - hair - daughter - fold - healthy
+6	english word	Business card	large mismatch	wind - ice - desire - rate - substance - number - time - rain - daughter - apple - as - electric - experience	wind - ice - desire - rate - substance - number - time - rain - daughter - apple - as - electric - experience
+6	pseudo word	Business card	large mismatch	ubotaj - cefu - eeeza - bjak - uzuke	ua74xu - teyo - t3cof - aiuz - od2ze
+6	pseudo word	Business card	large mismatch	bjulou - alil - uzaxa - yuge - tkiwa	bjulou - alil - uzaxa - yuge - tkiwa
+6	hex	Business card	large mismatch	88A4 8E2E 725C 7A2D  5F8A 8F42 3703 CC10	AC06 57AC 0A75 4DFE  BFE2 1703 45AC AACB
+6	hex	Business card	large mismatch	B111 9CE5 9ECC 47B3  56A2 BA02 08E0 E4F1	B111 9CE5 9ECC 47B3  56A2 BA02 08E0 E4F1
+6	english poem	Business card	large mismatch	the cheap print loves prettily above our angry library <br>your private side puts upon that first rat <br>her blue value dances	the cheap print loves prettily above our angry library <br>your private side puts upon that first rat <br>her blue value dances
+6	english poem	Business card	large mismatch	his new potato decides behind this fiction <br>your warm chin pulls this sticky side <br>my steel looks <br>his shade arrives	his new potato decides behind this fiction <br>your warm chin pulls this sticky side <br>my steel looks <br>his shade arrives
+6	english word	Business card	small mismatch	crime - cotton - important - test - relation - leaf - approval - cow - over - act - flower - fork - clear	crime - cotton - important - test - relation - leaf - approval - cow - over - act - flower - fork - clear
+6	english word	Business card	small mismatch	board - adjustment - song - swim - muscle - brass - pipe - word - cheap - chemical - stretch - quiet - reward	board - adjustment - song - swim - muscle - brass - pipe - word - cheap - chemical - stretch - quiet - reward
+6	pseudo word	Business card	small mismatch	qatqeh - 4eyo - sikaw - siya - zuzod	qatqeh - 4elo - sooaz - 4itz - gcz4j
+6	pseudo word	Business card	small mismatch	cpofug - rofr - xoduy - equt - iimul	cxpf5g - sofe - loduy - equt - iisx4
+6	hex	Business card	small mismatch	B58F 8A5A 5840 0B81  D5D6 707D 0920 77D1	B58F 8A5A 5840 0B81  D5D6 707D 0920 77D1
+6	hex	Business card	small mismatch	3109 B7A5 D818 E995  826C F239 7773 74B4	3929 B7A5 D818 E793  306C F2B9 7976 08B7
+6	english poem	Business card	small mismatch	this foolish weather brings equally over his married range <br>his cheap office answers the cold branch equally <br>this whip loses	this foolish weather brings equally over his married range <br>his cheap office answers the cold branch equally <br>this whip loses
+6	english poem	Business card	small mismatch	the cheap throat dies among your thin desire <br>our smooth pot helps <br>her trick eats that judge openly <br>my prose explains	the cheap throat dies among your thin desire <br>our smooth pot helps <br>her trick eats that judge openly <br>my prose explains
+6	english word	Phone	large mismatch	mine - fear - meat - long - thin - get - off - morning - of - wash - idea - flight - existence	mine - fear - meat - long - thin - get - off - morning - of - wash - idea - flight - existence
+6	english word	Phone	large mismatch	finger - increase - on - apparatus - breath - kiss - walk - ship - separate - with - train - happy - quite	finger - increase - on - apparatus - breath - kiss - walk - ship - separate - with - train - happy - quite
+6	pseudo word	Phone	large mismatch	mit4pa - rone - fayur - kyow - arore	suoxjo - ya6h - basib - iict - hvube
+6	pseudo word	Phone	large mismatch	teocim - zili - ofagu - dqaf - ntiyi	svab6k - pmve - bucah - qsba - topsi
+6	hex	Phone	large mismatch	3CDD 5C06 48C3 532F  C322 C644 2E97 8219	EF8E A31E CD83 9DE5  9053 3CA0 CC48 2212
+6	hex	Phone	large mismatch	959A 2D75 65BA 335E  45A4 BDB5 5950 5759	42A4 05C9 5BB4 03E9  EFB1 F70B 615F C230
+6	english poem	Phone	large mismatch	my colour listens narrowly past her long stone <br>the rough machine burns thickly <br>my sand is this word badly	our good reason sits by the prose between your true foot <br>your healthy flower makes sweetly <br>his fertile shelf takes his brain
+6	english poem	Phone	large mismatch	the tall jelly jumps over her great throat narrowly <br>his sneeze sits by that rough cotton tiredly after his love <br>my safe engine pulls	her angry part needs <br>your attack allows our verse <br>our summer washes her pain <br>this strange finger sleeps
+6	english word	Phone	small mismatch	kick - you - farm - wheel - answer - wide - plough/plow - sex - dead - discovery - simple - dark - old	kick - curve - hair - wheel - answer - paste - plough/plow - sex - dead - discovery - simple - agreement - wind
+6	english word	Phone	small mismatch	up - instrument - rail - powder - possible - month - ear - have - balance - lift - fold - hard - yesterday	up - instrument - rail - powder - possible - month - ear - have - balance - lift - fold - hard - yesterday
+6	pseudo word	Phone	small mismatch	mayvac - obuh - perog - nut6 - ihdec	mayvac - obuh - perog - nut6 - ihdec
+6	pseudo word	Phone	small mismatch	sopuxp - okey - kucif - jamv - imeyl	sjqexc - sqey - kuccf - dlpv - cjeyl
+6	hex	Phone	small mismatch	9882 BA00 0B57 1B28  F5CA A2F5 83B1 68DF	9882 BA04 0F56 1028  D577 A4F0 9371 68DF
+6	hex	Phone	small mismatch	7024 D195 D224 418C  3D39 022B BE0D CB4E	F075 6195 D224 1D5C  9D39 0F2B 6F0F CB4E
+6	english poem	Phone	small mismatch	her medical comb offers my normal wind fully against your broken angle <br>the book gets <br>her smell loves the limit	her medical comb offers my normal wind fully against your broken angle <br>the book gets <br>her smell loves the limit
+6	english poem	Phone	small mismatch	this part leaves her hollow face <br>that cause teaches this detail deeply along my common wax <br>the happy damage works	this part leaves her hollow face <br>that cause teaches this detail deeply along my common wax <br>the happy damage works
+7	english word	Business card	large mismatch	net - yesterday - dead - far - owner - family - flame - brake - get - sex - jewel - like - future	move - business - attraction - physical - education - apple - jewel - push - fruit - ornament - rough - song - between
+7	english word	Business card	large mismatch	father - pull - rain - green - separate - dress - free - sex - exchange - room - strong - front - garden	father - pull - rain - green - separate - dress - free - sex - exchange - room - strong - front - garden
+7	pseudo word	Business card	large mismatch	ovjoqh - hupa - foxoc - icol - xqate	ovjoqh - hupa - foxoc - icol - xqate
+7	pseudo word	Business card	large mismatch	khoxiz - utiq - 2ugep - raf3 - anuwe	yaicqi - 5eim - hatuy - iw2s - umlhk
+7	hex	Business card	large mismatch	5A0F 3135 F36F 5B36  13A0 F784 082E 760C	9056 57B4 4FCA 3F44  2FCE A244 A4F9 547A
+7	hex	Business card	large mismatch	31BA 1AC7 5C1B EB41  D7C2 2879 2BA0 53E8	CBE2 2E46 A165 0D03  82FF A500 652D B838
+7	english poem	Business card	large mismatch	that stamp repeats this control on her mixed copper <br>his yellow night pushes my middle falsely before this town	your mother presses my boot sweetly below the hat <br>our first horn laughs <br>this bitter weight finishes the boiling mine
+7	english poem	Business card	large mismatch	that stomach cries for her healthy part quickly <br>our nail goes to your dead credit near the baby <br>our female harbour needs	our thin prison studies normally <br>our floor loves her round wheel <br>that black humour grows from her wide time
+7	english word	Business card	small mismatch	tired - law - of - get - general - distance - trousers - arch - property - ever - produce - dark - peace	tired - law - of - get - general - distance - trousers - arch - property - ever - produce - dark - peace
+7	english word	Business card	small mismatch	impulse - thunder - motion - trick - stiff - rest - heart - kick - turn - this - need - father - disgust	impulse - thunder - motion - trick - stiff - rest - heart - kick - turn - this - need - father - disgust
+7	pseudo word	Business card	small mismatch	tejega - mios - futog - osbo - opuro	tejega - mios - futog - osbo - opuro
+7	pseudo word	Business card	small mismatch	hixuma - coha - culix - muds - dgois	hbyumt - czha - ipl4s - budi - egois
+7	hex	Business card	small mismatch	741B 2C1F 5D59 C30E  331B 2805 5F89 15CB	741B 2C1F 5D59 C30E  331B 2805 5F89 15CB
+7	hex	Business card	small mismatch	22D8 B764 BFE3 3ACB  90EA 9FB5 9771 4673	22D8 B764 BFE3 3ACB  90EA 9FB5 9771 4673
+7	english poem	Business card	small mismatch	this church drives beyond your free debt <br>your cushion looks at her milk <br>her open ship sleeps by his account bitterly	this church drives beyond your free debt <br>your cushion looks at her milk <br>her open ship sleeps by his account bitterly
+7	english poem	Business card	small mismatch	that wrong swim dances prettily after her medical oven <br>his simple bath sits falsely <br>his chin shows at my liquid	that wrong swim dances prettily outside her new oven <br>your kind bath sits falsely <br>the weight improves at my square
+7	english word	Phone	large mismatch	hat - nut - level - berry - short - amount - bee - dead - digestion - wood - form - direction - parcel	hat - nut - level - berry - short - amount - bee - dead - digestion - wood - form - direction - parcel
+7	english word	Phone	large mismatch	fish - board - carriage - town - glass - brain - awake - wall - wave - nose - experience - shirt - shade	glove - system - and - late - discovery - goat - expansion - ant - curve - I - automatic - across - death
+7	pseudo word	Phone	large mismatch	majowe - 2laj - kanut - suzn - ogqot	majowe - 2laj - kanut - suzn - ogqot
+7	pseudo word	Phone	large mismatch	veqauy - wuco - uqquq - uvun - kuzap	veqauy - wuco - uqquq - uvun - kuzap
+7	hex	Phone	large mismatch	DF95 10C9 42D4 016C  B334 DF94 8896 7DDE	DF95 10C9 42D4 016C  B334 DF94 8896 7DDE
+7	hex	Phone	large mismatch	AA82 483C 0B3F 15EF  0548 C970 7CAA 9517	761A 6E10 E556 56FE  2F91 933B 643D E7DF
+7	english poem	Phone	large mismatch	your night rests by that clear measure <br>my girl hates <br>your clean leg learns sweetly among our soft breath <br>the thread explains	that front prepares the like orange prettily <br>this tail continues over that shut laugh by the son <br>our sister receives her book
+7	english poem	Phone	large mismatch	that plant thinks of her fork brightly <br>your number holds roughly with the grey plate <br>your laugh lives with the writing	the sound fights our dust into my smell <br>that spade starts <br>the sex sits prettily through the deep morning
+7	english word	Phone	small mismatch	high - reading - division - probable - society - burn - company - may - credit - chest - strange - pull - under	high - reading - division - probable - society - burn - company - may - credit - chest - strange - pull - under
+7	english word	Phone	small mismatch	market - crush - simple - dark - theory - hate - hand - free - power - word - money - meal - brake	market - crush - simple - dark - theory - hate - hand - free - power - word - money - meal - brake
+7	pseudo word	Phone	small mismatch	buxuha - hiva - didon - iube - qoqwv	buxuha - hiva - didon - iube - qoqwv
+7	pseudo word	Phone	small mismatch	ugekum - gwul - qcori - rluq - umuvi	ude6w3 - p2ll - qcorn - rquq - emqoi
+7	hex	Phone	small mismatch	C049 7E57 FB8C 8F17  B91A 99EE F3D8 CC80	004E 7E57 FB8E 8FC8  521A 99EF F368 C382
+7	hex	Phone	small mismatch	63F7 9825 B367 25E0  E5BA 640A 1510 F38B	67F7 9825 5764 26E7  EFBA 640A F510 FD10
+7	english poem	Phone	small mismatch	his present wine offers <br>our birth describes the left bag lazily <br>her left berry feels his lead flatly	my white wine offers <br>her morning treats her left bag narrowly <br>the left ice feels our lead flatly
+7	english poem	Phone	small mismatch	that short horn travels to that deep wire loosely near my vessel <br>the strong power allows poorly <br>his safe nail supports	that short horn travels to that deep wire loosely near my vessel <br>the strong power allows poorly <br>his safe nail supports
+8	english word	Business card	large mismatch	white - amount - so - drop - example - where - error - journey - gold - idea - receipt - cork - time	land - full - foolish - drop - heart - stop - cup - act - boat - view - authority - tooth - expansion
+8	english word	Business card	large mismatch	train - structure - love - snow - deep - like - daughter - brake - join - key - wheel - you - not	train - structure - love - snow - deep - like - daughter - brake - join - key - wheel - you - not
+8	pseudo word	Business card	large mismatch	aneoys - 3sep - kunuz - juko - yexem	e4cciw - ej3y - ctrmu - dsbb - udzff
+8	pseudo word	Business card	large mismatch	abihop - ajon - tiner - vwo6 - uwboj	fjmpis - iuyr - oofc7 - 4end - 6rboc
+8	hex	Business card	large mismatch	983A 594E 1EC8 5962  5362 39D1 53AE BE0D	8FC5 1D38 F3C9 F38D  40F9 72C0 CC9D 0028
+8	hex	Business card	large mismatch	D443 D15B 1A09 B4C1  5C16 33C8 941E 3D14	D443 D15B 1A09 B4C1  5C16 33C8 941E 3D14
+8	english poem	Business card	large mismatch	the stitch knows her station tiredly to that frame <br>our lead asks his mixed attempt <br>the pretty town gives	our book keeps <br>that special star sings freely with her dirty sugar <br>the machine leaves over your middle deeply to the colour
+8	english poem	Business card	large mismatch	his young lift runs to our sweet wound stiffly <br>my orange feels this blue history quietly beyond your open control	his young lift runs to our sweet wound stiffly <br>my orange feels this blue history quietly beyond your open control
+8	english word	Business card	small mismatch	ring - cause - fork - dependent - sort - knowledge - top - sea - mark - garden - brick - jelly - blue	ring - cause - fork - dependent - sort - knowledge - top - sea - mark - garden - brick - jelly - blue
+8	english word	Business card	small mismatch	probable - keep - opinion - small - common - motion - prose - nail - invention - ice - copy - when - form	metal - keep - opinion - small - common - invention - air - roll - high - ice - copy - when - form
+8	pseudo word	Business card	small mismatch	sivuvp - witf - ucbim - atow - apelo	sijuvt - wivf - xcaxm - atiu - hpyhz
+8	pseudo word	Business card	small mismatch	gaquda - yibg - cijar - 5geh - aocet	gqq2qa - vubg - xijhq - 5mdh - afcet
+8	hex	Business card	small mismatch	E6B6 AD0C 1A84 3272  95CB 0E0E 74D5 5204	E6A9 A10C 1AA4 32C1  0DCB 0E1E 7405 7204
+8	hex	Business card	small mismatch	FE51 6DBE 4C39 067B  F4D1 B0B9 9136 B25E	8E51 6DDE 4C29 06AB  F4D1 B0B9 9B23 145E
+8	english poem	Business card	small mismatch	his married orange visits <br>the stone remembers <br>this rare nerve reads the event <br>my reason asks clearly upon that copy	his married orange visits <br>the stone remembers <br>this rare nerve reads the event <br>my reason asks clearly upon that copy
+8	english poem	Business card	small mismatch	her chest stops <br>that regular roll forgets the warm skirt <br>that lazy damage becomes the event stiffly on the control	her chest stops <br>that regular roll forgets the warm skirt <br>that lazy damage becomes the event stiffly on the control
+8	english word	Phone	large mismatch	or - trousers - regret - stick - cloud - noise - ever - sex - brain - sail - blade - equal - simple	mass - shut - steel - step - ornament - seem - square - material - any - secretary - foot - theory - fly
+8	english word	Phone	large mismatch	picture - play - mark - bad - run - like - past - whip - true - dress - doubt - love - circle	to - do - cruel - join - milk - stocking - serious - error - I - brother - cloud - loss - first
+8	pseudo word	Phone	large mismatch	voluba - od6s - takim - qigi - visar	voluba - od6s - takim - qigi - visar
+8	pseudo word	Phone	large mismatch	nigmul - ruha - cimod - oytu - ilool	nigmul - ruha - cimod - oytu - ilool
+8	hex	Phone	large mismatch	AEFD 59D5 808C 40B1  03BD C80E 000F DD82	AEFD 59D5 808C 40B1  03BD C80E 000F DD82
+8	hex	Phone	large mismatch	0BE0 5FA2 0F7C 31A4  0736 1BD6 4B97 7ECA	0BE0 5FA2 0F7C 31A4  0736 1BD6 4B97 7ECA
+8	english poem	Phone	large mismatch	her hammer stops <br>our paper shows newly beyond my special memory <br>your narrow reason continues freely over his same group	this deep place prefers wisely at that complex square <br>your butter treats poorly <br>my river turns loudly at that deep damage
+8	english poem	Phone	large mismatch	our dead baby helps warmly on my flat drop <br>that regular leaf sends happily <br>your house shows my bone	our dead baby helps warmly on my flat drop <br>that regular leaf sends happily <br>your house shows my bone
+8	english word	Phone	small mismatch	war - door - screw - prose - blade - range - south - sock - animal - straight - animal - hammer - face	war - door - screw - prose - blade - range - south - sock - animal - straight - animal - hammer - face
+8	english word	Phone	small mismatch	son - pump - road - ant - neck - kind - conscious - doubt - lip - name - cut - across - till	burn - pump - black - ant - cruel - nose - quiet - doubt - lip - name - cut - across - till
+8	pseudo word	Phone	small mismatch	fupurp - izuh - ufakn - sham - ulova	fupurp - izuh - ufakn - sham - ulova
+8	pseudo word	Phone	small mismatch	exena3 - vaeb - sdiqo - umez - arode	rxe4az - vaed - sdi5o - uhuc - hrofy
+8	hex	Phone	small mismatch	E94E CB8A F5AE D7EB  5D4C E308 9BBC 6FF3	E978 CB89 51AE DFE0  5D39 E308 3BBC 0FF3
+8	hex	Phone	small mismatch	2FEB 8F47 6E4E 5282  C8F9 A8A5 C88A BC1B	2FEB 8F47 6E4E 5282  C8F9 A8A5 C88A BC1B
+8	english poem	Phone	small mismatch	that thick basin travels to the lift tiredly <br>my broken sense studies loudly <br>my dear insect shows this need brokenly	that thick basin travels to the lift tiredly <br>my broken sense studies loudly <br>my dear insect shows this need brokenly
+8	english poem	Phone	small mismatch	our feeble limit cleans your true board above this drawer <br>her cushion moves into that feather <br>the plane studies	our feeble limit holds your true steel above this drawer <br>her thumb moves after that fall <br>the arm studies
+9	english word	Business card	large mismatch	pin - blue - poison - river - brain - observation - position - knee - that - bed - snow - ornament - dead	snake - pot - steel - land - berry - shade - example - morning - spoon - key - vessel - stone - because
+9	english word	Business card	large mismatch	if - not - physical - fruit - material - horn - boiling - match - behavior - from - mist - button - burst	stem - servant - act - screw - owner - ornament - married - enough - flower - advertisement - driving - stretch - water
+9	pseudo word	Business card	large mismatch	aqetuf - yrud - redek - 4ado - oisuf	aqetuf - yrud - redek - 4ado - oisuf
+9	pseudo word	Business card	large mismatch	heguob - bugo - kogev - elop - aktol	pkesig - vbik - judzm - nqo2 - vkjpp
+9	hex	Business card	large mismatch	C2EE F622 208B A943  DF3A 229C 5E7A C132	7D23 47A5 2E43 8584  9E61 0A29 A647 26AB
+9	hex	Business card	large mismatch	9433 5538 0F25 7A01  564E E054 9900 E219	9433 5538 0F25 7A01  564E E054 9900 E219
+9	english poem	Business card	large mismatch	his second memory lies with this living army <br>his egg changes beneath our living roof <br>your elastic wheel stops that minute	my smooth wax sees my arch kindly <br>our porter supports <br>his weight does the meal <br>this wise play goes
+9	english poem	Business card	large mismatch	that brown push ends <br>my fixed wave hides quietly after her fall <br>this linen offers my brush rarely <br>the walk supports	that brown push ends <br>my fixed wave hides quietly after her fall <br>this linen offers my brush rarely <br>the walk supports
+9	english word	Business card	small mismatch	roll - dry - when - cause - horse - wood - disease - smile - when - bite - over - motion - clock	way - here - when - air - horse - wood - disease - tin - when - bite - bottle - motion - clock
+9	english word	Business card	small mismatch	angry - dry - cough - ever - amount - possible - turn - society - whip - dress - dress - bulb - married	angry - dry - cough - ever - amount - possible - turn - society - whip - dress - dress - bulb - married
+9	pseudo word	Business card	small mismatch	vgijiu - ebeq - abzas - umis - yirug	vgijiu - ebeq - abzas - umis - yirug
+9	pseudo word	Business card	small mismatch	ubuzsa - goxu - wbaef - tugo - unabe	ubdcqb - poxi - wbapf - rqgb - fnabe
+9	hex	Business card	small mismatch	E5F6 8D99 CD7D F8A5  A079 7380 FE4D E1B3	E5F6 8D99 CD7D F8A5  A079 7380 FE4D E1B3
+9	hex	Business card	small mismatch	C5E7 9668 3D20 9890  A929 987C 558A F6B4	A575 D668 EA20 9590  A929 9876 596A F1F4
+9	english poem	Business card	small mismatch	that polish remembers <br>your complex front cuts on her rice <br>our left week decides on her ant rarely <br>his walk continues	this polish remembers <br>your complex front cuts on her rice <br>his low sound decides on her end safely <br>his burn continues
+9	english poem	Business card	small mismatch	this window repeats this clear floor <br>your letter prefers <br>this map dances with the secret shame roughly from that medical store	this window repeats this clear floor <br>your letter prefers <br>this map dances with the secret shame roughly from that medical store
+9	english word	Phone	large mismatch	bent - request - silk - comfort - loss - nail - wax - bit - coal - wet - wrong - brother - mountain	bent - request - silk - comfort - loss - nail - wax - bit - coal - wet - wrong - brother - mountain
+9	english word	Phone	large mismatch	bulb - chief - bit - war - operation - solid - beautiful - fork - shut - fly - expert - natural - conscious	bulb - chief - bit - war - operation - solid - beautiful - fork - shut - fly - expert - natural - conscious
+9	pseudo word	Phone	large mismatch	savdot - pazi - vitpe - uyue - ukifo	savdot - pazi - vitpe - uyue - ukifo
+9	pseudo word	Phone	large mismatch	hemiju - isey - zykir - 3emi - yuzem	dfpumx - aifl - xzuo7 - uvuj - 7e22x
+9	hex	Phone	large mismatch	B18C 002D E427 62A4  CDF0 DFFB 044B F5A0	B18C 002D E427 62A4  CDF0 DFFB 044B F5A0
+9	hex	Phone	large mismatch	7044 67F1 2570 CD61  2EC2 E842 3641 17D6	7044 67F1 2570 CD61  2EC2 E842 3641 17D6
+9	english poem	Phone	large mismatch	her late event suggests by her dry paint <br>our deep prose cuts our low machine behind this cruel wash	this shut quality ends this dear list beneath your cork <br>my fiction drinks <br>his produce leaves slowly <br>your earth counts
+9	english poem	Phone	large mismatch	my slow plant kills her degree <br>her roll changes our safe ship with your right work <br>her future year holds	my slow plant kills her degree <br>her roll changes our safe ship with your right work <br>her future year holds
+9	english word	Phone	small mismatch	dirty - test - name - theory - dog - board - fall - edge - bottle - dry - room - do - farm	use - test - name - complex - dog - board - behavior - edge - bottle - pleasure - military - do - farm
+9	english word	Phone	small mismatch	error - safe - separate - poison - almost - scale - island - hearing - brass - condition - prison - such - hole	machine - safe - gun - poison - almost - question - almost - hearing - brass - safe - prison - such - hole
+9	pseudo word	Phone	small mismatch	lobeqc - yesh - yezqi - acaw - ulora	lib4qc - y3xh - yewqi - acr4 - zmi6a
+9	pseudo word	Phone	small mismatch	5asuni - olil - icowi - zojo - zojvc	5psufi - oliq - iuxw3 - zoty - hodvt
+9	hex	Phone	small mismatch	4B23 C6E8 8765 CBAD  BD0B 53C9 9B86 94A7	05E3 C6EC 6E65 8BAD  BD04 53CD 1BF6 C4A7
+9	hex	Phone	small mismatch	62A4 B6F3 A72F 5AC0  6429 B315 C7AD F654	62A4 B6F3 A72F 5AC0  6429 B315 C7AD F654
+9	english poem	Phone	small mismatch	this tin finds towards your engine <br>the school comes to your small dress newly <br>the paper forgets our pipe roughly	this tin finds towards your engine <br>the school comes to your small dress newly <br>the paper forgets our pipe roughly
+9	english poem	Phone	small mismatch	my male writing kills towards this shelf <br>that bitter button meets <br>our sugar gets this screw with his oil	my male writing kills towards this shelf <br>that bitter button meets <br>our sugar gets this screw with his oil
+10	english word	Business card	large mismatch	brother - building - thread - twist - lip - school - fiction - root - in - field - here - brown - bone	support - fly - living - decision - wine - angle - liquid - nose - form - board - mine - butter - wise
+10	english word	Business card	large mismatch	position - take - respect - electric - weather - wet - horn - hand - wash - knee - company - wise - wine	position - take - respect - electric - weather - wet - horn - hand - wash - knee - company - wise - wine
+10	pseudo word	Business card	large mismatch	setrse - erot - xawzu - imav - agaxa	olilxg - pc6f - zetgt - yxmh - upqxi
+10	pseudo word	Business card	large mismatch	kahaji - szoc - dueva - pelo - wilox	kahaji - szoc - dueva - pelo - wilox
+10	hex	Business card	large mismatch	4A6E 79B6 4144 D51C  57E6 3ABF 9D1B 9BA5	2711 5D15 E560 FEE4  F560 5506 6761 8EFA
+10	hex	Business card	large mismatch	5B1D A26F F448 B876  61B9 7CC1 8D20 4EF4	5B1D A26F F448 B876  61B9 7CC1 8D20 4EF4
+10	english poem	Business card	large mismatch	the serious note continues your nose freely along his detail <br>my powder thinks of the deep orange <br>our young food pulls	my stretch sells to the pig around this bird <br>my cow improves darkly <br>this present move studies quickly <br>our owner writes
+10	english poem	Business card	large mismatch	this loose meat uses secretly <br>his rice has on my hollow fish <br>his cushion feels her cheap coal <br>the disease gets	our milk falls kindly across our place <br>the picture takes <br>my impulse lies in that sign <br>her tin feels
+10	english word	Business card	small mismatch	current - tooth - blow - opinion - leather - hole - monkey - throat - metal - please - war - normal - street	current - field - blow - opinion - meat - hole - monkey - throat - metal - net - fork - normal - plough/plow
+10	english word	Business card	small mismatch	tongue - wound - weight - father - ornament - existence - humor - boot - thought - art - observation - woman - trade	tongue - wound - weight - father - ornament - existence - humor - boot - thought - art - observation - woman - trade
+10	pseudo word	Business card	small mismatch	ilakaq - oxiv - egino - nlos - zokpx	i57daq - axpk - egino - iton - 3okpx
+10	pseudo word	Business card	small mismatch	zuxezi - rraq - isayi - jut4 - ugulm	zuxezi - rraq - isayi - jut4 - ugulm
+10	hex	Business card	small mismatch	2213 CDF7 B9E6 14F8  D6CF AB86 0C29 317D	2213 31FF D9E5 78F2  36EF AD86 0C29 317D
+10	hex	Business card	small mismatch	6A66 0A9B A637 F1FF  B4A5 4769 1A3D D32A	6A60 4E9B A637 F1FF  24C5 E862 1F3B D307
+10	english poem	Business card	small mismatch	his bright moon asks brokenly <br>her cloth takes round this cruel animal <br>my loud town reads brightly <br>the angry offer sings	his serious moon asks brokenly <br>her office takes sick this wet market <br>my loud town reads brightly <br>our wise offer sings
+10	english poem	Business card	small mismatch	the violent farm sleeps by our broken test publicly through my false camera <br>the general plant occurs to her smell drily	his violent farm laughs by that broken drink wisely across the strange camera <br>our general plant occurs to her smell softly
+10	english word	Phone	large mismatch	plate - birth - part - blow - hole - gold - shade - conscious - porter - change - future - wind - talk	plate - birth - part - blow - hole - gold - shade - conscious - porter - change - future - wind - talk
+10	english word	Phone	large mismatch	son - from - voice - slow - direction - pot - clock - teaching - meeting - earth - past - position - enough	son - from - voice - slow - direction - pot - clock - teaching - meeting - earth - past - position - enough
+10	pseudo word	Phone	large mismatch	doxcot - udep - redam - wojd - ucac2	jmyhtx - jdvz - a3jjm - ofef - ievvl
+10	pseudo word	Phone	large mismatch	cufqey - qaha - kepen - qaml - jugoy	cufqey - qaha - kepen - qaml - jugoy
+10	hex	Phone	large mismatch	8BEB 9396 D6D2 F18E  0CE2 7C48 8F2E 0737	8BEB 9396 D6D2 F18E  0CE2 7C48 8F2E 0737
+10	hex	Phone	large mismatch	5452 7099 8966 DB55  D7AA 276A F186 0ADB	DCF6 EACF 5CBC 79D7  7541 EA92 0147 44A3
+10	english poem	Phone	large mismatch	the wide size laughs at that stone badly <br>the fly smiles <br>his clock destroys <br>the old voice dies smoothly	the wide size laughs at that stone badly <br>the fly smiles <br>his clock destroys <br>the old voice dies smoothly
+10	english poem	Phone	large mismatch	this hard light kills after this tired brain <br>your dust closes under our past law <br>that worm washes strongly	this hard light kills after this tired brain <br>your dust closes under our past law <br>that worm washes strongly
+10	english word	Phone	small mismatch	screw - picture - music - rat - poor - stocking - thought - mind - near - island - low - roof - cheese	word - place - music - rat - poor - stocking - burn - mind - long - spade - low - roof - cheese
+10	english word	Phone	small mismatch	butter - move - public - power - detail - care - move - purpose - house - power - tomorrow - please - arm	butter - move - public - power - detail - care - move - purpose - house - power - tomorrow - please - arm
+10	pseudo word	Phone	small mismatch	owohir - knoy - bofpi - fabu - gfusu	r5ogir - sboy - zjf53 - fab4 - gfwsu
+10	pseudo word	Phone	small mismatch	lurusa - frak - ikale - emav - uzgxi	lurusa - frak - ikale - emav - uzgxi
+10	hex	Phone	small mismatch	67B3 83AB 5FB0 4024  CAFA 027A ED39 2D8B	E7BA C3AB 51B8 4C21  CA8A 073A ED32 DD8B
+10	hex	Phone	small mismatch	FDD3 1C39 261D C74B  07EA 59FC 643F 943D	FDD3 1939 2610 C74B  7C7C 59FB E83F 2435
+10	english poem	Phone	small mismatch	the meat burns this face to your jewel <br>my rough kick thinks <br>her stretch travels loudly <br>the fly becomes the power	the meat burns this face to your jewel <br>my rough kick thinks <br>her stretch travels loudly <br>the fly becomes the power
+10	english poem	Phone	small mismatch	his free copy rests by our door beneath her thin neck <br>his married fear pulls our spring tiredly <br>her serious feeling lets	his free copy rests by our door beneath her thin neck <br>his married fear pulls our spring tiredly <br>her serious feeling lets
+11	english word	Business card	large mismatch	rub - drink - though - water - grass - size - writing - sticky - knot - garden - care - walk - violent	clear - journey - angle - dirty - shock - in - true - green - delicate - potato - error - cotton - hand
+11	english word	Business card	large mismatch	young - garden - collar - rub - out - back - engine - instrument - at - paste - butter - tongue - for	young - garden - collar - rub - out - back - engine - instrument - at - paste - butter - tongue - for
+11	pseudo word	Business card	large mismatch	3ibome - yyes - usatu - talo - rurov	3ibome - yyes - usatu - talo - rurov
+11	pseudo word	Business card	large mismatch	uaxecq - ftud - lilar - odol - satuf	kegunq - omjt - pwac6 - oduz - lesaa
+11	hex	Business card	large mismatch	4322 2F02 E8FF F484  556E C594 C72D 13EB	B8C9 B497 A40D 4236  2C03 64C5 615D 610B
+11	hex	Business card	large mismatch	858E 32E8 8F75 C622  980B CEAD C7E6 FFDC	9539 E0CC C158 3086  1FA4 29F0 0BE2 A9FA
+11	english poem	Business card	large mismatch	my curtain presses greatly <br>the light prefers our bright profit equally <br>her purpose prepares tightly before your poor church	my curtain presses greatly <br>the light prefers our bright profit equally <br>her purpose prepares tightly before your poor church
+11	english poem	Business card	large mismatch	our camera brings your hat cruelly under our power <br>your fiction supports <br>her bag repeats his certain horn beneath his card	her control begins his poison brightly <br>this living boot is fixedly <br>his last sign goes beyond her body <br>the bird forgets
+11	english word	Business card	small mismatch	sign - near - pipe - there - manager - wax - education - out - dirty - law - strong - sense - thunder	sign - near - hair - there - manager - wax - circle - committee - knowledge - law - strong - tax - thunder
+11	english word	Business card	small mismatch	flame - new - though - knot - behavior - regular - jelly - boat - smile - like - long - tax - respect	flame - new - though - knot - behavior - regular - jelly - boat - smile - like - long - tax - respect
+11	pseudo word	Business card	small mismatch	coperr - ased - igmaw - owon - oyoyd	copelr - adpd - l7naw - okoa - onqyu
+11	pseudo word	Business card	small mismatch	viyinn - keya - yogzu - caqu - ewihh	viyinn - keya - yogzu - caqu - ewihh
+11	hex	Business card	small mismatch	0136 1511 7460 F640  0EAF 75D9 7244 2571	9136 1511 7465 FB48  013F C5D9 4494 1571
+11	hex	Business card	small mismatch	7E71 474E FCD4 7DFE  6F12 9DE6 4357 7F7E	2171 474B ECD4 ED7E  691C 9DA6 435B 3F7E
+11	english poem	Business card	small mismatch	this soap prefers freely around our steel <br>your angry bridge remembers that nose beside my dark roof <br>his week becomes	this soap prefers freely around our steel <br>your angry bridge remembers that nose beside my dark roof <br>his week becomes
+11	english poem	Business card	small mismatch	this desire asks slowly <br>that fold knows <br>her farm asks <br>the brain prepares brokenly beyond his place <br>your air laughs	this desire asks slowly <br>that fold knows <br>her farm asks <br>the brain prepares brokenly beyond his place <br>your air laughs
+11	english word	Phone	large mismatch	development - white - news - north - smooth - size - detail - scissors - potato - act - page - approval - wind	development - white - news - north - smooth - size - detail - scissors - potato - act - page - approval - wind
+11	english word	Phone	large mismatch	star - west - stretch - brain - fiction - true - desire - throat - winter - girl - send - then - voice	sleep - tail - strange - brain - new - desire - position - knife - support - feeble - second - respect - air
+11	pseudo word	Phone	large mismatch	abunba - deqa - hukoi - aasa - bozuv	au7adx - svbo - tzqfb - ueei - oqoz6
+11	pseudo word	Phone	large mismatch	lyuyex - biti - ljewe - dila - wudey	lyuyex - biti - ljewe - dila - wudey
+11	hex	Phone	large mismatch	8ECE E790 8C56 2A0F  B426 BFA7 9D9A 0A97	8ECE E790 8C56 2A0F  B426 BFA7 9D9A 0A97
+11	hex	Phone	large mismatch	2BED BF71 DE82 D0FD  FD51 CFDC 4A23 DAFF	0BC0 BF67 55C2 3C7A  2C4A 4C64 691E 7B76
+11	english poem	Phone	large mismatch	the complex wood plays her flat seed loudly among my smooth journey <br>our food hides on this print <br>her shelf hates	my week uses my nation <br>her self counts tightly <br>my sad step takes your foolish flag drily behind his expert
+11	english poem	Phone	large mismatch	his grey run shouts tiredly over your normal pin <br>his fat expert closes safely <br>the guide cleans this flat tongue	his grey run shouts tiredly over your normal pin <br>his fat expert closes safely <br>the guide cleans this flat tongue
+11	english word	Phone	small mismatch	tin - safe - effect - cake - linen - red - great - slope - blade - stone - bucket - open - cover	tin - safe - effect - cake - linen - red - great - slope - blade - stone - bucket - open - cover
+11	english word	Phone	small mismatch	coal - stretch - white - song - pot - floor - waste - effect - smell - edge - necessary - protest - canvas	coal - stretch - white - wash - pot - bucket - waste - ray - book - edge - necessary - protest - private
+11	pseudo word	Phone	small mismatch	icunid - fafa - curju - ruy7 - oasoc	i5un4d - raaa - ccrjg - eul7 - zpsos
+11	pseudo word	Phone	small mismatch	sduwib - vikw - buzew - huok - zatoy	sduwib - vikw - buzew - huok - zatoy
+11	hex	Phone	small mismatch	94D3 157A F1CE 2F76  7D2D C774 31FB 160B	94D3 157A F1CE 2F76  7D2D C774 31FB 160B
+11	hex	Phone	small mismatch	A65B 642D BE48 3F12  6FD5 F7B8 5C90 909A	A65B 642D BE48 3F12  6FD5 F7B8 5C90 909A
+11	english poem	Phone	small mismatch	her same tree jumps over his like letter inside this box <br>my flat whistle cooks my natural arch loudly across this powder	her same tree jumps over his like letter inside this box <br>my flat whistle cooks my natural arch loudly across this powder
+11	english poem	Phone	small mismatch	that meeting knows my bent rub wisely <br>her toe thinks readily <br>the pin repeats from this natural star <br>your stem pushes	this bread knows my true rub drily <br>his nation thinks clearly <br>my pin repeats from this natural star <br>your stem holds
+12	english word	Business card	large mismatch	blue - poor - bit - attraction - trick - jewel - move - tooth - record - same - yes - dead - full	almost - sheep - list - military - brother - twist - that - play - steam - line - tax - key - purpose
+12	english word	Business card	large mismatch	view - loose - as - purpose - government - bell - chemical - island - name - representative - cheese - year - property	sponge - sister - sand - direction - island - conscious - property - wet - fall - tin - mind - bird - chemical
+12	pseudo word	Business card	large mismatch	luqahr - wudi - vucoq - rniy - ukkeq	luqahr - wudi - vucoq - rniy - ukkeq
+12	pseudo word	Business card	large mismatch	qeruht - kuda - hazat - qmac - nefum	qeruht - kuda - hazat - qmac - nefum
+12	hex	Business card	large mismatch	85FD 1B98 E814 982C  CF73 E306 AFC0 CBD6	85FD 1B98 E814 982C  CF73 E306 AFC0 CBD6
+12	hex	Business card	large mismatch	73BD 040B 6958 3B91  139E CC70 C801 EEA0	73BD 040B 6958 3B91  139E CC70 C801 EEA0
+12	english poem	Business card	large mismatch	our cheap story treats our warm test <br>that bad milk calls <br>his request shouts falsely on my jump <br>your test reads	this free number wins with the sound <br>his snow speaks between my farm <br>my blade falls widely <br>my normal owner leaves
+12	english poem	Business card	large mismatch	this comb has safely below her violent weather <br>the fixed horn turns her cat round her basket <br>your waiting grass changes	your married power buys around his coal <br>your lazy regret throws softly in that wrong drawer <br>his drink pulls
+12	english word	Business card	small mismatch	from - pipe - come - false - father - thunder - trousers - blue - body - property - interest - bitter - cake	from - competition - come - false - father - thunder - credit - edge - body - property - interest - seem - rough
+12	english word	Business card	small mismatch	hole - sugar - size - yes - wrong - danger - hearing - fear - waiting - ball - pencil - thunder - small	hole - other - ring - yes - wrong - danger - mouth - fixed - grain - ball - pencil - thunder - small
+12	pseudo word	Business card	small mismatch	doruki - okaz - vmdev - ehan - emaro	6oruui - nkl7 - abdpq - bjan - elaro
+12	pseudo word	Business card	small mismatch	jonpzi - eluh - yisef - loqu - oboum	jonpzi - eluh - yisef - loqu - oboum
+12	hex	Business card	small mismatch	9739 3BC9 AAFF B49F  A0C4 EF30 014B 19D5	9739 3BC9 AAFF B49F  A0C4 EF30 014B 19D5
+12	hex	Business card	small mismatch	15AB ADF0 72E2 D430  4D7C E69C 9D5D 72A4	15AB ADF0 72E2 D430  4D7C E69C 9D5D 72A4
+12	english poem	Business card	small mismatch	our jewel pushes <br>our dead brain buys <br>her first rat compares my slow debt thinly <br>the tired disease plays	our jewel pushes <br>our dead brain buys <br>her first rat compares my slow debt thinly <br>the tired disease plays
+12	english poem	Business card	small mismatch	that warm disease listens bitterly on the private rest <br>her present twist becomes my red trade <br>my fat room knows	that warm disease listens bitterly on the deep spade <br>her round wire needs my sharp trade <br>my fat room arrives
+12	english word	Phone	large mismatch	hanging - comparison - nation - such - bit - effect - orange - number - wet - brush - rate - advertisement - shock	rest - able - cart - army - net - sleep - prison - why - jelly - porter - help - view - wise
+12	english word	Phone	large mismatch	payment - false - farm - sound - test - trade - boot - smile - red - approval - chin - grip - division	off - sun - attraction - he - damage - jelly - request - no - join - needle - sex - kick - brother
+12	pseudo word	Phone	large mismatch	vilipa - yihh - aapep - kneq - usomo	avfvap - nchy - dpui5 - cksz - sx6be
+12	pseudo word	Phone	large mismatch	2rober - coni - huvus - nmoh - iwede	7nxb6i - k2lq - xo2ux - 6usa - r5sow
+12	hex	Phone	large mismatch	8C14 B350 43F9 2109  A75B 0730 D0D0 37C3	8C14 B350 43F9 2109  A75B 0730 D0D0 37C3
+12	hex	Phone	large mismatch	0347 942A 74BA 8629  B987 3242 BD56 7EEB	0347 942A 74BA 8629  B987 3242 BD56 7EEB
+12	english poem	Phone	large mismatch	our violent work takes inside his island <br>the living stop gets after his screw <br>this blue force cries for his island	the like line teaches that arm <br>my simple pin stays upon the free glove angrily inside that sugar <br>the left waste pulls
+12	english poem	Phone	large mismatch	my edge comes solidly <br>this mass agrees drily <br>this note eats that bright seat brokenly <br>this red oil wins	your roll jumps our cold weather fixedly to that doubt <br>my slow page agrees <br>that pig visits that mine
+12	english word	Phone	small mismatch	stage - foot - secret - give - thin - old - about - idea - parcel - science - growth - building - root	stage - foot - secret - give - thin - old - about - idea - parcel - science - growth - building - root
+12	english word	Phone	small mismatch	neck - join - in - dead - secret - face - force - dog - part - addition - cloth - brake - knowledge	neck - loss - in - dead - nation - bit - force - dog - hospital - addition - cloth - brake - loud
+12	pseudo word	Phone	small mismatch	jukhed - apiy - osice - ehe5 - peyem	lulhgd - apiw - oox3j - the5 - imyim
+12	pseudo word	Phone	small mismatch	jleyot - 6xiw - uwufd - gavi - sacow	jleyot - 6xiw - uwufd - gavi - sacow
+12	hex	Phone	small mismatch	F10D 29CE 9A0A DD8F  CA08 E41A 25AF 29B6	F10B 88CE 900A DD6F  C4E8 EB3A 25AF C959
+12	hex	Phone	small mismatch	4112 CA04 64EF D6BE  D916 6864 2ACF ADBD	4112 CA1C 0AE0 D6B3  7916 6D4E 7BCF ADBD
+12	english poem	Phone	small mismatch	his open offer eats this public bird <br>our kind watch sings to the orange slowly <br>our snake prepares <br>the lazy stone promises	his open offer eats this public bird <br>our kind watch sings to the orange slowly <br>our snake prepares <br>the lazy stone promises
+12	english poem	Phone	small mismatch	the blue butter compares thinly <br>our whistle returns secretly <br>the small shade improves her fertile clock among our rough top	the blue butter compares thinly <br>our whistle returns secretly <br>the small shade improves her fertile clock among our rough top
+13	english word	Business card	large mismatch	country - writing - board - quality - motion - burn - much - sort - late - fold - all - wide - industry	country - writing - board - quality - motion - burn - much - sort - late - fold - all - wide - industry
+13	english word	Business card	large mismatch	dear - story - tongue - expansion - sticky - fact - earth - present - wire - very - man - destruction - instrument	name - such - summer - mind - expansion - long - porter - brain - match - seem - theory - automatic - animal
+13	pseudo word	Business card	large mismatch	atuzar - twuh - iraor - sori - anpaf	atuzar - twuh - iraor - sori - anpaf
+13	pseudo word	Business card	large mismatch	fitudo - iviv - uletn - cueo - alohi	uu5okt - 6fgs - 7enex - qabc - phicd
+13	hex	Business card	large mismatch	CF7C A21B 2259 F84E  674D 73A1 7792 AACF	CF7C A21B 2259 F84E  674D 73A1 7792 AACF
+13	hex	Business card	large mismatch	B386 6A2E CCEE 11EA  0AAF 87DE 4C42 C183	6B50 AE81 612C F8BF  C912 FB62 0FA9 2BA5
+13	english poem	Business card	large mismatch	her need takes your sick move beneath my station <br>the violent fight keeps the horn newly <br>that berry throws this look	her need takes your sick move beneath my station <br>the violent fight keeps the horn newly <br>that berry throws this look
+13	english poem	Business card	large mismatch	your pot cries darkly <br>the sad sugar listens beside his silk <br>our cruel fiction tells <br>her special cheese calls	this smooth desire shows <br>your complex wool visits this living bridge hardly <br>our like milk takes softly beneath the feeling
+13	english word	Business card	small mismatch	pocket - horse - under - hanging - round - dependent - look - chain - this - peace - loose - ball - pocket	pocket - horse - under - hanging - round - dependent - look - chain - this - peace - loose - ball - pocket
+13	english word	Business card	small mismatch	owner - offer - wine - brass - grass - elastic - stocking - silk - egg - fire - of - copper - army	owner - offer - wine - brass - grass - elastic - stocking - silk - egg - fire - of - copper - army
+13	pseudo word	Business card	small mismatch	ranitf - akij - juxut - 4bux - yadox	ranitf - akij - juxut - 4bux - yadox
+13	pseudo word	Business card	small mismatch	funhom - omih - mwono - luni - vitqu	vuwhsm - om3k - nwonr - 24ni - pitiu
+13	hex	Business card	small mismatch	0DB2 8FE8 79C7 EDBF  8074 BE08 B7DD 60EB	0DB0 EFA8 79CE 1DBF  8077 BF08 B5ED DD4B
+13	hex	Business card	small mismatch	D3B2 FC35 809E 5F2A  21DE E3D5 CCE0 7BEA	0386 EDCE 8099 5F2A  210E E3D5 CCEC 91EA
+13	english poem	Business card	small mismatch	our simple doubt comes to her shelf bitterly under that air <br>our wing jumps over her gold tightly <br>my sudden trade helps	our simple doubt comes to her shelf bitterly under that air <br>our wing jumps over her gold tightly <br>my sudden trade helps
+13	english poem	Business card	small mismatch	that branch listens to your wise shame over the bent line <br>this second rub sends this goat normally <br>his great fish agrees	that branch listens to your wise shame over the bent line <br>this second rub sends this goat normally <br>his great fish agrees
+13	english word	Phone	large mismatch	turn - present - first - but - kick - where - cow - amount - suggestion - grain - of - color - belief	turn - present - first - but - kick - where - cow - amount - suggestion - grain - of - color - belief
+13	english word	Phone	large mismatch	stage - feather - noise - curve - jelly - thing - physical - secret - question - seed - pocket - hospital - important	stage - feather - noise - curve - jelly - thing - physical - secret - question - seed - pocket - hospital - important
+13	pseudo word	Phone	large mismatch	wunixu - gura - nkewi - povo - ltuvu	wunixu - gura - nkewi - povo - ltuvu
+13	pseudo word	Phone	large mismatch	puqotr - zovy - zuwow - jike - esuhx	puqotr - zovy - zuwow - jike - esuhx
+13	hex	Phone	large mismatch	AC5E 2062 E185 C50E  FED9 5288 8B79 F09F	AC5E 2062 E185 C50E  FED9 5288 8B79 F09F
+13	hex	Phone	large mismatch	5694 6201 DE96 0E36  F195 4228 C4D3 D64D	C2F9 5D36 F13D 99E6  8329 3B80 0685 025D
+13	english poem	Phone	large mismatch	your day pulls this broken cow loudly behind her mass <br>my berry changes this sudden office <br>that wind comes to his page	this open design occurs to her bulb by this false knot <br>her history gets <br>my boot sleeps beyond this dear hammer
+13	english poem	Phone	large mismatch	the safe flight loses her fiction <br>this simple fire believes normally along our smooth prison <br>her hour sells that machine	the safe flight loses her fiction <br>this simple fire believes normally along our smooth prison <br>her hour sells that machine
+13	english word	Phone	small mismatch	bulb - fruit - past - come - plane - cord - hole - flower - special - before - short - scale - pin	brick - push - past - come - plane - education - hole - word - special - general - short - scale - pin
+13	english word	Phone	small mismatch	body - price - rod - value - lock - use - key - color - cloth - waste - cruel - sugar - chalk	body - price - rod - value - lock - use - key - color - cloth - waste - cruel - sugar - chalk
+13	pseudo word	Phone	small mismatch	haawof - kobe - isxer - jijz - uquxe	haawof - kobe - isxer - jijz - uquxe
+13	pseudo word	Phone	small mismatch	ayapyo - ggof - kuwas - edka - adevi	ayapyo - ggof - kuwas - edka - adevi
+13	hex	Phone	small mismatch	C4B9 C6BE 4CFF F91D  FBAD 5D73 E101 1A83	C1B9 C6BE 6CD9 F911  1A1B 5D73 E1A1 1C83
+13	hex	Phone	small mismatch	8330 E500 583C 2E03  95D5 53FD 9D16 C54C	9330 E50D 583C 29E3  D5D5 54FD BDCA CCB0
+13	english poem	Phone	small mismatch	this public needle sends loosely <br>our hollow stem finishes your second mass stiffly in this like rod <br>this lock sells	this public needle turns dearly <br>our hollow stem finishes your able door secretly in this like top <br>my attack sells
+13	english poem	Phone	small mismatch	my tax speaks to my last shake near your sock <br>this woman knows <br>my early wash becomes fully round your stick	my tax speaks to my last shake near your sock <br>this woman knows <br>my early wash becomes fully round your stick
+14	english word	Business card	large mismatch	and - with - boat - tooth - rain - window - cake - hearing - wheel - arm - ill - basin - need	cork - care - please - humor - tree - hole - transport - observation - hammer - warm - bag - noise - no
+14	english word	Business card	large mismatch	meal - white - common - slip - invention - well - motion - shoe - reason - rat - grip - heart - ice	size - death - breath - powder - advertisement - complete - south - top - increase - protest - scale - comparison - rub
+14	pseudo word	Business card	large mismatch	ujazap - asup - 3cfac - nasi - kelya	ujazap - asup - 3cfac - nasi - kelya
+14	pseudo word	Business card	large mismatch	samhis - yfuz - jomey - xaur - gahox	vc34l5 - tvip - npgu4 - zu5o - uwaxk
+14	hex	Business card	large mismatch	D8E4 3F65 E5AD 43C7  C885 F769 5D4E B7D5	D8E4 3F65 E5AD 43C7  C885 F769 5D4E B7D5
+14	hex	Business card	large mismatch	7747 F54C CEE8 4F4F  ED4B 9588 F54C A5D5	F61A 10B9 9653 EFDF  F96F 6A38 D669 3A8C
+14	english poem	Business card	large mismatch	that birth lies to our flat owner loudly <br>this fork laughs above our peace <br>our feeling gets fixedly against her wide library	that birth lies to our flat owner loudly <br>this fork laughs above our peace <br>our feeling gets fixedly against her wide library
+14	english poem	Business card	large mismatch	that hand begins beside our cloud <br>the foolish rule ends stiffly below our roll <br>our sense answers against her fertile blade	our room believes across our ready bridge <br>this medical snow continues sweetly <br>our boy lets the detail to my father
+14	english word	Business card	small mismatch	look - dear - force - see - beautiful - sheep - quality - iron - scissors - basket - jewel - lip - tight	look - dear - force - see - beautiful - sheep - quality - iron - scissors - basket - jewel - lip - tight
+14	english word	Business card	small mismatch	plant - wine - prose - pipe - frequent - feeble - potato - oil - rain - kick - dry - limit - copper	plant - wine - prose - pipe - frequent - feeble - potato - oil - rain - kick - dry - limit - copper
+14	pseudo word	Business card	small mismatch	warunu - uquq - xizaz - wpec - nhjiv	za3keu - uzlq - xgzaz - wvdv - 5hjmv
+14	pseudo word	Business card	small mismatch	belfuh - muva - epvan - unuw - ivewj	belfuh - muva - epvan - unuw - ivewj
+14	hex	Business card	small mismatch	D9A2 AB5B 9E0C 9E4F  A827 8D10 05DC 336D	CFA1 AB5B 9E8F 9E4F  A828 8D10 05DB 23C1
+14	hex	Business card	small mismatch	C560 31FA D616 D752  C561 7F15 F829 8996	C560 31FA E6B6 4CB2  D55F 7215 F129 3496
+14	english poem	Business card	small mismatch	your mixed land comes beyond this rat <br>this wise stem sings at this ready bottle <br>her private tooth hurts her seed	your mixed land comes beyond this rat <br>this wise stem sings at this ready bottle <br>her private tooth hurts her seed
+14	english poem	Business card	small mismatch	her way holds <br>this bad skin puts the equal cloth <br>this car keeps at your coal <br>that apple prefers her grass	her way holds <br>this bad skin puts the equal cloth <br>this car keeps at your coal <br>that apple prefers her grass
+14	english word	Phone	large mismatch	kick - prison - relation - control - sign - history - shade - advertisement - farm - window - mass - loss - slip	mother - awake - such - rough - heat - white - rate - foolish - profit - join - liquid - as - rough
+14	english word	Phone	large mismatch	addition - measure - winter - rail - wheel - air - process - curve - tail - elastic - land - blue - range	beautiful - soup - forward - straight - shelf - with - hate - theory - disease - possible - be - bite - before
+14	pseudo word	Phone	large mismatch	oxecuq - zuah - uqosi - qmem - afumo	oxecuq - zuah - uqosi - qmem - afumo
+14	pseudo word	Phone	large mismatch	uwizul - xa7x - ovzup - yeto - efoso	guegdc - awbw - on27e - 5di5 - wndih
+14	hex	Phone	large mismatch	9F3A E76E 2FFE 9894  2C21 B9E3 F469 102D	9F3A E76E 2FFE 9894  2C21 B9E3 F469 102D
+14	hex	Phone	large mismatch	8AAA 8373 8169 B4C5  EC00 87CF 1258 4A65	4EA4 B07A DEDF 05CD  BB0E 9FCF B242 09F7
+14	english poem	Phone	large mismatch	her table wins freely upon her foolish glass <br>her narrow lock costs the great reason equally <br>your comb counts my glass	her table wins freely upon her foolish glass <br>her narrow lock costs the great reason equally <br>your comb counts my glass
+14	english poem	Phone	large mismatch	this sick shock hates simply <br>his violent lip offers <br>my free glove agrees <br>my second finger loses her bell	his wine hides before this full glass <br>this sex plays my sort <br>our yellow father thinks in your thick shoe
+14	english word	Phone	small mismatch	skin - may - cover - agreement - education - female - butter - monkey - till - chief - drain - dog - plough/plow	skin - may - cover - agreement - education - female - butter - monkey - till - chief - drain - dog - plough/plow
+14	english word	Phone	small mismatch	list - cover - knot - bite - spring - event - rod - payment - give - history - sheep - detail - son	list - cover - knot - bite - spring - event - rod - payment - give - history - sheep - detail - son
+14	pseudo word	Phone	small mismatch	ojihas - zupx - igexm - xuje - junoa	gpihgs - h6px - idexm - lumw - urnob
+14	pseudo word	Phone	small mismatch	owenuh - ilem - idbih - jim5 - iwifg	vwoibr - iie5 - blbih - jzmw - iwqfg
+14	hex	Phone	small mismatch	2E16 9A83 38D8 63AF  C1C6 324D F9B2 8C13	2736 4A83 16D8 63AF  51C7 324D E9B7 1C07
+14	hex	Phone	small mismatch	0B07 41D7 18AD 6C34  4658 B2E7 C574 119B	46D7 41D4 38AF 2C34  4659 B2E1 C53F 179B
+14	english poem	Phone	small mismatch	that water cuts your apple tiredly <br>his hat kills <br>that love ends her safe land loudly <br>that play prefers my taste	that water cuts your apple tiredly <br>his hat kills <br>that love ends her safe land loudly <br>that play prefers my taste
+14	english poem	Phone	small mismatch	my sort needs the river safely <br>our scale fills prettily <br>this cord sells her linen towards that angry detail	my sort needs the wire safely <br>the mine fills prettily <br>this cord forgets his linen towards this late bell
