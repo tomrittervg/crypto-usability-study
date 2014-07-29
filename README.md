@@ -14,9 +14,9 @@ We have a bajillion things we'd like to run a usability study on, but to start s
 We suggest the following types of fingerprint types.  There are certainly more, but the more we try to test the bigger we're making it.
 
  1. Hexadecimal digits ala PGP fingerprints: 8ACD 146E A94C EB12 E4EA  6915 66A1 0918 9B79 658F
- 2. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
- 3. English Words (For example: bridge - late - sister - plane - brush - error - cup - soup - organization - great - quality - offer - dead)
- 4. English poems (See [example implementation](https://github.com/akwizgran/basic-english) and [example comparison](https://moderncrypto.org/mail-archive/messaging/2014/000125.html)
+ 2. English Words (For example: bridge - late - sister - plane - brush - error - cup - soup - organization - great - quality - offer - dead)
+ 3. English poems (See [example implementation](https://github.com/akwizgran/basic-english) and [example comparison](https://moderncrypto.org/mail-archive/messaging/2014/000125.html) 
+ 4. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
  5. Visual Fingerprints (Using OpenSSH's [visual host keys](http://www.kcbug.org/?p=18))
 
 ## Comparison Mechanisms
@@ -64,6 +64,42 @@ To create the computationally chosen flaw, we will take a target fingerprint and
 
 To avoid having every subject see an exact distribution of match and non-match for each type, each subject will get a randomly selected set of tests. The goal is that over N subjects, we will get a statistically valid and even distribution of trials for each category.
      
+## Test generation
+###Demo
+ 1. `cd pseudoword_testdata; make; cd ..`
+ 2. `python demoTestData.py`
+ Generates
+ ```
+ #1. Hexadecimal digits ala PGP fingerprints
+ 9F7B726D789BEB58D3E2FD79131C92AC
+ 397B02CD789BE55033E2BD7B121F52AC
+ #2. English Words
+ living - plate - receipt - limit - rat - organization - toe - rub - road - before - attraction - light - scissors
+ living - discovery - receipt - limit - church - organization - cart - exchange - road - surprise - attraction - light - scissors
+
+ #3. English poems
+ his dead system rests widely from her true map
+ this flat power decides on the tight walk with his shelf
+
+
+ her rough system sits widely from her round map
+ this clear pull wins across your smooth walk to our shelf
+
+ #4. Pseudowords (For example: djijeh - isoy - dacif - qipc - buyowa)
+ toswoc - ivuf - nayan - pem2 - atakg
+ 5esiku - ivug - aa5an - pewh - ataog
+ ```
+ 
+###Generation
+ `genTestData.py` has code to generate tests for N pairs of participants. An example with N=15 
+  `python ./genTestData.py 15 > testData.csv &`
+  
+`testData.csv` then has, one per line
+ `#pair   fingerprint     comparison      error   Alice   Bob     judgement`
+ with judgement yet to be filled out. Pair is a pair id, fingerprint is one of the fingerprint types (currently just supporting 4), comparison is Phone or Business card, Error rate is `small mismatch` (fingerprints are either exact or have a small mismatch with 50/50 odds) or `large mismatch` (fingerprints are either exact or stastically randomly different with 50/50 ods). For each combination of these variabes, 2x trials are generated for a total of 32 per testing pair of participants.
+ 
+ 
+
 ## Rejected Ideas
 
 ### The 'Head Fake Approach
