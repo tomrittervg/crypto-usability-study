@@ -61,11 +61,9 @@ def genData():
     fingerprints.append(reconstruct_to_poem(base))
 
     #Now we want to simulate an adversary that can perform a 2^80 attack. 
-    #   This is not perfectly accurate, as the structure of the poem in fact 
-    #   encodes some bits (Between 17 and 23 usually).
-    #   So we're going to round that to 20, and assume the attacker 'spends' 20 
-    #   of his bits achieving the same grammatical structure.  Again, not perfectly 
-    #   accurate, but hpefully it won't be too far off.
+    #   The structure of the poem encodes some bits (Between 17 and 23 usually).
+    #   The exact number doesn't matter, because we mutate 48 bits of words, and
+    #   whatever is left is the combined structure and words bits
     randomly_changed = base
     types = disassemble_type(base)
     bits = 0 #Start at 0 bits
